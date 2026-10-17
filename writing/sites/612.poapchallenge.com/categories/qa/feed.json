@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "qa on 612 POAP Challenge",
+  "icon": "https://avatars.micro.blog/avatars/2025/51/1798356.jpg",
+  "home_page_url": "https://612.poapchallenge.com/",
+  "feed_url": "https://612.poapchallenge.com/feed.json",
+  "items": [
+  ]
+}

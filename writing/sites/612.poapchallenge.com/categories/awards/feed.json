@@ -1,0 +1,473 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Awards on 612 POAP Challenge",
+  "icon": "https://avatars.micro.blog/avatars/2025/51/1798356.jpg",
+  "home_page_url": "https://612.poapchallenge.com/",
+  "feed_url": "https://612.poapchallenge.com/feed.json",
+  "items": [
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150815.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441759\">7441759</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x74dbbcb9c08c51b38510d130d928e1e8c68eda7c\">mazie.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/62b8006065.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:08:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150815.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150805.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441758\">7441758</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xf1c562ebc3ab6221a1f0e10a94a1e484efd1508e\">tammy.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/44693e49d9.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:08:05-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150805.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150755.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441757\">7441757</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x6493db62998997134e0451cacd32360858f9a3d6\">tyler.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/e90d7b2249.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:07:55-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150755.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150630.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441755\">7441755</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xf1c562ebc3ab6221a1f0e10a94a1e484efd1508e\">tammy.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/42bfe98ad2.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:06:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150630.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150615.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441754\">7441754</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x74dbbcb9c08c51b38510d130d928e1e8c68eda7c\">mazie.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/d69b31d197.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:06:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150615.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150610.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441753\">7441753</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x6493db62998997134e0451cacd32360858f9a3d6\">tyler.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/f3fcc23d84.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:06:10-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150610.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150410.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441752\">7441752</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x74dbbcb9c08c51b38510d130d928e1e8c68eda7c\">mazie.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/50f440519b.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:04:10-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150410.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150230.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441751\">7441751</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xf1c562ebc3ab6221a1f0e10a94a1e484efd1508e\">tammy.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/b80ee7e89b.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:02:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150230.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150225.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441750\">7441750</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x74dbbcb9c08c51b38510d130d928e1e8c68eda7c\">mazie.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/9a71741304.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:02:25-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150225.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/150215.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441749\">7441749</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x6493db62998997134e0451cacd32360858f9a3d6\">tyler.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/d567088054.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T15:02:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/150215.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/145925.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441747\">7441747</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x8c45420a012c9db585a8b7aca874e4c485d7ce24\">0x8c45...ce24</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/597bb0b28b.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T14:59:25-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/145925.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/143215.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441728\">7441728</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xe8eb6ab2cdebda21a5b58abfcc2f1fbc82ca8ce4\">ikeating.onpoap.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/ecc31aee1d.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T14:32:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/143215.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/143200.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441727\">7441727</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xf1c562ebc3ab6221a1f0e10a94a1e484efd1508e\">tammy.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/cd56f41df2.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T14:32:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/143200.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/143115.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441726\">7441726</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x74dbbcb9c08c51b38510d130d928e1e8c68eda7c\">mazie.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/e0dbde88b4.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T14:31:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/143115.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/143025.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441725\">7441725</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x6493db62998997134e0451cacd32360858f9a3d6\">tyler.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/29a9f97d9d.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T14:30:25-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/143025.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/09/01/142910.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441724\">7441724</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x197e6ff938c80ae931b02f02dac9aee96c54a443\">0x197e...a443</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/5f7bd09f9f.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-09-01T14:29:10-05:00",
+        "url": "https://612.poapchallenge.com/2025/09/01/142910.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/31/215100.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441558\">7441558</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x897e6081047823fbf57912fa7b378db0a8e7b962\">halaas.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/e16d223c28.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-31T21:51:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/31/215100.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/31/215000.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441557\">7441557</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x897e6081047823fbf57912fa7b378db0a8e7b962\">halaas.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/2396550a2e.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-31T21:50:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/31/215000.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/31/214955.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441556\">7441556</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x17470261d36fd5f3c6d19e750f6f6f7b389df357\">ericmwalk.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/45368cc3ad.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-31T21:49:55-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/31/214955.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/31/214755.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441555\">7441555</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x897e6081047823fbf57912fa7b378db0a8e7b962\">halaas.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/3697610730.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-31T21:47:55-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/31/214755.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/31/214605.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441554\">7441554</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x897e6081047823fbf57912fa7b378db0a8e7b962\">halaas.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/3561052cef.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-31T21:46:05-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/31/214605.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/163840.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441198\">7441198</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x6493db62998997134e0451cacd32360858f9a3d6\">tyler.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/98b55b3058.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:38:40-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/163840.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/163810.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441196\">7441196</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xf1c562ebc3ab6221a1f0e10a94a1e484efd1508e\">tammy.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/b88be29c98.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:38:10-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/163810.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/163200.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441195\">7441195</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29\">poap.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/cb52cc960b.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:32:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/163200.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/163135.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441194\">7441194</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xb1df4db288d7e65f41ac89970d4491ee6ad9424e\">crypto2038.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/fc9118a3df.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:31:35-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/163135.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/163020.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441193\">7441193</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xb1df4db288d7e65f41ac89970d4491ee6ad9424e\">crypto2038.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/3ea3ab6b55.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:30:20-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/163020.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/163000.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441192\">7441192</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29\">poap.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/93bb7cedd4.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:30:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/163000.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/162925.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441191\">7441191</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x897e6081047823fbf57912fa7b378db0a8e7b962\">halaas.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/78612a071c.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:29:25-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/162925.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/162805.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441190\">7441190</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xb1df4db288d7e65f41ac89970d4491ee6ad9424e\">crypto2038.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/65e195e4cb.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:28:05-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/162805.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/162750.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441189\">7441189</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29\">poap.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/b8dd26a276.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:27:50-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/162750.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/162700.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441188\">7441188</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xb1df4db288d7e65f41ac89970d4491ee6ad9424e\">crypto2038.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/2ee1036417.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:27:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/162700.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/162625.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441187\">7441187</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29\">poap.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/58839de44d.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:26:25-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/162625.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/30/162415.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7441186\">7441186</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xb1df4db288d7e65f41ac89970d4491ee6ad9424e\">crypto2038.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/79ac4b87c5.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-30T16:24:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/30/162415.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/26/211035.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7438411\">7438411</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x74dbbcb9c08c51b38510d130d928e1e8c68eda7c\">mazie.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/82c309148f.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-26T21:10:35-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/26/211035.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/17/141135.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7409080\">7409080</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x27c911e0a7c22eb489b027e3342f3199ff29acad\">marknorgren.onpoap.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/59eaeeb864.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-17T14:11:35-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/17/141135.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/17/141010.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7409079\">7409079</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x6493db62998997134e0451cacd32360858f9a3d6\">tyler.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/ee8e025729.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-17T14:10:10-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/17/141010.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/17/140950.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7409078\">7409078</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xf1c562ebc3ab6221a1f0e10a94a1e484efd1508e\">tammy.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/272262f546.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-17T14:09:50-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/17/140950.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/17/140930.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7409077\">7409077</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29\">poap.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/51f67c9071.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-17T14:09:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/17/140930.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/17/140730.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7409075\">7409075</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x27c911e0a7c22eb489b027e3342f3199ff29acad\">marknorgren.onpoap.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/3c114fdff7.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-17T14:07:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/17/140730.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/17/140620.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7409074\">7409074</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x27c911e0a7c22eb489b027e3342f3199ff29acad\">marknorgren.onpoap.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/c945229912.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-17T14:06:20-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/17/140620.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/10/212315.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7405640\">7405640</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x27c911e0a7c22eb489b027e3342f3199ff29acad\">marknorgren.onpoap.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/25e03e8417.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-10T21:23:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/10/212315.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/08/10/212100.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7405639\">7405639</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x27c911e0a7c22eb489b027e3342f3199ff29acad\">marknorgren.onpoap.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/2106515a15.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-08-10T21:21:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/08/10/212100.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/23/065040.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7394411\">7394411</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xeb63f09b3a6feff24427f935ade541c1f3b1d927\">0xeb63...d927</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<p><a href=\"https://612.poapchallenge.com/2025/07/20/we-have-our-very-first.html\">Congratulations to Surya</a> &ndash; another winner of the <strong>612 POAP Challenge</strong>!</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/f223d09372.png\">\n",
+        "date_published": "2025-07-23T06:50:40-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/23/065040.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/23/poap-claimed-by-xebd-at.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7394410\">7394410</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xeb63f09b3a6feff24427f935ade541c1f3b1d927\">0xeb63...d927</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/d79b019423.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-23T06:49:45-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/23/poap-claimed-by-xebd-at.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/215530.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393445\">7393445</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/quinnchrest.eth\">quinnchrest.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190903\">612 POAP Challenge - Collected Them All!</a></strong>.</p>\n<p>Congratulations <a href=\"https://micro.blog/quinntchrest\">@quinntchrest</a>!</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/79877f701e.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T21:55:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/215530.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/215230.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393444\">7393444</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xeb63f09b3a6feff24427f935ade541c1f3b1d927\">0xeb63...d927</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/38e232415e.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T21:52:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/215230.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/215215.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393443\">7393443</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/quinnchrest.eth\">quinnchrest.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190902\">612 POAP Challenge - Minneapolis Marvel</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/9d94e10d04.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T21:52:15-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/215215.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/215125.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393442\">7393442</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xeb63f09b3a6feff24427f935ade541c1f3b1d927\">0xeb63...d927</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/1e428f9112.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T21:51:25-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/215125.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/214905.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393441\">7393441</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xeb63f09b3a6feff24427f935ade541c1f3b1d927\">0xeb63...d927</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/f1f07f97e7.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T21:49:05-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/214905.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/214830.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393440\">7393440</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/quinnchrest.eth\">quinnchrest.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/c7d7c0f567.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T21:48:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/214830.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/214730.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393439\">7393439</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xeb63f09b3a6feff24427f935ade541c1f3b1d927\">0xeb63...d927</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/5fe6dd268f.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T21:47:30-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/214730.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/074205.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393197\">7393197</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/quinnchrest.eth\">quinnchrest.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/662aec9a4c.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T07:42:05-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/074205.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/poap-claimed-by-marknorgrenonpoapeth-at.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393196\">7393196</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x27c911e0a7c22eb489b027e3342f3199ff29acad\">marknorgren.onpoap.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/180538c90e.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T07:41:35-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/poap-claimed-by-marknorgrenonpoapeth-at.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/074035.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393195\">7393195</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/quinnchrest.eth\">quinnchrest.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190900\">612 POAP Challenge - Culture Collector</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/72477adb8a.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T07:40:35-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/074035.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/07/20/poap-claimed-by-xac-at.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7393193\">7393193</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/quinnchrest.eth\">quinnchrest.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/91e096be6a.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-07-20T07:39:05-05:00",
+        "url": "https://612.poapchallenge.com/2025/07/20/poap-claimed-by-xac-at.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/06/29/205320.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7379714\">7379714</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/halaas.eth\">halaas.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190899\">612 POAP Challenge - Bridge Builder</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/86420dfb73.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-06-29T20:53:20-05:00",
+        "url": "https://612.poapchallenge.com/2025/06/29/205320.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/06/24/poap-claimed-by-cryptoeth-at.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7375938\">7375938</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0xb1df4db288d7e65f41ac89970d4491ee6ad9424e\">crypto2038.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190901\">612 POAP Challenge - Lake Lover</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/63fcc445d6.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-06-24T15:42:35-05:00",
+        "url": "https://612.poapchallenge.com/2025/06/24/poap-claimed-by-cryptoeth-at.html",
+        "tags": ["Claims","Awards"]
+      },
+      {
+        "id": "http://612poapchallenge.micro.blog/2025/06/11/poap-claimed-by-poapthingelstadeth-at.html",
+        
+        "content_html": "<p>POAP <a href=\"https://collectors.poap.xyz/token/7369497\">7369497</a> claimed by <strong><a href=\"https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29\">poap.thingelstad.eth</a></strong> at <strong><a href=\"https://poap.gallery/drops/190898\">612 POAP Challenge - Architecture Aficionado</a></strong>.</p>\n<img src=\"https://612.poapchallenge.com/uploads/2025/c7904ef926.png\" width=\"500\" height=\"500\" />\n",
+        "date_published": "2025-06-11T21:14:00-05:00",
+        "url": "https://612.poapchallenge.com/2025/06/11/poap-claimed-by-poapthingelstadeth-at.html",
+        "tags": ["Claims","Awards"]
+      }
+  ]
+}
