@@ -70,7 +70,6 @@ def short(a): return a[:6] + "…" + a[-4:]
 created = {d["id"]: d for d in load("compass/created_drops.json")}
 collected = load("compass/collected.json")
 tokens = load("compass/created_drop_tokens.json")
-moments = load("compass/moments.json")
 ens = load("network/ens.json")
 events = load("timeline/events.json")
 writing = load("writing/timeline.json")["rows"]
@@ -120,7 +119,6 @@ collectors_of = collections.defaultdict(list)
 for a in people:
     for d, when in holds[a].items(): collectors_of[d].append((when, a))
 own_token = {p["drop_id"]: p["id"] for p in collected if p["drop_id"] in created}
-moments_by_drop = collections.Counter(m["drop_id"] for m in moments)
 bdays = sorted(d for d in created if series_of(created[d]["name"]) == "birthday")
 name_of = lambda a: ens.get(a, {}).get("ens_primary") or None
 
@@ -137,7 +135,7 @@ for d in sorted(created.values(), key=lambda d: d["start_date"] or ""):
         "supply": supply.get(d["id"], 0), "mints": mint_count[d["id"]], "collectors": len(c),
         "first_mint": min(c)[0] if c else None, "last_mint": max(c)[0] if c else None,
         "reserved": (d.get("email_claims_stats") or {}).get("reserved", 0),
-        "moments": moments_by_drop.get(d["id"], 0), "own_token": own_token.get(d["id"]),
+        "own_token": own_token.get(d["id"]),
         "posts": sorted(posts_by_drop.get(d["id"], []), key=lambda r: r["date"]),
     })
 
@@ -163,7 +161,9 @@ ppl = [{"address": a, "ens": name_of(a), "label": name_of(a) or short(a), "avata
 mints = [{"person": a, "drop": d, "minted": w} for a in people for d, w in sorted(holds[a].items(), key=lambda x: x[1])]
 
 # events.json: the timeline plus POAP's milestones.
-evs = [e for e in events if e["kind"] != "mint"]  # mint posts are attached to tokens
+# Mint posts are attached to tokens. POAP Moments are left out of the time capsule
+# entirely (Jamie, 2026-10-17: an add-on that was never fully adopted).
+evs = [e for e in events if e["kind"] not in ("mint", "moment")]
 for date, title in WORLD: evs.append({"date": iso(date), "side": "world", "kind": "milestone", "title": title})
 evs.sort(key=lambda e: e["date"])
 
@@ -174,12 +174,6 @@ for line in open(os.path.join(ROOT, "writing/ESSAYS.md")):
     if len(cells) == 5 and cells[0].isdigit():
         advice.append({"n": int(cells[0]), "suggestion": cells[1], "source": cells[2], "words": cells[3].strip('"'), "shipped": cells[4]})
 wr = {"items": [{**w, "date": iso(w["date"])} for w in writing if w["kind"] != "mint"], "advice": advice}
-
-# moments.json: text and authorship, with the author's name (Jamie's decision, 2026-10-17).
-mom = [{"id": m["id"], "drop": m["drop_id"], "date": iso(m["created_on"]), "author": (m["author"] or "").lower(),
-        "author_label": WALLETS.get((m["author"] or "").lower()) or name_of((m["author"] or "").lower()) or short(m["author"] or ZERO),
-        "by_jamie": (m["author"] or "").lower() in JAMIE, "text": (m.get("description") or "").strip() or None,
-        "media": len(m.get("media") or [])} for m in sorted(moments, key=lambda m: m["created_on"])]
 
 # series.json
 ser = [{"slug": s, "label": l, "color": c, "drops": [d["id"] for d in drops if d["series"] == s]} for s, l, c, _ in SERIES]
@@ -221,11 +215,11 @@ meta = {"archive": "jthingelstad/poap-archive", "commit": commit, "exported": da
         "captured": "2026-10-17", "wallets": WALLETS,
         "counts": {"drops": len(drops), "tokens": len(toks), "tokens_from_others": sum(1 for t in toks if not t["own_drop"]),
                    "people": len(ppl), "mints": len(mints), "events": len(evs), "writing": len(wr["items"]), "advice": len(advice),
-                   "moments": len(mom), "artwork": len(artwork)}}
+                   "artwork": len(artwork)}}
 
 os.makedirs(OUT, exist_ok=True)
 for name, data in [("drops", drops), ("tokens", toks), ("people", ppl), ("mints", mints), ("events", evs), ("writing", wr),
-                   ("moments", mom), ("series", ser), ("layout", layout), ("artwork", sorted(artwork.values(), key=lambda a: a["drop"])),
+                   ("series", ser), ("layout", layout), ("artwork", sorted(artwork.values(), key=lambda a: a["drop"])),
                    ("export", meta)]:
     with open(os.path.join(OUT, f"{name}.json"), "w") as f:
         json.dump(data, f, indent=1, ensure_ascii=False); f.write("\n")

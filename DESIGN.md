@@ -102,13 +102,12 @@ the two prototypes are the spec for what it must contain.
 
 | File | Rows | What |
 |---|---|---|
-| `drops.json` | 130 | id, name, series slug, event date, created date, city, virtual, description, artwork key, mint count, collector count, first and last mint, moments count, Jamie's own token id, Jamie's posts about it |
+| `drops.json` | 130 | id, name, series slug, event date, created date, city, virtual, description, artwork key, mint count, collector count, first and last mint, Jamie's own token id, Jamie's posts about it |
 | `tokens.json` | 259 | token id, drop (id, name, artwork key, supply), minted date, wallet, chain, Jamie's mint post, own-drop flag |
 | `people.json` | 639 | address, ENS name, total POAPs, drops held with first mint date, birthdays attended, 612 finish time |
 | `mints.json` | 2,072 | person, drop, time: the edges |
 | `events.json` | 3,305 | the timeline rows as today, plus the POAP company milestones with `side: world` |
 | `writing.json` | 471 | essays, Weekly Thing issues, announcements, the 25-row advice table with "shipped" |
-| `moments.json` | 266 | drop, author (address and ENS), date, text, media count; photos where Jamie supplies them |
 | `series.json` | 13 | slug, label, color, drop ids, description |
 | `layout.json` | 769 | node positions for the network, computed here with numpy so the site build needs no numpy |
 | `media.json` | about 900 | every published key with SHA-256, width, height and MIME type |
@@ -125,7 +124,7 @@ Fixed now, because Tinylytics kudos, cross-links and the sitemap depend on them.
 /                       Home: the six chapters, the numbers, the five essays
 /timeline/              All years (the prototype)
 /timeline/2023/         One year
-/drops/<id>/            One drop Jamie made: both sides, collectors, moments, kudos
+/drops/<id>/            One drop Jamie made: both sides, collectors, kudos
 /tokens/<id>/           One token Jamie collected from someone else's drop
 /people/<address>/      One person: ENS name as title, their path through Jamie's drops
 /network/               The graph (the prototype)
@@ -148,7 +147,7 @@ The URL scheme in section 3 is the map. What each page holds:
 | `/collected/` | Collector view: 259 tokens, grid by year, firsts, rarities, places |
 | `/tokens/<id>/` | One token from someone else's drop: art, the drop, when and where, Jamie's mint post |
 | `/issued/` | Issuer view: 130 drops in a dozen series, mint totals and curves |
-| `/drops/<id>/` | One drop Jamie made: art, description, mint curve, moments with authors, posts, collectors by name, kudos |
+| `/drops/<id>/` | One drop Jamie made: art, description, mint curve, posts, collectors by name, kudos |
 | `/people/<address>/` | One person: ENS name, total POAPs, their path through Jamie's drops |
 | `/series/<slug>/` | Birthdays, Weekly Thing, 612 Challenge, Family, SPS, Minnebar, Things 4 Good, You've met Jamie, Community |
 | `/network/` | The graph (prototype: `capsule/network.html`), the on-ramp, the regulars, the 612 finishers |
@@ -190,7 +189,6 @@ Things the prototype leaves for the real build:
 - Per-year pages. The single page is 190 KB of HTML and lazy-loads 260 images; fine for a
   prototype, slow on a phone over cellular.
 - A filter by series and by place (in person or virtual). The side toggles exist.
-- Moments on collected drops (13) and moments by others on Jamie's drops (185 of 253).
 - The 2026 ending needs an essay. See section 7.
 
 ## 6. Collector and issuer views
@@ -285,14 +283,13 @@ POAP itself did. The network prototype does this. The options that were on the t
 
 Related calls that follow from it:
 
-- Moments written by others (185, of which 29 have text and 184 had photos): quote the
-  text without the author, or not at all.
 - Drop pages: show a collectors list, a count, or a mint curve only.
 - Jamie's own four wallets are already in the README; the about page can list them.
 - `research/interactions-PRIVATE.md` never appears, in any form. The POAP company page
   cites only the public sources in `research/poap-company.md`.
 
-Moments written by others are quoted with their author's name (Jamie, 2026-10-17).
+POAP Moments are left out entirely (Jamie, 2026-10-17): an add-on to the protocol that
+was never fully adopted. `compass/moments.json` stays in the archive as captured.
 
 ## 9. Voice
 
@@ -318,10 +315,8 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
 
 ## 10. Lost things and gaps
 
-- **Moment photos.** 263 media records, none served. 79 were posted by Jamie (in 81 moments), with
-  timestamps to the second. Export from Photos by date range and match on time; the
-  capsule can then show Jamie's photos on the drop pages. The other 184 belong to other
-  people and are gone unless they share them.
+- **Moment photos.** Gone from POAP's servers. Moments are not in the time capsule
+  (Jamie, 2026-10-17), so they are not being recovered.
 - **Drops Jamie may have missed.** 130 came from the POAP Events page and the seven
   collections. The snapshot has no issuer column, and Compass needs an issuer id Jamie
   does not have. A cheap check: search the full `poap.sqlite` for drops whose
@@ -392,11 +387,10 @@ pages exist.
 Time capsule decisions:
 	- Privacy: C, ENS name or shortened address @done
 	- Domain: poap.thingelstad.xyz @done
-	- Moments by others: quote with the author's name @done
-	- Form: Astro in a new repo jthingelstad/poap.thingelstad.xyz, on the nnxyz pattern (recommended; 11ty keeps the same contract and URLs)
+	- Moments: left out of the time capsule entirely @done
+	- Form: Astro in jthingelstad/poap.thingelstad.xyz, on the nnxyz pattern @done
 	- Tinylytics: site 3838, embed nQYJ5URe6Y3umkYW7HQN @done
 	- Chapter titles and quotes: keep or rewrite the six drafts in build_capsule.py
-	- Export moment photos from Photos for the 81 you posted (timestamps in compass/moments.json)
 	- Write the closing essay on the wind-down
 	- Name: POAP, Proof of a Person @done
 	- Confirm whether 2026-07-31 should appear as "the sunset" or as "the last drop"

@@ -51,8 +51,8 @@ The full snapshot zip is also in `s3://poap-archive-999153317627-us-east-1/snaps
 ## Gaps
 
 - **Moment photos.** The 86 media records in `moments.json` (81 posted by Jamie) point at
-  keys whose host no longer serves them (`media.poap.tech` returns a Cloudflare 530). The
-  originals are probably in Jamie's Photos library.
+  keys whose host no longer serves them (`media.poap.tech` returns a Cloudflare 530).
+  Moments are not part of the time capsule (Jamie, 2026-10-17), so they stay as captured.
 - **Drops Jamie created** come from two lists: the 82 on the thingelstad.com POAP Events
   page and the 48 more found in Jamie's 7 collections. A few collection drops may be other
   people's drops Jamie curated (r/POAP, some Olson Family Vacation ones). A drop on neither

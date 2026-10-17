@@ -54,7 +54,6 @@ drop_posts = collections.defaultdict(list)
 for w in events:
     if w["kind"] == "drop-announcement":
         for d in w.get("drop_ids", []): drop_posts[int(d)].append(w)
-moments = collections.Counter(e["drop_id"] for e in events if e["kind"] == "moment")
 people_by_year = collections.defaultdict(set)
 for e in events:
     if e["kind"] == "minted_by_other": people_by_year[e["date"][:4]].add(e["collector"])
@@ -86,7 +85,6 @@ def issuer_card(e):
     if e["first_mint"]:
         span = f'minted {e["first_mint"][:10]}' + (f' to {e["last_mint"][:10]}' if e["last_mint"][:10] != e["first_mint"][:10] else "")
     bits = [place(e), f'<a href="network.html">{e["minted"]} minted by {e["collectors"]} people</a>', span]
-    if moments.get(e["drop_id"]): bits.append(f'{moments[e["drop_id"]]} moments')
     links = "".join(f' <a class="post" href="{ESC(w["url"])}">post</a>' for w in drop_posts.get(e["drop_id"], [])[:2])
     desc = (d.get("description") or "").strip()
     if len(desc) > 220: desc = desc[:220].rsplit(" ", 1)[0] + " …"
