@@ -6,6 +6,22 @@ Working prototypes of the two core pages are at `capsule/index.html` (the timeli
 `python3 -I scripts/build_capsule.py`) and `capsule/network.html` (the network,
 `python3 -I scripts/build_network.py`). The site will be at **poap.thingelstad.xyz**.
 
+## Name
+
+**POAP: Proof of a Person.** Decided by Jamie on 2026-10-17. The four letters stay; what
+they stand for becomes the site's own reading. It covers both sides: a collection is proof
+of one person's attendance, and 639 people hold proof of Jamie. It also carries the thing
+Jamie always said about POAP, that it was about people and not money, unlike so much of
+crypto. In Jamie's words from the Minnebar 17 post, 2023-03-04: "POAPs are meant to collect
+and curate memories, not make money."
+
+Use, following the nnxyz convention: the wordmark and default `<title>` are "Proof of a
+Person"; the home heading sets the four letters large with the expansion beneath;
+`og:site_name` and the first line of `llms.txt` are "Proof of a Person"; the subtitle
+everywhere else is "Jamie Thingelstad's POAP time capsule, 2021 to 2026". The about page
+opens with "Proof of Attendance Protocol, 2019 to 2026" before the site's own reading. The
+Tinylytics label "POAP Capsule" is internal and stays.
+
 ## Summary
 
 Build a static site with one spine and three views:
@@ -382,5 +398,6 @@ Time capsule decisions:
 	- Chapter titles and quotes: keep or rewrite the six drafts in build_capsule.py
 	- Export moment photos from Photos for the 81 you posted (timestamps in compass/moments.json)
 	- Write the closing essay on the wind-down
+	- Name: POAP, Proof of a Person @done
 	- Confirm whether 2026-07-31 should appear as "the sunset" or as "the last drop"
 ```

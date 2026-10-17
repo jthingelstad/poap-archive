@@ -34,7 +34,7 @@ for a browsable gallery.
 | `BRIEF.md` | Hand-off for designing the time capsule | |
 | `DESIGN.md` | The proposal that answers the brief: form, timeline, collector and issuer views, network, privacy options, hosting, plan, and the decisions Jamie owns | |
 | `capsule/network.html` | Prototype of the network page: a bipartite graph of the 130 drops and the 639 people who minted them, laid out at build time as static SVG, with the on-ramp, regulars and 612 finisher stories. People are shown by ENS name or shortened address | built by `scripts/build_network.py` |
-| `capsule/index.html` | Prototype of the two-sided timeline from `DESIGN.md`: collected on the left, issued on the right, writing and POAP milestones in the middle, by year. Uses only Jamie's own data | built by `scripts/build_capsule.py` |
+| `capsule/index.html` | "POAP: Proof of a Person", prototype of the two-sided timeline from `DESIGN.md`: collected on the left, issued on the right, writing and POAP milestones in the middle, by year. Uses only Jamie's own data | built by `scripts/build_capsule.py` |
 | `scripts/` | The scripts that made all of this, so it can be re-run while the sources live | |
 
 The full snapshot zip is also in `s3://poap-archive-999153317627-us-east-1/snapshot/` (private, versioned).
