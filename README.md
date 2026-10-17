@@ -32,6 +32,8 @@ for a browsable gallery.
 | `network/` | Who collected Jamie's drops, their ENS names, shared events, collection sizes (see its README) | Compass, ensdata.net |
 | `research/poap-company.md` | POAP the company: origins, the $10M 2022 seed, products, business model, the 2026 wind-down, the archives | web research |
 | `BRIEF.md` | Hand-off for designing the time capsule | |
+| `DESIGN.md` | The proposal that answers the brief: form, timeline, collector and issuer views, network, privacy options, hosting, plan, and the decisions Jamie owns | |
+| `capsule/index.html` | Prototype of the two-sided timeline from `DESIGN.md`: collected on the left, issued on the right, writing and POAP milestones in the middle, by year. Uses only Jamie's own data | built by `scripts/build_capsule.py` |
 | `scripts/` | The scripts that made all of this, so it can be re-run while the sources live | |
 
 The full snapshot zip is also in `s3://poap-archive-999153317627-us-east-1/snapshot/` (private, versioned).
