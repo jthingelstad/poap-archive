@@ -77,7 +77,7 @@ Principles for the build:
 /about/                 Wallets, sources, what is lost, how it was captured, colophon
 ```
 
-`*` depends on the privacy decision in section 6.
+`*` shows ENS names and shortened addresses, per section 6.
 
 ## 3. The timeline
 
@@ -113,8 +113,7 @@ Things the prototype leaves for the real build:
 - Per-year pages. The single page is 190 KB of HTML and lazy-loads 260 images; fine for a
   prototype, slow on a phone over cellular.
 - A filter by series and by place (in person or virtual). The side toggles exist.
-- Moments on collected drops (13) and moments by others on Jamie's drops (185 of 253),
-  which need the privacy decision.
+- Moments on collected drops (13) and moments by others on Jamie's drops (185 of 253).
 - The 2026 ending needs an essay. See section 7.
 
 ## 4. Collector and issuer views
@@ -194,11 +193,11 @@ stories under the diagram:
 Edges that do not matter: person-to-person edges. Nobody needs to see which two of
 Jamie's collectors also share a drop with each other; that is the hairball.
 
-## 6. Privacy: Jamie's call
+## 6. Privacy: decided
 
-Addresses and ENS names are public on-chain, and Jamie's own posts already name
-quinnchrest.eth and use the `0x018a…3c47` form. A site that lists hundreds of people is
-still a choice. Four options, not mutually exclusive by section:
+**Jamie decided on 2026-10-17: option C.** It is all on the public blockchain. Show the
+primary ENS name where one is set, else the shortened wallet address (`0x018a…3c47`), as
+POAP itself did. The network prototype does this. The options that were on the table:
 
 | Option | What shows | What it costs |
 |---|---|---|
@@ -216,9 +215,8 @@ Related calls that follow from it:
 - `research/interactions-PRIVATE.md` never appears, in any form. The POAP company page
   cites only the public sources in `research/poap-company.md`.
 
-The prototype takes option A so it can exist before the decision: no collector lists and
-no addresses. Names still appear where Jamie's own drop titles, descriptions and post
-titles mention them, which is published text already.
+Still open under option C: whether moments written by others are quoted with their
+author's name, without it, or not at all.
 
 ## 7. Voice
 
@@ -282,17 +280,17 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
 
 | Phase | Work | Needs from Jamie |
 |---|---|---|
-| 0 | Decisions below | Privacy option, chapter titles and quotes, moment photo export |
+| 0 | Decisions below | Chapter titles and quotes, moment photo export |
 | 1 | Timeline per year, drop and token pages, thumbnails, `scripts/build_site.py` | Nothing; the prototype is the start |
 | 2 | Collector and issuer pages, series pages, writing and advice pages, POAP page, about | Review of the advice table |
-| 3 | Network page under the chosen privacy option (prototype exists under option A) | The decision |
+| 3 | Network page, from the prototype | Nothing |
 | 4 | Closing essay, publish, Wayback, README | The essay |
 
 ## Decisions Jamie owns
 
 ```
 Time capsule decisions:
-	- Privacy: pick A (counts), B (ENS only), C (ENS + short addresses) or D (family + opt-in) @flagged
+	- Privacy: C, ENS name or shortened address @done
 	- Domain: poap.thingelstad.xyz @done
 	- Form: Python generator (recommended) or Eleventy over emitted JSON
 	- Chapter titles and quotes: keep, rewrite or replace the six drafts in build_capsule.py

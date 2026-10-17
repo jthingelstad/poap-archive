@@ -5,8 +5,9 @@ minted one (639, with Jamie's wallets and the zero address removed). One edge pe
 and drop. The layout is computed here with a force-directed pass in numpy and written as
 static SVG, so the page is a picture first and interactive second.
 
-Privacy: option A from DESIGN.md. People are unlabeled dots. No address or ENS name is
-written to the page, only counts. Drops carry the labels. Run: python3 -I scripts/build_network.py
+People are named by primary ENS name where one is set, else by shortened address
+(0x018a…3c47), as POAP itself did. Addresses and names are public on-chain; Jamie decided
+this on 2026-10-17. Run: python3 -I scripts/build_network.py
 """
 import collections, datetime, html, json, math, os
 import numpy as np
@@ -108,11 +109,14 @@ series_totals = collections.Counter(series(created[d]["name"]) for d in drops)
 tiers = [("30 or more", 30, 10 ** 9), ("10 to 29", 10, 29), ("5 to 9", 5, 9), ("2 to 4", 2, 4), ("1", 1, 1)]
 tier_counts = [(label, sum(1 for a in people if lo <= n_drops[a] <= hi)) for label, lo, hi in tiers]
 
-# Data for the page's JavaScript. People carry counts only.
+short = lambda a: a[:6] + "…" + a[-4:]
+label = lambda a: ens.get(a, {}).get("ens_primary") or short(a)
+link = lambda a: f"https://app.ens.domains/{ens[a]['ens_primary']}" if ens.get(a, {}).get("ens_primary") else f"https://gnosisscan.io/address/{a}"
+# Data for the page's JavaScript.
 data = {
     "drops": [{"id": d, "name": created[d]["name"], "series": series(created[d]["name"]), "date": (created[d]["start_date"] or "")[:10],
                "mints": mints[d], "x": float(xy[didx[d], 0]), "y": float(xy[didx[d], 1])} for d in drops],
-    "people": [{"n": n_drops[a], "total": sizes.get(a, 0), "named": bool(ens.get(a, {}).get("ens_primary")),
+    "people": [{"n": n_drops[a], "total": sizes.get(a, 0), "name": label(a), "addr": a, "url": link(a),
                 "x": float(xy[len(drops) + pidx[a], 0]), "y": float(xy[len(drops) + pidx[a], 1])} for a in people],
     "edges": edges,
     "series": {s[0]: {"label": s[1], "color": s[2]} for s in SERIES},
@@ -126,7 +130,7 @@ svg.append('</g><g id="people">')
 for i, a in enumerate(people):
     x, y = xy[len(drops) + i]
     r = 1.6 + 0.45 * math.log1p(sizes.get(a, 1))
-    svg.append(f'<circle class="p" cx="{x}" cy="{y}" r="{r:.1f}" data-i="{i}"/>')
+    svg.append(f'<circle class="p" cx="{x}" cy="{y}" r="{r:.1f}" data-i="{i}"><title>{ESC(label(a))}</title></circle>')
 svg.append('</g><g id="drops">')
 for i, d in enumerate(drops):
     x, y = xy[i]
@@ -137,9 +141,11 @@ svg.append("</g></svg>")
 legend = "".join(f'<button class="lg" data-s="{s}"><i style="background:{c}"></i>{ESC(l)} <small>{series_totals[s]}</small></button>' for s, l, c, _ in SERIES)
 tiers_html = "".join(f'<div class="bar"><span>{ESC(l)} of Jamie\'s drops</span><b style="width:{100 * n / len(people):.1f}%"></b><em>{n}</em></div>' for l, n in tier_counts)
 matrix_html = "".join(
-    f'<tr><td>Person {i + 1}</td><td>{n_drops[a]}</td>' + "".join(f'<td class="c{min(c, 5)}">{c or ""}</td>' for c in row) + f'<td>{sizes.get(a, "?")}</td></tr>'
+    f'<tr><td><a href="{ESC(link(a))}" title="{a}">{ESC(label(a))}</a></td><td>{n_drops[a]}</td>' + "".join(f'<td class="c{min(c, 5)}">{c or ""}</td>' for c in row) + f'<td>{sizes.get(a, "?")}</td></tr>'
     for i, (a, row) in enumerate(zip(regulars, matrix)))
-finish_html = "".join(f'<li>{"a repeat finisher" if i else "the first to finish"}, {t[:10]}</li>' for i, (t, a) in enumerate(finish))
+finish_html = "".join(f'<li><a href="{ESC(link(a))}" title="{a}">{ESC(label(a))}</a>, {t[:10]}</li>' for t, a in finish)
+all_five = [a for a in people if all(d in holds[a] for d in bdays)]
+all_five_html = ", ".join(f'<a href="{ESC(link(a))}" title="{a}">{ESC(label(a))}</a>' for a in all_five)
 
 page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The POAP Network</title>
@@ -158,7 +164,7 @@ header,main,footer{{max-width:1180px;margin:0 auto;padding:0 1rem}}header{{paddi
 .p{{fill:var(--person);fill-opacity:.75;cursor:pointer}}.p.hi{{fill:var(--ink);fill-opacity:1}}.p.dim,.d.dim{{opacity:.12}}#edges line.dim{{stroke-opacity:.015}}
 .d{{stroke:var(--card);stroke-width:1;cursor:pointer}}.d.hi{{stroke:var(--ink);stroke-width:2}}
 .panel{{position:sticky;top:1rem;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem;font-size:.9rem;min-height:12rem}}.panel h3{{margin:0 0 .3rem;font-size:1.05rem}}.panel p{{margin:.3rem 0;color:var(--mute)}}.panel ul{{padding-left:1.1rem;margin:.3rem 0}}.panel li{{margin:.15rem 0}}
-.panel .tl{{display:inline-block;margin-top:.5rem;font-size:.8rem}}
+.panel .tl{{display:inline-block;margin-top:.5rem;font-size:.8rem}}.panel .who{{font-size:.75rem;line-height:1.5;max-height:14rem;overflow:auto}}
 h2{{margin:2.5rem 0 .5rem;font-size:1.5rem}}section p{{max-width:52rem;color:var(--mute)}}
 .bar{{display:grid;grid-template-columns:14rem 1fr 3rem;align-items:center;gap:.6rem;margin:.3rem 0;font-size:.85rem}}.bar b{{display:block;height:1.1rem;background:var(--ink);border-radius:3px;min-width:2px}}.bar em{{font-style:normal;color:var(--mute)}}
 table{{border-collapse:collapse;font-size:.8rem;margin-top:.5rem}}th,td{{padding:.2rem .45rem;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}}th{{font-weight:600;color:var(--mute)}}td:first-child,th:first-child{{text-align:left}}
@@ -169,7 +175,7 @@ td.c1{{background:rgba(42,111,151,.12)}}td.c2{{background:rgba(42,111,151,.25)}}
 <nav><a href="index.html">Timeline</a><a href="network.html">Network</a></nav>
 <p class="dek">Every person who minted one of Jamie's drops, and the drops that connect them. Big colored circles are the {len(drops)} drops Jamie made, sized by how many people minted them and colored by series. Small gray dots are the {len(people)} people, sized by how many POAPs they hold in total. A line is one person minting one drop. Click anything.</p>
 <div class="totals"><div><b>{len(people)}</b>people</div><div><b>{len(drops)}</b>drops</div><div><b>{len(edges):,}</b>person-to-drop links</div><div><b>{one_total}</b>people whose only POAP is one of Jamie's</div><div><b>{len(regulars)}</b>people with ten or more</div></div>
-<p class="dek">Prototype under privacy option A: people are unlabeled. No address or name is on this page, only counts. {sum(1 for a in people if ens.get(a, {}).get("ens_primary"))} of the {len(people)} people have a public ENS name that option B would show.</p>
+<p class="dek">People are shown by their primary ENS name where they set one ({sum(1 for a in people if ens.get(a, {}).get("ens_primary"))} of {len(people)}) and by shortened wallet address otherwise, the way POAP showed them. Names link to ENS, addresses to Gnosisscan. Everything here is on the public chain.</p>
 </header>
 <main>
 <div class="legend">{legend}<button class="lg" id="clear">clear</button></div>
@@ -181,15 +187,15 @@ td.c1{{background:rgba(42,111,151,.12)}}td.c2{{background:rgba(42,111,151,.25)}}
 {tiers_html}</section>
 
 <section><h2>The regulars</h2>
-<p>{len(regulars)} people hold ten or more of Jamie's drops. Rows are people, columns are series, cells are how many drops of that series they hold. Under option B the family rows would carry their names; here they are numbered in order of drops held.</p>
-<div class="tw"><table><tr><th>Person</th><th>Drops</th>{"".join(f"<th>{ESC(SERIES_OF[s][1])}</th>" for s in series_order)}<th>POAPs in total</th></tr>{matrix_html}</table></div>
-<p>Birthday loyalty across the five birthday drops: {bday_loyalty[5]} people came to all five, {bday_loyalty[4]} to four, {bday_loyalty[3]} to three, {bday_loyalty[2]} to two, {bday_loyalty[1]} to one.</p></section>
+<p>{len(regulars)} people hold ten or more of Jamie's drops. Rows are people in order of drops held, columns are series, cells are how many drops of that series they hold.</p>
+<div class="tw"><table><tr><th>Collector</th><th>Drops</th>{"".join(f"<th>{ESC(SERIES_OF[s][1])}</th>" for s in series_order)}<th>POAPs in total</th></tr>{matrix_html}</table></div>
+<p>Birthday loyalty across the five birthday drops: {bday_loyalty[5]} people came to all five ({all_five_html}), {bday_loyalty[4]} to four, {bday_loyalty[3]} to three, {bday_loyalty[2]} to two, {bday_loyalty[1]} to one.</p></section>
 
 <section><h2>The 612 finishers</h2>
 <p>{len(finish)} people besides Jamie collected all 31 locations of the 612 POAP Challenge and received the Collected Them All! token, in this order:</p>
 <ol>{finish_html}</ol></section>
 </main>
-<footer>Built by <code>scripts/build_network.py</code> from <code>compass/created_drop_tokens.json</code>, <code>network/collector_sizes.json</code> and <code>network/ens.json</code>. Layout is a force-directed pass computed at build time; the picture is static SVG and the highlighting is a little inline script.</footer>
+<footer>Built by <code>scripts/build_network.py</code> from <code>compass/created_drop_tokens.json</code>, <code>network/collector_sizes.json</code> and <code>network/ens.json</code>. Names are primary ENS records from ensdata.net on 2026-10-17. Layout is a force-directed pass computed at build time; the picture is static SVG and the highlighting is a little inline script.</footer>
 <script>
 const D={json.dumps(data, separators=(",", ":"))};
 const panel=document.getElementById('panel'), lines=[...document.querySelectorAll('#edges line')], P=[...document.querySelectorAll('.p')], DR=[...document.querySelectorAll('.d')];
@@ -201,17 +207,18 @@ function showDrop(i){{reset();dimAll();const d=D.drops[i];DR[i].classList.replac
   const others=new Map();for(const [p,e] of byD[i]){{P[p].classList.replace('dim','hi');lines[e].classList.replace('dim','hi');for(const [d2] of byP[p]) if(d2!==i) others.set(d2,(others.get(d2)||0)+1);}}
   for(const d2 of others.keys()) DR[d2].classList.remove('dim');
   const top=[...others].sort((a,b)=>b[1]-a[1]).slice(0,6).map(([d2,n])=>`<li>${{n}} also hold <a href="#" data-drop="${{d2}}">${{D.drops[d2].name}}</a></li>`).join('');
-  panel.innerHTML=`<h3>${{d.name}}</h3><p>${{D.series[d.series].label}} · ${{d.date}} · ${{d.mints}} people minted it</p><ul>${{top}}</ul><a class="tl" href="index.html#drop-${{d.id}}">See it on the timeline →</a>`;}}
+  const who=byD[i].map(([p])=>p).sort((a,b)=>D.people[b].n-D.people[a].n).map(p=>`<a href="#" data-person="${{p}}" title="${{D.people[p].addr}}">${{D.people[p].name}}</a>`).join(', ');
+  panel.innerHTML=`<h3>${{d.name}}</h3><p>${{D.series[d.series].label}} · ${{d.date}} · ${{d.mints}} people minted it</p><ul>${{top}}</ul><p class="who">${{who}}</p><a class="tl" href="index.html#drop-${{d.id}}">See it on the timeline →</a>`;}}
 function showPerson(i){{reset();dimAll();const p=D.people[i];P[i].classList.replace('dim','hi');
   const ds=byP[i].map(([d,e])=>{{lines[e].classList.replace('dim','hi');DR[d].classList.remove('dim');return d;}}).sort((a,b)=>D.drops[a].date<D.drops[b].date?-1:1);
-  panel.innerHTML=`<h3>Person ${{i+1}}</h3><p>name withheld under option A${{p.named?' (has a public ENS name)':''}} · holds ${{p.n}} of Jamie's drops · ${{p.total||'?'}} POAPs in total</p><ul>${{ds.map(d=>`<li><a href="#" data-drop="${{d}}">${{D.drops[d].name}}</a> <small>${{D.drops[d].date}}</small></li>`).join('')}}</ul>`;}}
+  panel.innerHTML=`<h3><a href="${{p.url}}" title="${{p.addr}}">${{p.name}}</a></h3><p>holds ${{p.n}} of Jamie's drops · ${{p.total||'?'}} POAPs in total</p><ul>${{ds.map(d=>`<li><a href="#" data-drop="${{d}}">${{D.drops[d].name}}</a> <small>${{D.drops[d].date}}</small></li>`).join('')}}</ul>`;}}
 function showSeries(s){{reset();dimAll();const set=new Set();D.drops.forEach((d,i)=>{{if(d.series===s){{DR[i].classList.replace('dim','hi');for(const [p,e] of byD[i]){{P[p].classList.remove('dim');lines[e].classList.remove('dim');set.add(p);}}}}}});
   document.querySelector(`.lg[data-s="${{s}}"]`).classList.add('on');
   panel.innerHTML=`<h3>${{D.series[s].label}}</h3><p>${{D.drops.filter(d=>d.series===s).length}} drops · ${{set.size}} people hold at least one</p>`;}}
 DR.forEach((el,i)=>el.addEventListener('click',()=>showDrop(i)));P.forEach((el,i)=>el.addEventListener('click',()=>showPerson(i)));
 document.querySelectorAll('.lg[data-s]').forEach(b=>b.addEventListener('click',()=>showSeries(b.dataset.s)));
 document.getElementById('clear').addEventListener('click',()=>{{reset();panel.innerHTML='<h3>Pick a drop or a person</h3>';}});
-panel.addEventListener('click',e=>{{if(e.target.dataset.drop){{e.preventDefault();showDrop(+e.target.dataset.drop);}}}});
+panel.addEventListener('click',e=>{{if(e.target.dataset.drop){{e.preventDefault();showDrop(+e.target.dataset.drop);}}if(e.target.dataset.person){{e.preventDefault();showPerson(+e.target.dataset.person);}}}});
 </script></body></html>"""
 open(OUT, "w").write(page)
 print(f"wrote {os.path.relpath(OUT, ROOT)}: {len(people)} people, {len(drops)} drops, {len(edges)} edges; on-ramp {one_total}; regulars {len(regulars)}; finishers {len(finish)}")
