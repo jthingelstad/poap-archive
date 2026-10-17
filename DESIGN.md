@@ -209,7 +209,9 @@ Related calls that follow from it:
 - `research/interactions-PRIVATE.md` never appears, in any form. The POAP company page
   cites only the public sources in `research/poap-company.md`.
 
-The prototype takes option A so it can exist before the decision.
+The prototype takes option A so it can exist before the decision: no collector lists and
+no addresses. Names still appear where Jamie's own drop titles, descriptions and post
+titles mention them, which is published text already.
 
 ## 7. Voice
 

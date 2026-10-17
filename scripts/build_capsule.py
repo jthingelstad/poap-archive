@@ -5,8 +5,9 @@ did not make). Right: what Jamie put into the world (the drops Jamie made, each 
 to its collectors). Down the middle: Jamie's writing and POAP's own milestones. Year
 chapters open with the year's numbers and one of Jamie's sentences.
 
-Privacy: this page uses only Jamie's own tokens, drops and writing. Other people appear as
-counts. Run: python3 -I scripts/build_capsule.py
+Privacy: this page uses only Jamie's own tokens, drops and writing. There are no collector
+lists or addresses; other people appear as counts, or where Jamie's own titles and
+descriptions already name them. Run: python3 -I scripts/build_capsule.py
 """
 import collections, html, json, os
 
@@ -174,7 +175,7 @@ footer{{color:var(--mute);font-size:.8rem;max-width:1180px;margin:0 auto;padding
 <header><h1>A POAP Time Capsule</h1>
 <p class="dek">Five years of collecting and issuing Proof of Attendance Protocol tokens, 2021 to 2026, kept after the protocol wound down. On the left, what Jamie collected from the world. On the right, what Jamie made for other people. Down the middle, what Jamie wrote while it happened, and what POAP did.</p>
 <div class="totals"><div><b>{totals['collected']}</b>tokens collected</div><div><b>{totals['issued']}</b>drops issued</div><div><b>{totals['mints']:,}</b>tokens minted from them</div><div><b>{totals['people']}</b>people who collected one</div><div><b>{totals['writing']}</b>posts and issues</div></div>
-<p class="dek">Prototype built from the archive on 2026-10-17. Everything on this page is Jamie's own tokens, drops and writing; other people appear only as counts. Drops Jamie made sit at their event date, with the span of mints beneath. Jamie also minted {own_collected} of his own {totals['issued']} drops; those copies are folded into the right side.</p>
+<p class="dek">Prototype built from the archive on 2026-10-17. Everything on this page is Jamie's own tokens, drops and writing. There are no collector lists or addresses; other people appear as counts, or where Jamie's own drop titles, descriptions and post titles already name them. Drops Jamie made sit at their event date, with the span of mints beneath. Jamie also minted {own_collected} of his own {totals['issued']} drops; those copies are folded into the right side.</p>
 </header>
 <nav><div>{" ".join(f'<a href="#y{y}">{y}</a>' for y in sorted(years))}
 <label><input type="checkbox" checked data-col="left"> collected</label><label style="margin-left:0"><input type="checkbox" checked data-col="spine"> writing</label><label style="margin-left:0"><input type="checkbox" checked data-col="right"> issued</label></div></nav>
