@@ -31,7 +31,6 @@ for a browsable gallery.
 | `timeline/events.json` | 3,305 dated events across three sides: collector, issuer, writer | `scripts/build_timeline.py` |
 | `network/` | Who collected Jamie's drops, their ENS names, shared events, collection sizes (see its README) | Compass, ensdata.net |
 | `research/poap-company.md` | POAP the company: origins, the $10M 2022 seed, products, business model, the 2026 wind-down, the archives | web research |
-| `research/interactions-PRIVATE.md` | **Private.** Jamie's exchanges with Patricio, Isabel and the POAP team, summarized from email | Fastmail |
 | `BRIEF.md` | Hand-off for designing the time capsule | |
 | `scripts/` | The scripts that made all of this, so it can be re-run while the sources live | |
 
@@ -56,7 +55,7 @@ The full snapshot zip is also in `s3://poap-archive-999153317627-us-east-1/snaps
   people's drops Jamie curated (r/POAP, some Olson Family Vacation ones). A drop on neither
   list is missed.
   Compass offers `search_drops_by_issuer_id`, but Jamie's issuer id is not known.
-- **Email reservations.** Compass returned nothing reserved to Jamie's email.
+- **Email reservations.** Compass returned no drops reserved to Jamie's email.
 - **The snapshot is a subset.** It has 238 of Jamie's 259 tokens and 115 of the 130
   created drops, and stops at 2026-08-20. Compass is the fuller record.
 

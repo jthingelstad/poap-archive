@@ -11,3 +11,6 @@ lists what each folder holds and where it came from.
 - Rebuild the gallery with `python3 -I scripts/build_gallery.py`.
 - Compass (`public.compass.poap.tech/v1/graphql`) caps pages at 100 rows.
 - "POAP KINGS" is a Clash Royale clan, unrelated to the protocol.
+- This repo is meant to become public. Never commit personal email, private notes, contact
+  details or secrets. Private notes live outside the repo (`~/Projects/poap-archive-private/`
+  and `s3://poap-archive-999153317627-us-east-1/private/`).

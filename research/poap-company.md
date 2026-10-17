@@ -359,7 +359,7 @@ as a published date.
     versions: the 2026-07-02 snapshot, with SHA `046850de...` (per POAPin), and the
     2026-08-20 snapshot, with SHA `aed7ec75...`, which is the one Jamie holds. It
     has no Moments, no Collections and no private drops.
-  - **poap.in (POAPin Archive).** Built by **Kira** ([email removed]) of Glory
+  - **poap.in (POAPin Archive).** Built by **Kira** of Glory
     Lab, Tokyo. GitHub user RockerFlower, "Founder of @glorylab", is probably the
     same person (unverified). POAPin was a long-running Gitcoin-funded third-party
     POAP explorer and app, started in 2022. It now serves the official 2026-07-02

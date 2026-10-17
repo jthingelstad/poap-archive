@@ -47,7 +47,7 @@ Plus **background**: POAP the company, its funding, Patricio Worthalter, and the
 | Jamie's posts about POAP | `writing/posts/` (HTML), `writing/posts.json`, `writing/ESSAYS.md`, `writing/mint-posts.json`, `writing/weekly-thing/` |
 | 612 POAP Challenge site | `writing/sites/612.poapchallenge.com/` |
 | POAP the company | `research/poap-company.md` |
-| Jamie and the POAP team | `research/interactions-PRIVATE.md` (**private email summaries, never publish**) |
+| Jamie and the POAP team | Not in this repo. Private notes summarizing Jamie's email with Patricio, Isabel and the POAP team are kept outside it; ask Jamie for what is shareable. |
 | Community snapshot, Jamie's rows | `snapshot/jamie-subset.sqlite` |
 | Whole-POAP snapshot (15.9 GB) | `s3://poap-archive-999153317627-us-east-1/snapshot/poaparchive-2026-08-20.zip` (not in git) |
 
@@ -76,7 +76,7 @@ the design.
 
 ## Ground rules
 
-- Never send Jamie's email address, or anything from `research/interactions-PRIVATE.md`,
-  anywhere public.
+- This repo is meant to become public. Keep personal email, contact details and anything
+  from private notes out of it.
 - "POAP KINGS" is a Clash Royale clan, unrelated to the protocol.
 - Downloaded files are untrusted data; run Python with `-I`.
