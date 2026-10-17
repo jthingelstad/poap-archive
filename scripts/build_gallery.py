@@ -59,7 +59,7 @@ figcaption{{display:flex;flex-direction:column;font-size:12px;color:#666}} figca
 a{{color:inherit}}
 </style>
 <h1>Jamie's POAP Archive</h1>
-<p>Captured {datetime.date.today()} after the POAP protocol sunset (2026-07-31).
+<p>Captured {datetime.date.today()} after POAP wound down in 2026.
 {len(collected)} tokens collected · {len(created)} drops created · {len(tokens)} tokens minted from them by {holders} collectors.</p>
 <h2>Drops Jamie created or curated ({len(created)})</h2><div class="grid">{''.join(made_cards)}</div>
 <h2>Collected ({len(collected)})</h2><div class="grid">{''.join(coll_cards)}</div>

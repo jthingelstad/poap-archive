@@ -10,7 +10,9 @@ build from this archive. Nothing here is decided beyond what Jamie said.
 > collector and as issuer. This feels like a timeline to me. My POAP network is another
 > idea to show in this project. A lot of people collected my POAPs.
 
-Context: the POAP protocol was wound down on 2026-07-31. Jamie collected from 2021, issued
+Context: POAP wound down in 2026 (maintenance mode from 2026-03-16, the last drop was created
+2026-07-31, the wind-down was announced 2026-08-03; see `research/poap-company.md`).
+Jamie collected from 2021, issued
 130 drops (birthdays, Minnebar, the 612 POAP Challenge, Magic Pines, Weekly Thing, family
 trips), built POAP2RSS and Flight Path for the Airport Rally, syndicated every mint to
 thingelstad.com, and wrote often about what POAP should do as a product and a business.

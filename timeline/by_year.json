@@ -1,39 +1,68 @@
 {
   "2021": {
     "collected": 20,
+    "mint": 20,
     "drop_created": 12,
     "minted_by_other": 205,
-    "transfer": 1
+    "announcement": 4,
+    "weekly-thing": 7,
+    "drop-announcement": 1,
+    "transfer": 1,
+    "essay": 1
   },
   "2022": {
     "collected": 56,
+    "mint": 56,
     "minted_by_other": 503,
-    "drop_created": 17
+    "weekly-thing": 16,
+    "drop_created": 17,
+    "drop-announcement": 5,
+    "essay": 9,
+    "announcement": 9
   },
   "2023": {
     "drop_created": 29,
     "collected": 51,
+    "mint": 49,
     "minted_by_other": 528,
+    "essay": 13,
+    "weekly-thing": 21,
+    "announcement": 9,
+    "drop-announcement": 8,
     "transfer": 89,
     "moment": 12
   },
   "2024": {
     "drop_created": 14,
     "collected": 34,
+    "mint": 34,
     "minted_by_other": 177,
-    "moment": 15
+    "drop-announcement": 8,
+    "essay": 4,
+    "weekly-thing": 13,
+    "moment": 15,
+    "announcement": 2
   },
   "2025": {
     "drop_created": 55,
     "collected": 73,
+    "mint": 78,
     "minted_by_other": 633,
-    "moment": 227
+    "essay": 9,
+    "drop-announcement": 17,
+    "weekly-thing": 18,
+    "moment": 227,
+    "announcement": 24
   },
   "2026": {
     "collected": 25,
+    "mint": 25,
     "drop_created": 3,
     "minted_by_other": 41,
     "moment": 12,
-    "transfer": 2
+    "transfer": 2,
+    "announcement": 4,
+    "weekly-thing": 6,
+    "drop-announcement": 1
   }
 }

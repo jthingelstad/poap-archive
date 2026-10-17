@@ -1,7 +1,8 @@
 # Jamie's POAP Archive
 
 A personal archive of Jamie Thingelstad's POAP life, captured on 2026-10-17, about
-eleven weeks after the POAP protocol was wound down (2026-07-31). Open `index.html`
+after POAP wound down (maintenance mode from 2026-03-16, last drop created 2026-07-31,
+wind-down announced 2026-08-03). Open `index.html`
 for a browsable gallery.
 
 ## What is here

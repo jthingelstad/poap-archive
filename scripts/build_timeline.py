@@ -13,9 +13,12 @@ JAMIE = {"0x111accebf9d70d9c06de2d38f9392522e82ecf29", "0xb81b70afee42e944b88d06
 
 
 def iso(ts):
+    """Any timestamp in the sources -> UTC ISO 8601, so string order is time order."""
     if ts is None: return None
     if isinstance(ts, (int, float)): return datetime.datetime.fromtimestamp(ts, datetime.timezone.utc).isoformat()
-    return ts if "T" in ts or len(ts) > 10 else ts + "T00:00:00+00:00"
+    d = datetime.datetime.fromisoformat(ts if "T" in ts or " " in ts else ts + "T00:00:00")
+    if d.tzinfo is None: d = d.replace(tzinfo=datetime.timezone.utc)
+    return d.astimezone(datetime.timezone.utc).isoformat()
 
 
 def art(folder, drop_id):
@@ -64,7 +67,7 @@ for t in load("compass/transfers.json"):
 
 writing_p = os.path.join(ROOT, "writing/timeline.json")
 if os.path.exists(writing_p):
-    for w in json.load(open(writing_p)):
+    for w in json.load(open(writing_p))["rows"]:
         events.append({**w, "date": iso(w["date"]), "side": "writer"})
 
 events = [e for e in events if e["date"]]
