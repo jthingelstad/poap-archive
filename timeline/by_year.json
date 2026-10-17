@@ -1,0 +1,39 @@
+{
+  "2021": {
+    "collected": 20,
+    "drop_created": 12,
+    "minted_by_other": 205,
+    "transfer": 1
+  },
+  "2022": {
+    "collected": 56,
+    "minted_by_other": 503,
+    "drop_created": 17
+  },
+  "2023": {
+    "drop_created": 29,
+    "collected": 51,
+    "minted_by_other": 528,
+    "transfer": 89,
+    "moment": 12
+  },
+  "2024": {
+    "drop_created": 14,
+    "collected": 34,
+    "minted_by_other": 177,
+    "moment": 15
+  },
+  "2025": {
+    "drop_created": 55,
+    "collected": 73,
+    "minted_by_other": 633,
+    "moment": 227
+  },
+  "2026": {
+    "collected": 25,
+    "drop_created": 3,
+    "minted_by_other": 41,
+    "moment": 12,
+    "transfer": 2
+  }
+}
