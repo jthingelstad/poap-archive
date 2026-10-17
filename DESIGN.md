@@ -2,8 +2,9 @@
 
 A proposal for what to build from this archive, written 2026-10-17 against `BRIEF.md`.
 Nothing here is decided for Jamie; the decisions Jamie owns are collected at the end.
-A working prototype of the core page is at `capsule/index.html`
-(`python3 -I scripts/build_capsule.py`).
+Working prototypes of the two core pages are at `capsule/index.html` (the timeline,
+`python3 -I scripts/build_capsule.py`) and `capsule/network.html` (the network,
+`python3 -I scripts/build_network.py`). The site will be at **poap.thingelstad.xyz**.
 
 ## Summary
 
@@ -15,7 +16,7 @@ Build a static site with one spine and three views:
 2. **Collector** and **issuer** are not two timelines. They are two overview pages that
    look at the same years from each side, and the two sides of every drop page.
 3. **The network** is a page about the 639 people who collected Jamie's drops, drawn as
-   rings around Jamie rather than a graph, and shaped by a privacy choice Jamie has not
+   a bipartite graph of drops and people, and shaped by a privacy choice Jamie has not
    made yet.
 
 Three findings from the data changed the design:
@@ -167,11 +168,17 @@ The inner ring is family (three Thingelstad names at 85 to 89 drops each), then
 quinnchrest.eth at 56, then ten people in the 30 to 48 range who are mostly SPS
 colleagues without ENS names.
 
-**Recommended view: rings, not a hairball.** Jamie at the center; each person is a dot
-placed on a ring by how many of Jamie's drops they hold (30+, 10 to 29, 5 to 9, 2 to 4,
-1), sized by the log of their total collection, and colored by whether they have an ENS
-name. 639 dots fit in one SVG. Hovering a dot shows what the privacy decision allows. The
-page then tells the four stories under the diagram:
+**Recommended view: a bipartite graph, drops and people.** The prototype in
+`capsule/network.html` is this. Drops are the labeled, colored nodes (by series, sized by
+mints); people are unlabeled gray dots sized by the log of their total collection; one
+edge per mint. The layout is computed at build time with a force-directed pass and
+written as static SVG, so the page is a picture before it is an app. The structure draws
+itself: the 612 Challenge is a dense cluster at the center, the SPS drops form their own
+cluster of colleagues, and the farmed Reading Things First 100 drop sits detached with
+its halo of 96 one-drop wallets. Clicking a drop lights up its collectors and the other
+drops they hold, with a link to that drop on the timeline; clicking a person shows their
+path through Jamie's drops. No person-to-person edges. The page then tells the four
+stories under the diagram:
 
 1. **The on-ramp.** 227 people whose only POAP is one of Jamie's. A single bar.
 2. **The regulars.** Birthday attendance across five years, Weekly Thing anniversaries,
@@ -258,11 +265,9 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
 
 ## 9. Hosting and permanence
 
-- **Domain.** A subdomain of thingelstad.com (`poap.thingelstad.com`) is the recommendation.
-  It costs nothing, it follows the Eleventy-on-S3 pattern in `~/Projects/AGENTS.md`, and it
-  lasts as long as Jamie's identity does. A new domain like poapcapsule.com is a yearly
-  bill for a site that should never change; `poapchallenge.com` and `poaprally.com`, which
-  Jamie already owns, are about the games, not the capsule.
+- **Domain.** Decided: `poap.thingelstad.xyz`. A subdomain Jamie already controls, with
+  no new registration to keep alive, following the S3 and CloudFront pattern in
+  `~/Projects/AGENTS.md`.
 - **Bucket.** The archive bucket is private and versioned. Publish from a separate
   `site/` prefix or a second bucket behind CloudFront so the raw archive stays private
   (it holds `interactions-PRIVATE.md` and the snapshot).
@@ -277,10 +282,10 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
 
 | Phase | Work | Needs from Jamie |
 |---|---|---|
-| 0 | Decisions below | Privacy option, domain, chapter titles and quotes, moment photo export |
+| 0 | Decisions below | Privacy option, chapter titles and quotes, moment photo export |
 | 1 | Timeline per year, drop and token pages, thumbnails, `scripts/build_site.py` | Nothing; the prototype is the start |
 | 2 | Collector and issuer pages, series pages, writing and advice pages, POAP page, about | Review of the advice table |
-| 3 | Network page under the chosen privacy option | The decision |
+| 3 | Network page under the chosen privacy option (prototype exists under option A) | The decision |
 | 4 | Closing essay, publish, Wayback, README | The essay |
 
 ## Decisions Jamie owns
@@ -288,7 +293,7 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
 ```
 Time capsule decisions:
 	- Privacy: pick A (counts), B (ENS only), C (ENS + short addresses) or D (family + opt-in) @flagged
-	- Domain: poap.thingelstad.com, or something else
+	- Domain: poap.thingelstad.xyz @done
 	- Form: Python generator (recommended) or Eleventy over emitted JSON
 	- Chapter titles and quotes: keep, rewrite or replace the six drafts in build_capsule.py
 	- Moments by others: quote the text without names, or leave out

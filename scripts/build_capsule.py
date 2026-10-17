@@ -85,13 +85,13 @@ def issuer_card(e):
     span = ""
     if e["first_mint"]:
         span = f'minted {e["first_mint"][:10]}' + (f' to {e["last_mint"][:10]}' if e["last_mint"][:10] != e["first_mint"][:10] else "")
-    bits = [place(e), f'{e["minted"]} minted by {e["collectors"]} people', span]
+    bits = [place(e), f'<a href="network.html">{e["minted"]} minted by {e["collectors"]} people</a>', span]
     if moments.get(e["drop_id"]): bits.append(f'{moments[e["drop_id"]]} moments')
     links = "".join(f' <a class="post" href="{ESC(w["url"])}">post</a>' for w in drop_posts.get(e["drop_id"], [])[:2])
     desc = (d.get("description") or "").strip()
     if len(desc) > 220: desc = desc[:220].rsplit(" ", 1)[0] + " …"
     desc = ESC(desc)
-    return (f'<div class="card issued" data-date="{e["date"][:10]}">{thumb(e["artwork"], e["drop_name"])}'
+    return (f'<div class="card issued" id="drop-{e["drop_id"]}" data-date="{e["date"][:10]}">{thumb(e["artwork"], e["drop_name"])}'
             f'<div><b>{ESC(e["drop_name"])}</b><span>{" · ".join(b for b in bits if b)}{links}</span>'
             f'<p>{desc}</p></div></div>')
 
@@ -159,7 +159,7 @@ blockquote{{margin:.8rem 0 0;font-size:1.15rem;line-height:1.4;max-width:46rem;f
 .colhead{{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:var(--mute);padding:.4rem 0;border-bottom:1px solid var(--line);position:sticky;top:2.6rem;background:var(--bg)}}
 .colhead.l{{color:var(--left)}}.colhead.r{{color:var(--right);text-align:right}}.colhead.s{{text-align:center;color:var(--spine)}}
 .day{{display:contents}}.day>div{{padding:.3rem 0;border-bottom:1px dashed var(--line);min-height:1.2rem}}.day>div:empty{{border-bottom-color:transparent}}
-.card{{display:flex;gap:.6rem;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.5rem;margin:.25rem 0;font-size:.85rem;border-left:4px solid var(--left)}}
+.card{{scroll-margin-top:3.2rem;display:flex;gap:.6rem;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.5rem;margin:.25rem 0;font-size:.85rem;border-left:4px solid var(--left)}}
 .card.issued{{border-left:none;border-right:4px solid var(--right)}}.card b{{display:block;font-size:.9rem;line-height:1.25}}.card span{{color:var(--mute);display:block}}.card p{{margin:.25rem 0 0;color:var(--mute);font-size:.78rem;line-height:1.3}}
 .card .post{{font-size:.75rem;text-decoration:none;border:1px solid var(--line);border-radius:4px;padding:0 .3em;margin-left:.3em}}
 .art{{width:56px;height:56px;border-radius:50%;object-fit:cover;flex:none;background:var(--line)}}.art.none{{display:inline-block}}
@@ -177,7 +177,7 @@ footer{{color:var(--mute);font-size:.8rem;max-width:1180px;margin:0 auto;padding
 <div class="totals"><div><b>{totals['collected']}</b>tokens collected</div><div><b>{totals['issued']}</b>drops issued</div><div><b>{totals['mints']:,}</b>tokens minted from them</div><div><b>{totals['people']}</b>people who collected one</div><div><b>{totals['writing']}</b>posts and issues</div></div>
 <p class="dek">Prototype built from the archive on 2026-10-17. Everything on this page is Jamie's own tokens, drops and writing. There are no collector lists or addresses; other people appear as counts, or where Jamie's own drop titles, descriptions and post titles already name them. Drops Jamie made sit at their event date, with the span of mints beneath. Jamie also minted {own_collected} of his own {totals['issued']} drops; those copies are folded into the right side.</p>
 </header>
-<nav><div>{" ".join(f'<a href="#y{y}">{y}</a>' for y in sorted(years))}
+<nav><div><a href="network.html" style="color:var(--ink)">Network →</a> {" ".join(f'<a href="#y{y}">{y}</a>' for y in sorted(years))}
 <label><input type="checkbox" checked data-col="left"> collected</label><label style="margin-left:0"><input type="checkbox" checked data-col="spine"> writing</label><label style="margin-left:0"><input type="checkbox" checked data-col="right"> issued</label></div></nav>
 <div class="legend"><span><i style="background:var(--left)"></i>collected from others</span><span><i style="background:var(--spine)"></i>Jamie's writing</span><span><i style="background:var(--ink)"></i>POAP the company</span><span><i style="background:var(--right)"></i>drops Jamie made</span></div>
 <main>"""]
