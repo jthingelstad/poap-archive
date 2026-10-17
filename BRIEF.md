@@ -3,6 +3,10 @@
 Read this first. It is the hand-off for a cloud session that will think hard about what to
 build from this archive. Nothing here is decided beyond what Jamie said.
 
+The site itself is built in its own public repo,
+[jthingelstad/poap.thingelstad.xyz](https://github.com/jthingelstad/poap.thingelstad.xyz),
+to be served at poap.thingelstad.xyz. This repo stays the data.
+
 ## What Jamie asked for (2026-10-17, in Jamie's words)
 
 > I'd like to explore creating a POAP time capsule of all my POAP collecting and issuing.
