@@ -335,10 +335,19 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
 - **Media prefixes.** `art/` (originals, GIF where animated), `raster/` (WebP at 160, 320,
   640, 1200), `records/` (per-drop JSON downloads). Published once with `If-None-Match: *`,
   immutable cache headers, recorded in `media.json`.
-- **Tinylytics.** No site is registered yet for `poap.thingelstad.xyz` (the account has
-  `nnxyz.thingelstad.xyz` and `thingelstad.xyz`). Jamie creates one and supplies the embed
-  id; it goes in `design/tinylytics.md` as nnxyz did, gated by `PUBLIC_TINYLYTICS_ENABLED`
-  and the production hostname, with kudos per drop.
+- **Tinylytics.** Registered 2026-10-17: site 3838, "POAP Capsule",
+  `https://poap.thingelstad.xyz`. The embed, supplied by Jamie, is a public browser
+  identifier, not a credential:
+
+  ```html
+  <script src="https://tinylytics.app/embed/nQYJ5URe6Y3umkYW7HQN.js" defer></script>
+  ```
+
+  Load it as nnxyz does: one script in the shared layout, only when
+  `PUBLIC_TINYLYTICS_ENABLED=true` and the page is on the production hostname, so local
+  review, CloudFront preview URLs and browser tests send nothing. Kudos per drop with
+  `?kudos=custom`, `class="tinylytics_kudos"` and `data-path` set to `/drops/<id>/`, private
+  counts. Copy this into the site repo as `design/tinylytics.md`.
 - **Permanence.** Submit to the Wayback Machine at launch. The archive bucket keeps the
   export bundle by SHA-256 as nnxyz keeps its collection. The built site is also a folder
   that works from `file://` because every page is static.
@@ -350,7 +359,7 @@ step produced.
 
 | Step | Work | Where | Needs from Jamie |
 |---|---|---|---|
-| 0 | Remaining decisions below | | Chapter text, closing essay, photo export, Tinylytics id |
+| 0 | Remaining decisions below | | Chapter text, closing essay, photo export |
 | 1 | `scripts/export_site_data.py` and the contract in section 2; the network layout moves into it | poap-archive | Nothing |
 | 2 | Bootstrap the site repo from the nnxyz skeleton: infra renamed, tools copied, CI, an empty Layout. Deploy it so DNS, certificate and the delivery role are done first; they have external waits | new repo | DNS records, one reviewed change set |
 | 3 | Publish media once from this archive; commit `media.json` | both | Nothing |
@@ -369,7 +378,7 @@ Time capsule decisions:
 	- Domain: poap.thingelstad.xyz @done
 	- Moments by others: quote with the author's name @done
 	- Form: Astro in a new repo jthingelstad/poap.thingelstad.xyz, on the nnxyz pattern (recommended; 11ty keeps the same contract and URLs)
-	- Tinylytics: create the site for poap.thingelstad.xyz and supply the embed id
+	- Tinylytics: site 3838, embed nQYJ5URe6Y3umkYW7HQN @done
 	- Chapter titles and quotes: keep or rewrite the six drafts in build_capsule.py
 	- Export moment photos from Photos for the 81 you posted (timestamps in compass/moments.json)
 	- Write the closing essay on the wind-down
