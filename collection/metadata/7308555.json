@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/185737/7308555",
+    "id": "7308555",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/4f507ffe-2fb8-4b15-8659-a486a5a82b3a.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/4f507ffe-2fb8-4b15-8659-a486a5a82b3a.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "18-Feb-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "19-Feb-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": ""
+        }
+      ],
+      "description": "This POAP is to commemorate an awesome evening of Ice Fishing hosted by Andy Domeier on an exceptionally cold Minnesota night with temperatures well below 0 \u00b0F on Pierson Lake, Carver County, Minnesota.",
+      "external_url": "https://api.poap.tech/metadata/185737/7308555",
+      "home_url": "https://app.poap.xyz/token/7308555",
+      "image_url": "https://assets.poap.xyz/4f507ffe-2fb8-4b15-8659-a486a5a82b3a.png",
+      "name": "Ice Fishing on Pierson Lake",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is to commemorate an awesome evening of Ice Fishing hosted by Andy Domeier on an exceptionally cold Minnesota night with temperatures well below 0 \u00b0F on Pierson Lake, Carver County, Minnesota.",
+    "external_url": "https://api.poap.tech/metadata/185737/7308555",
+    "home_url": "https://app.poap.xyz/token/7308555",
+    "image_url": "https://assets.poap.xyz/4f507ffe-2fb8-4b15-8659-a486a5a82b3a.png",
+    "name": "Ice Fishing on Pierson Lake",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "18-Feb-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "19-Feb-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": ""
+      }
+    ]
+  }
+}

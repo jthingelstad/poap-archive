@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/185658/7308201",
+    "id": "7308201",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/50f5a9b6-f3ba-4ea7-8037-1bf080fb3b97.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/50f5a9b6-f3ba-4ea7-8037-1bf080fb3b97.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "02-Dec-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "07-Dec-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.spscommerce.com/"
+        }
+      ],
+      "description": "Cyberweek t-shirts have been a tradition for TeamSPS for more than a decade. In recent years we've also extended the tradition to challenge coins and POAP tokens. The design for these memorabilia is always done after Cyberweek so that we can pull in \"the story\" of each year. 2024 was the year of scale and resiliency driving super fast performance!\n\nThis year's incredible execution of the Scale & Resiliency efforts resulted in huge improvements in our systems. Some of our core services operated 6 times faster than they did in previous years. This resulted in an incredibly robust Cyberweek, as well as an efficient one. Last year's 800 servers was this year's fleet of 200 that were not saturated. The design this year reflects this theme of \"Getting Fit\" harking to a gym theme. The shirt shows a robot, representing the SPS platform, lifting a massive weight. The plates are \"100k Parcel\" plates, represented by this token and the challenge coins. The robot is not massive but is instead svelte and agile. Lifting with ease this incredible load.\n\nAll designs by the incredible Meghan McDermott.",
+      "external_url": "https://api.poap.tech/metadata/185658/7308201",
+      "home_url": "https://app.poap.xyz/token/7308201",
+      "image_url": "https://assets.poap.xyz/50f5a9b6-f3ba-4ea7-8037-1bf080fb3b97.png",
+      "name": "TeamSPS Cyberweek 2024",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Cyberweek t-shirts have been a tradition for TeamSPS for more than a decade. In recent years we've also extended the tradition to challenge coins and POAP tokens. The design for these memorabilia is always done after Cyberweek so that we can pull in \"the story\" of each year. 2024 was the year of scale and resiliency driving super fast performance!\n\nThis year's incredible execution of the Scale & Resiliency efforts resulted in huge improvements in our systems. Some of our core services operated 6 times faster than they did in previous years. This resulted in an incredibly robust Cyberweek, as well as an efficient one. Last year's 800 servers was this year's fleet of 200 that were not saturated. The design this year reflects this theme of \"Getting Fit\" harking to a gym theme. The shirt shows a robot, representing the SPS platform, lifting a massive weight. The plates are \"100k Parcel\" plates, represented by this token and the challenge coins. The robot is not massive but is instead svelte and agile. Lifting with ease this incredible load.\n\nAll designs by the incredible Meghan McDermott.",
+    "external_url": "https://api.poap.tech/metadata/185658/7308201",
+    "home_url": "https://app.poap.xyz/token/7308201",
+    "image_url": "https://assets.poap.xyz/50f5a9b6-f3ba-4ea7-8037-1bf080fb3b97.png",
+    "name": "TeamSPS Cyberweek 2024",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "02-Dec-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "07-Dec-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.spscommerce.com/"
+      }
+    ]
+  }
+}

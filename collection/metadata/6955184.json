@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/166479/6955184",
+    "id": "6955184",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/64d34b70-a3d7-42e0-b386-eb52f6510f1b.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/64d34b70-a3d7-42e0-b386-eb52f6510f1b.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "03-Jan-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "04-Jan-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com"
+        }
+      ],
+      "description": "This POAP is my gift to anyone joining in celebrating my 52nd Birthday. This token is directly distributed via claim code to each recipient. The design was created by @harchy33 via POAPathon!\n\nAlso see\n- 51st Birthday: https://poap.gallery/event/95194\n- 50th Birthday: https://poap.gallery/event/20896",
+      "external_url": "https://api.poap.tech/metadata/166479/6955184",
+      "home_url": "https://app.poap.xyz/token/6955184",
+      "image_url": "https://assets.poap.xyz/64d34b70-a3d7-42e0-b386-eb52f6510f1b.png",
+      "name": "Jamie Thingelstad's 52nd Birthday",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is my gift to anyone joining in celebrating my 52nd Birthday. This token is directly distributed via claim code to each recipient. The design was created by @harchy33 via POAPathon!\n\nAlso see\n- 51st Birthday: https://poap.gallery/event/95194\n- 50th Birthday: https://poap.gallery/event/20896",
+    "external_url": "https://api.poap.tech/metadata/166479/6955184",
+    "home_url": "https://app.poap.xyz/token/6955184",
+    "image_url": "https://assets.poap.xyz/64d34b70-a3d7-42e0-b386-eb52f6510f1b.png",
+    "name": "Jamie Thingelstad's 52nd Birthday",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "03-Jan-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "04-Jan-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com"
+      }
+    ]
+  }
+}

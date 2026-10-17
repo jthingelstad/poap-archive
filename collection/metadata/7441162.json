@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190535/7441162",
+    "id": "7441162",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/25ebed62-e5f1-47bb-abad-5f3af11cf86e.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/25ebed62-e5f1-47bb-abad-5f3af11cf86e.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "Bold, provocative, and never afraid to experiment, the Walker Art Center is a beacon for contemporary art lovers. It challenges, surprises, and sometimes even confuses\u2014but that\u2019s exactly the point. Whether inside the galleries or wandering the adjacent sculpture garden, you\u2019re part of the conversation. Collect this Culture Collector POAP and honor your curiosity in the 612 POAP Challenge. \n\nCategory: Culture Collector \nGPS: 44.96848, -93.28869 \nMap: https://www.google.com/maps/place/44.96848,-93.28869 \nWikipedia: https://en.wikipedia.org/wiki/Walker_Art_Center \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999174310824247297",
+      "external_url": "https://api.poap.tech/metadata/190535/7441162",
+      "home_url": "https://app.poap.xyz/token/7441162",
+      "image_url": "https://assets.poap.xyz/25ebed62-e5f1-47bb-abad-5f3af11cf86e.png",
+      "name": "Walker Art Center \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Bold, provocative, and never afraid to experiment, the Walker Art Center is a beacon for contemporary art lovers. It challenges, surprises, and sometimes even confuses\u2014but that\u2019s exactly the point. Whether inside the galleries or wandering the adjacent sculpture garden, you\u2019re part of the conversation. Collect this Culture Collector POAP and honor your curiosity in the 612 POAP Challenge. \n\nCategory: Culture Collector \nGPS: 44.96848, -93.28869 \nMap: https://www.google.com/maps/place/44.96848,-93.28869 \nWikipedia: https://en.wikipedia.org/wiki/Walker_Art_Center \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999174310824247297",
+    "external_url": "https://api.poap.tech/metadata/190535/7441162",
+    "home_url": "https://app.poap.xyz/token/7441162",
+    "image_url": "https://assets.poap.xyz/25ebed62-e5f1-47bb-abad-5f3af11cf86e.png",
+    "name": "Walker Art Center \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

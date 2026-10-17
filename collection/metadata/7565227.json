@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/226140/7565227",
+    "id": "7565227",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/0f74c09a-075f-45a4-8cf9-7cfd8f7c417c.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/0f74c09a-075f-45a4-8cf9-7cfd8f7c417c.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "11-Feb-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "12-Feb-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapkings.com"
+        }
+      ],
+      "description": "This POAP marks the Ladder battle where King Thing of POAP KINGS surged from 9,986 to 10,016 trophies, officially breaking the 10K barrier. Running a disciplined 3.8 elixir control deck, he leveraged a Level 16 Witch to generate constant skeleton pressure, a Level 16 Cannon to shut down counter pushes, and a stealthy Royal Ghost to chip and threaten. Skeleton Army punished misplays, Royal Hogs split lanes to force defensive splits, and Inferno Dragon melted through resistance when the window opened, while Arrows kept swarms in check. With composure, tempo control, and precise timing, King Thing earned the +30 trophies that secured his place in five-digit territory.",
+      "external_url": "https://api.poap.tech/metadata/226140/7565227",
+      "home_url": "https://app.poap.xyz/token/7565227",
+      "image_url": "https://assets.poap.xyz/0f74c09a-075f-45a4-8cf9-7cfd8f7c417c.png",
+      "name": "King Thing 10k | POAP KINGS",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP marks the Ladder battle where King Thing of POAP KINGS surged from 9,986 to 10,016 trophies, officially breaking the 10K barrier. Running a disciplined 3.8 elixir control deck, he leveraged a Level 16 Witch to generate constant skeleton pressure, a Level 16 Cannon to shut down counter pushes, and a stealthy Royal Ghost to chip and threaten. Skeleton Army punished misplays, Royal Hogs split lanes to force defensive splits, and Inferno Dragon melted through resistance when the window opened, while Arrows kept swarms in check. With composure, tempo control, and precise timing, King Thing earned the +30 trophies that secured his place in five-digit territory.",
+    "external_url": "https://api.poap.tech/metadata/226140/7565227",
+    "home_url": "https://app.poap.xyz/token/7565227",
+    "image_url": "https://assets.poap.xyz/0f74c09a-075f-45a4-8cf9-7cfd8f7c417c.png",
+    "name": "King Thing 10k | POAP KINGS",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "11-Feb-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "12-Feb-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapkings.com"
+      }
+    ]
+  }
+}

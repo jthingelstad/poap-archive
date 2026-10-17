@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/173328/7122301",
+    "id": "7122301",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/89bc3915-67d7-4365-8288-afae2197f7bb.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/89bc3915-67d7-4365-8288-afae2197f7bb.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "08-May-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "09-May-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Saint Paul, MN"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://mntech.org/tech-connect-2024/"
+        }
+      ],
+      "description": "You met Jamie Thingelstad at the Minnesota Technology Association Tech Connect 2024 in St. Paul, Minnesota.\n\nWebsite: https://www.thingelstad.com  \nWeekly Thing: https://weekly.thingelstad.com  \nFediverse: @jamiethingelstad@mastodon.social  \nLinkedIn: https://www.linkedin.com/in/jthingelstad/  \nTwitter: https://twitter.com/thingles  \nEthereum: thingelstad.eth",
+      "external_url": "https://api.poap.tech/metadata/173328/7122301",
+      "home_url": "https://app.poap.xyz/token/7122301",
+      "image_url": "https://assets.poap.xyz/89bc3915-67d7-4365-8288-afae2197f7bb.png",
+      "name": "You've met Jamie Thingelstad at Tech Connect 2024",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "You met Jamie Thingelstad at the Minnesota Technology Association Tech Connect 2024 in St. Paul, Minnesota.\n\nWebsite: https://www.thingelstad.com  \nWeekly Thing: https://weekly.thingelstad.com  \nFediverse: @jamiethingelstad@mastodon.social  \nLinkedIn: https://www.linkedin.com/in/jthingelstad/  \nTwitter: https://twitter.com/thingles  \nEthereum: thingelstad.eth",
+    "external_url": "https://api.poap.tech/metadata/173328/7122301",
+    "home_url": "https://app.poap.xyz/token/7122301",
+    "image_url": "https://assets.poap.xyz/89bc3915-67d7-4365-8288-afae2197f7bb.png",
+    "name": "You've met Jamie Thingelstad at Tech Connect 2024",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "08-May-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "09-May-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Saint Paul, MN"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://mntech.org/tech-connect-2024/"
+      }
+    ]
+  }
+}

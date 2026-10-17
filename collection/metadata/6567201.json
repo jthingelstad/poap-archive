@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/117329/6567201",
+    "id": "6567201",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/3c0c456d-a450-49ae-8c05-35bba5dc6095.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/3c0c456d-a450-49ae-8c05-35bba5dc6095.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "22-Apr-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "23-Apr-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://minnestar.org/minnebar/"
+        }
+      ],
+      "description": "This POAP was given to community members that led sessions at Minnebar 17. First held in 2006, Minnebar is the nation's largest and longest-running technology unconference. Like other unconferences (or BarCamps), Minnebar is a user-generated conference that is participant-led. There are no keynote speakers or formal workshops, and all sessions are led by people from the tech and business communities. Minnebar 17 was held at Best Buy's Corporate Headquarters on Saturday, April 22nd 2023. This POAP was distributed directly via claim code to presenters by event organizers.",
+      "external_url": "https://api.poap.tech/metadata/117329/6567201",
+      "home_url": "https://app.poap.xyz/token/6567201",
+      "image_url": "https://assets.poap.xyz/3c0c456d-a450-49ae-8c05-35bba5dc6095.png",
+      "name": "Minnebar 17 Presenter",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP was given to community members that led sessions at Minnebar 17. First held in 2006, Minnebar is the nation's largest and longest-running technology unconference. Like other unconferences (or BarCamps), Minnebar is a user-generated conference that is participant-led. There are no keynote speakers or formal workshops, and all sessions are led by people from the tech and business communities. Minnebar 17 was held at Best Buy's Corporate Headquarters on Saturday, April 22nd 2023. This POAP was distributed directly via claim code to presenters by event organizers.",
+    "external_url": "https://api.poap.tech/metadata/117329/6567201",
+    "home_url": "https://app.poap.xyz/token/6567201",
+    "image_url": "https://assets.poap.xyz/3c0c456d-a450-49ae-8c05-35bba5dc6095.png",
+    "name": "Minnebar 17 Presenter",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "22-Apr-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "23-Apr-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://minnestar.org/minnebar/"
+      }
+    ]
+  }
+}

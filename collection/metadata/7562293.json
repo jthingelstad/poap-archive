@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/225933/7562293",
+    "id": "7562293",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/71d5b9ba-77b8-4c1c-b835-e77b527f554f.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/71d5b9ba-77b8-4c1c-b835-e77b527f554f.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "04-Feb-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-May-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapkings.com/"
+        }
+      ],
+      "description": "This Founder POAP recognizes the players who were there at the start \u2014 pushing, donating, and building the traditions that define the clan. Every dynasty starts somewhere.",
+      "external_url": "https://api.poap.tech/metadata/225933/7562293",
+      "home_url": "https://app.poap.xyz/token/7562293",
+      "image_url": "https://assets.poap.xyz/71d5b9ba-77b8-4c1c-b835-e77b527f554f.png",
+      "name": "POAP KINGS Founder",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This Founder POAP recognizes the players who were there at the start \u2014 pushing, donating, and building the traditions that define the clan. Every dynasty starts somewhere.",
+    "external_url": "https://api.poap.tech/metadata/225933/7562293",
+    "home_url": "https://app.poap.xyz/token/7562293",
+    "image_url": "https://assets.poap.xyz/71d5b9ba-77b8-4c1c-b835-e77b527f554f.png",
+    "name": "POAP KINGS Founder",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "04-Feb-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-May-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapkings.com/"
+      }
+    ]
+  }
+}

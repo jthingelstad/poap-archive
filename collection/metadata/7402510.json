@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/194309/7402510",
+    "id": "7402510",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/f11159be-7966-4418-8c3d-0188ea7d8903.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/f11159be-7966-4418-8c3d-0188ea7d8903.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "02-Aug-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "03-Aug-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Laval, Qu\u00e9bec"
+        },
+        {
+          "trait_type": "country",
+          "value": "Canada"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/2025/08/02/magnifico-at-escaparium.html"
+        }
+      ],
+      "description": "On August 2nd, 2025, the Thingelstad family entered their 79th escape room. The lights dimmed, the music swelled, and the magic began.\n\nThis POAP commemorates our unforgettable journey through Magnifico\u2019s Circus at Escaparium in Laval, Qu\u00e9bec\u2014ranked the #1 escape room in the world by the 2024 TERPECA Awards. More than a room, it was a theatrical masterpiece that blended immersive storytelling, interactive performance, dazzling sets, and inventive puzzles into one mesmerizing experience.\n\nJamie: \u201cUnlike any escape room I\u2019ve ever imagined. The depth of the story drew us in. I didn\u2019t want it to end. Wow!\u201d\n\nTammy: \u201cNot just an escape room\u2014an interactive play with a remarkable story, set, and cast.\u201d\n\nMazie: \u201cA real-life choose-your-own-adventure. We rode rides, witnessed magic, and even died!\u201d\n\nTyler: \u201cSo many different puzzles and people. Always something exciting happening. Never boring.\u201d\n\nThis POAP marks our crossing into a world where time bends, fiction breathes, and room #79 became a story we\u2019ll never forget. \ud83c\udf9f\ufe0f\n\nMagnifico\u2019s Circus: Where every moment is part of the show. \ud83d\udd2e\n\nBlog: https://www.thingelstad.com/2025/08/02/magnifico-at-escaparium.html\nRoom: https://www.escaparium.ca/laval-escape-game/rooms/\nSoundtrack: https://www.youtube.com/watch?v=EhOaVXAJK8o\nTERPECA 2024: https://terpeca.com/2024/\nEscape Room List: https://www.thingelstad.com/lists/escape-rooms/",
+      "external_url": "https://api.poap.tech/metadata/194309/7402510",
+      "home_url": "https://app.poap.xyz/token/7402510",
+      "image_url": "https://assets.poap.xyz/f11159be-7966-4418-8c3d-0188ea7d8903.png",
+      "name": "Magnifico at Escaparium \ud83c\udfaa",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "On August 2nd, 2025, the Thingelstad family entered their 79th escape room. The lights dimmed, the music swelled, and the magic began.\n\nThis POAP commemorates our unforgettable journey through Magnifico\u2019s Circus at Escaparium in Laval, Qu\u00e9bec\u2014ranked the #1 escape room in the world by the 2024 TERPECA Awards. More than a room, it was a theatrical masterpiece that blended immersive storytelling, interactive performance, dazzling sets, and inventive puzzles into one mesmerizing experience.\n\nJamie: \u201cUnlike any escape room I\u2019ve ever imagined. The depth of the story drew us in. I didn\u2019t want it to end. Wow!\u201d\n\nTammy: \u201cNot just an escape room\u2014an interactive play with a remarkable story, set, and cast.\u201d\n\nMazie: \u201cA real-life choose-your-own-adventure. We rode rides, witnessed magic, and even died!\u201d\n\nTyler: \u201cSo many different puzzles and people. Always something exciting happening. Never boring.\u201d\n\nThis POAP marks our crossing into a world where time bends, fiction breathes, and room #79 became a story we\u2019ll never forget. \ud83c\udf9f\ufe0f\n\nMagnifico\u2019s Circus: Where every moment is part of the show. \ud83d\udd2e\n\nBlog: https://www.thingelstad.com/2025/08/02/magnifico-at-escaparium.html\nRoom: https://www.escaparium.ca/laval-escape-game/rooms/\nSoundtrack: https://www.youtube.com/watch?v=EhOaVXAJK8o\nTERPECA 2024: https://terpeca.com/2024/\nEscape Room List: https://www.thingelstad.com/lists/escape-rooms/",
+    "external_url": "https://api.poap.tech/metadata/194309/7402510",
+    "home_url": "https://app.poap.xyz/token/7402510",
+    "image_url": "https://assets.poap.xyz/f11159be-7966-4418-8c3d-0188ea7d8903.png",
+    "name": "Magnifico at Escaparium \ud83c\udfaa",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "02-Aug-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "03-Aug-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Laval, Qu\u00e9bec"
+      },
+      {
+        "trait_type": "country",
+        "value": "Canada"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/2025/08/02/magnifico-at-escaparium.html"
+      }
+    ]
+  }
+}

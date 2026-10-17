@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:title" content="POAP Events">
+  <meta property="og:title" content="POAP Events">
+  
+  
+  <meta name="twitter:description" content="List of POAP events that I have created. Also see …">
+  <meta name="og:description" content="List of POAP events that I have created. Also see …">
+  <meta name="description" content="List of POAP events that I have created. Also see POAP&rsquo;s in poap.thingelstad.eth.
+
+Things4Good
+See organization drops.">
+  
+  
+    
+  
+  <title>POAP Events | Jamie Thingelstad</title>
+  <link rel="canonical" href="https://www.thingelstad.com/lists/poap-events/">
+  
+  <link rel="stylesheet" href="/css/main.css?1791997526">
+  
+  
+  
+  
+  <link rel="alternate" href="https://www.thingelstad.com/feed.xml" type="application/rss+xml" title="Jamie Thingelstad">
+  <link rel="alternate" href="https://www.thingelstad.com/feed.json" type="application/json" title="Jamie Thingelstad">
+
+
+
+  <link rel="alternate" href="https://www.thingelstad.com/podcast.xml" type="application/rss+xml" title="Podcast">
+  <link rel="alternate" href="https://www.thingelstad.com/podcast.json" type="application/json" title="Podcast">
+
+
+<link rel="me" href="https://micro.blog/jthingelstad">
+
+
+
+
+  <link rel="me" href="https://github.com/jthingelstad">
+
+
+
+
+<link rel="shortcut icon" href="https://micro.blog/jthingelstad/favicon.png" type="image/x-icon">
+<link rel="EditURI" type="application/rsd+xml" href="https://www.thingelstad.com/rsd.xml">
+<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth">
+<link rel="token_endpoint" href="https://micro.blog/indieauth/token">
+<link rel="subscribe" href="https://micro.blog/users/follow">
+<link rel="webmention" href="https://micro.blog/webmention">
+<link rel="micropub" href="https://micro.blog/micropub">
+<link rel="microsub" href="https://micro.blog/microsub">
+
+
+  <link rel="site.standard.publication" href="at://did:plc:fs6gc4y7acmz5lvn64sbts5w/site.standard.publication/3mnp6rugjb52c">
+
+
+
+
+<link rel="stylesheet" href="/custom.css?1791997526">
+
+
+  <link rel="stylesheet" href="/css/collections.css?v=11">
+
+  <link rel="stylesheet" href="/archive_months.css?v=11">
+
+  <link rel="stylesheet" href="/assets/css/poststats.css?v=11">
+
+
+
+  <script type="module">
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('https:\/\/www.thingelstad.com\/surprise-me\/redirect.js')
+    .catch((error) => {
+      console.error('Service Worker registration failed:', error);
+    });
+}
+</script>
+
+
+  
+<script type="module">
+  const base64Decode = (text) => decodeURIComponent(atob(text));
+
+  document.addEventListener('click', e => {
+    const link = e.target.closest('a.reply-by-email');
+
+    if (link) {
+      e.preventDefault();
+      window.location = base64Decode(link.dataset.meta.match(/.{2}/g).map(hex => String.fromCharCode(parseInt(hex, 16) ^ 0x24)).join(''));
+    }
+  });
+  </script>
+
+  <script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const images = document.querySelectorAll('.microblog_collection img');
+		let currentImageIndex = 0;
+		let isMultiLightbox = false;
+
+		function isDataURL(url) {
+			return (typeof url == 'string') && url.trim().startsWith('data:');
+		}
+
+		function createLightbox() {
+			
+			const lightbox = document.createElement('div');
+			lightbox.id = 'microblog_lightbox';
+			
+			const closeBtn = document.createElement('button');
+			closeBtn.id = 'microblog_lightbox_close_btn';
+			closeBtn.innerHTML = '&times;';
+			
+			const prevBtn = document.createElement('button');
+			prevBtn.id = 'microblog_lightbox_prev_btn';
+			prevBtn.className = 'microblog_lightbox_nav';
+			prevBtn.innerHTML = '&larr;';
+			
+			const nextBtn = document.createElement('button');
+			nextBtn.id = 'microblog_lightbox_next_btn';
+			nextBtn.className = 'microblog_lightbox_nav';
+			nextBtn.innerHTML = '&rarr;';
+			
+			const lightboxImg = document.createElement('img');
+			lightboxImg.id = 'microblog_lightbox_img';
+			lightboxImg.alt = 'Lightbox Image';
+			
+			lightbox.appendChild(closeBtn);
+			lightbox.appendChild(prevBtn);
+			lightbox.appendChild(lightboxImg);
+			lightbox.appendChild(nextBtn);
+			
+			document.body.appendChild(lightbox);
+		
+			return { lightbox, closeBtn, prevBtn, nextBtn, lightboxImg };
+		}
+		
+		const { 
+			lightbox, 
+			closeBtn, 
+			prevBtn, 
+			nextBtn, 
+			lightboxImg 
+		} = createLightbox();
+
+		function openMultiLightbox(index) {
+			isMultiLightbox = true;
+			currentImageIndex = index;
+			lightboxImg.src = images[index].getAttribute('data-microblog-lightbox');
+			lightbox.style.display = 'flex';
+
+			
+			prevBtn.style.display = 'block';
+			nextBtn.style.display = 'block';
+		}
+		
+		function openSingleLightbox(url) {
+			isMultiLightbox = false;
+			lightboxImg.src = url;
+			lightbox.style.display = 'flex';
+
+			
+			prevBtn.style.display = 'none';
+			nextBtn.style.display = 'none';
+		}
+
+		function closeLightbox() {
+			lightbox.style.display = 'none';
+		}
+
+		function navigatePrevious() {
+			currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
+			lightboxImg.src = images[currentImageIndex].getAttribute('data-microblog-lightbox');
+		}
+
+		function navigateNext() {
+			currentImageIndex = (currentImageIndex + 1) % images.length;
+			lightboxImg.src = images[currentImageIndex].getAttribute('data-microblog-lightbox');
+		}
+
+		
+		images.forEach((img, index) => {
+			if (isDataURL(img.src)) {
+				return;
+			}
+			img.addEventListener('click', () => openMultiLightbox(index));
+		});
+
+		closeBtn.addEventListener('click', closeLightbox);
+		prevBtn.addEventListener('click', navigatePrevious);
+		nextBtn.addEventListener('click', navigateNext);
+
+		
+		document.addEventListener('keydown', (e) => {
+			if (lightbox.style.display === 'flex') {
+				switch (e.key) {
+					case 'ArrowLeft':
+						if (isMultiLightbox) {
+							navigatePrevious();
+						}
+						break;
+					case 'ArrowRight':
+						if (isMultiLightbox) {
+							navigateNext();
+						}
+						break;
+					case 'Escape':
+						closeLightbox();
+						break;
+				}
+			}
+		});
+
+		
+		lightbox.addEventListener('click', (e) => {
+			if (e.target === lightbox) {
+				closeLightbox();
+			}
+		});
+		
+		
+		const single_images = document.querySelectorAll(".e-content img, .p-summary img");
+		single_images.forEach(function(image) {
+			
+			if (image.closest(".microblog_collection")) {
+				return;
+			}
+		
+			
+			if (!image.closest("a")) {
+				
+				const hasClickHandler = image.onclick || image.hasAttribute("onclick");
+				const hasTouchHandler = image.ontouchstart || image.hasAttribute("ontouchstart");
+		
+				
+				if (!hasClickHandler && !hasTouchHandler && !isDataURL(image.src)) {
+					image.addEventListener("click", function() {
+						openSingleLightbox(image.src);
+					});
+				}
+			}
+		});
+	});
+</script>
+
+
+  <script src="https://tinylytics.app/embed/dMNzEVG73Bcq1RisbGRG.js?hits&kudos=%f0%9f%91%8d&uptime&webring=avatars&countries&publicstats" defer></script>
+
+
+
+  
+</head>
+
+
+<body>
+  <header class="site-header">
+	
+	<a href="/"><img src="https://avatars.micro.blog/avatars/2025/14/1545.jpg" alt="Jamie Thingelstad Profile Photo" class="profile_photo u-photo" width="80" height="80"></a>
+	
+	
+	<h1><a class="site-title p-name u-url" href="/">Jamie Thingelstad</a></h1>
+	
+	
+	<p>Writer of the <a href="https://weekly.thingelstad.com/">Weekly Thing</a>. <a href="https://www.thingelstad.com/">Blogger</a>. Explorer of tech, the open web, AI, and a <a href="https://escape.thingelstad.com/">good escape room</a>. Maybe a <a href="https://another.thingelstad.com/">podcast</a>? CTO of <a href="https://www.spscommerce.com/">SPS Commerce</a>, Board Member of <a href="https://mntech.org/">MnTech</a>, Former Board Member <a href="https://minnestar.org/">Minnestar</a>. <a href="https://www.minneapolis.org/">Minneapolis</a> is home.
+	
+	
+	<nav class="site-nav">
+		<ul>
+			
+			
+			
+			<li><a class="page-link About" href="/about/">About</a></li>
+			
+			
+			
+			<li><a class="page-link Connect" href="/connect/">Connect</a></li>
+			
+			
+			
+			<li><a class="page-link Newsletter" href="/newsletter/">Newsletter</a></li>
+			
+			
+			
+			<li><a class="page-link Podcast" href="/podcast/">Podcast</a></li>
+			
+			
+			
+			<li><a class="page-link Lists" href="/lists/">Lists</a></li>
+			
+			
+			
+			<li><a class="page-link Collections" href="/collections/">Collections</a></li>
+			
+			
+			
+			<li><a class="page-link Projects" href="/projects/">Projects</a></li>
+			
+			
+			
+			<li><a class="page-link On This Day" href="/on-this-day/">On This Day</a></li>
+			
+			
+			
+			<li><a class="page-link Archive" href="/archive/">Archive</a></li>
+			
+			
+			
+			<li><a class="page-link Search" href="/search/">Search</a></li>
+			
+			
+			
+			<li><a class="page-link Stats" href="/stats/">Stats</a></li>
+			
+			
+			
+		</ul>
+	</nav>
+	
+</header>
+
+
+  <div class="page-content">
+    <div class="wrapper">
+      
+<div class="page">
+
+  
+
+  
+  <h2 class="p-name">POAP Events</h2>
+  
+
+  
+
+  <article class="post-content">
+    <p>List of POAP events that I have created. Also see <a href="https://app.poap.xyz/scan/poap.thingelstad.eth">POAP&rsquo;s in poap.thingelstad.eth</a>.</p>
+<div class="microblog_collection"><img src="https://cdn.uploads.micro.blog/890/2022/c6c7fa46dd.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2022/c6c7fa46dd.png"><img src="https://cdn.uploads.micro.blog/890/2022/410c6d467e.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2022/410c6d467e.png"><img src="https://cdn.uploads.micro.blog/890/2022/1eb7321e69.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2022/1eb7321e69.png"><img src="https://cdn.uploads.micro.blog/890/2022/6a192662e4.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2022/6a192662e4.png"><img src="https://cdn.uploads.micro.blog/890/2023/33352bcddc.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2023/33352bcddc.png"><img src="https://cdn.uploads.micro.blog/890/2023/71e563c0be.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2023/71e563c0be.png"><img src="https://cdn.uploads.micro.blog/890/2023/93d4b9f028.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2023/93d4b9f028.png"><img src="https://cdn.uploads.micro.blog/890/2023/f063786cdb.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2023/f063786cdb.png"><img src="https://cdn.uploads.micro.blog/890/2023/986e813deb.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2023/986e813deb.png"><img src="https://cdn.uploads.micro.blog/890/2024/a4f5d60c3e.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2024/a4f5d60c3e.png"><img src="https://cdn.uploads.micro.blog/890/2024/61eeaf4a45.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2024/61eeaf4a45.png"><img src="https://cdn.uploads.micro.blog/890/2024/eccc191249.png" alt="" data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2024/eccc191249.png"><img src="https://cdn.uploads.micro.blog/890/2024/23b46f9af0-m.jpg" alt="Several colorful candles in glass jars are arranged with wooden wicks, surrounded by the text Things 4 Good Candle Fundraiser 2024 in a circular design." data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2024/23b46f9af0.jpg"><img src="https://cdn.uploads.micro.blog/890/2024/ae5980aa4c.png" alt="A festive, colorful holiday scene features an open gift box with candy canes, ornaments, and a golden speech bubble displaying a star." data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2024/ae5980aa4c.png"><img src="https://cdn.uploads.micro.blog/890/2025/458f199786.png" alt="A large, icy fish appears to be leaping out of an ice fishing hole on a frozen lake." data-microblog-lightbox="https://cdn.uploads.micro.blog/890/2025/458f199786.png"></div>
+<h3 id="things4good">Things4Good</h3>
+<p>See <a href="https://collections.poap.xyz/organizations/things-4-good">organization drops</a>.</p>
+<h3 id="me">Me</h3>
+<ul>
+<li><a href="https://poap.gallery/drops/20896">20896 - Jamie Thingelstad&rsquo;s 50th Birthday</a></li>
+<li><a href="https://poap.gallery/drops/95194">95194 - Jamie Thingelstad&rsquo;s 51st Birthday</a></li>
+<li><a href="https://poap.gallery/drops/166479">166479 - Jamie Thingelstad&rsquo;s 52nd Birthday</a></li>
+<li><a href="https://poap.gallery/drops/183305">183305 - Jamie Thingelstad&rsquo;s 53rd Birthday</a></li>
+</ul>
+<h3 id="networking">Networking</h3>
+<ul>
+<li><a href="https://poap.gallery/event/66832">66832 - You&rsquo;ve met thingelstad.eth - October 2022</a></li>
+<li><a href="https://poap.gallery/event/98116">98116 - You&rsquo;ve met thingelstad.eth - January 2023</a></li>
+<li><a href="https://poap.gallery/event/102426">102426 - I met thingelstad.eth - February 2023</a></li>
+<li><a href="https://poap.gallery/event/108920">108920 - I met poap.thingelstad.eth - March 2023</a></li>
+<li><a href="https://poap.gallery/event/117615">117615 - You&rsquo;ve met Jamie Thingelstad (April 2023)</a></li>
+<li><a href="https://poap.gallery/event/126661">126661 - You&rsquo;ve met Jamie Thingelstad at Bitcoin 2023</a></li>
+<li><a href="https://poap.gallery/event/173328">173328 - You&rsquo;ve met Jamie Thingelstad at Tech Connect 2024</a></li>
+<li><a href="https://poap.gallery/event/189532">189533 - You have met Jamie Thingelstad at Minnebar 19</a></li>
+</ul>
+<h3 id="weekly-thing">Weekly Thing</h3>
+<ul>
+<li><a href="https://poap.gallery/event/11276">11276 - Weekly Thing #200</a></li>
+<li><a href="https://poap.gallery/event/44270">44270 - Weekly Thing Five Year Anniversary</a></li>
+<li><a href="https://poap.gallery/event/108702">108702 - Weekly Thing Ukraine Fundraiser 2023</a></li>
+<li><a href="https://poap.gallery/event/126001">126001 - Weekly Thing Six Year Anniversary</a></li>
+<li><a href="https://poap.gallery/event/150735">150735 - Weekly Thing Forum Launch</a></li>
+<li><a href="https://poap.gallery/event/173575">173575 - Weekly Thing Seven Year Anniversary</a></li>
+<li><a href="https://poap.gallery/event/179699">179699 - Weekly Thing Early Supporting Member</a></li>
+<li><a href="https://poap.gallery/event/179700">179700 - Weekly Thing 300</a></li>
+<li><a href="https://poap.gallery/event/183156">183156 - Weekly Thing Christmas Blogs</a></li>
+<li><a href="https://poap.gallery/drops/189629">189629 - Weekly Thing 8th Anniversary</a></li>
+<li><a href="https://poap.gallery/drops/190338">190338 - Weekly Thing 8th Anniversary Supporting Members</a></li>
+</ul>
+<h3 id="projects">Projects</h3>
+<ul>
+<li><a href="https://poap.gallery/event/4076">4076 - R/W Book Club: Klara and the Sun</a></li>
+<li><strike><a href="https://poap.gallery/event/4547">4547 - Reading Things First 100</a></strike> <strong>This event is invalid.</strong> I was still learning when I distributed this POAP and all but the first four to our family were claimed by &ldquo;POAP farmers&rdquo;.</li>
+<li><a href="https://poap.gallery/event/167733">167733 - You Experienced Spatial Computing</a></li>
+<li><a href="https://poap.gallery/drops/191098">IndieWeb is Punk</a></li>
+</ul>
+<h3 id="events">Events</h3>
+<ul>
+<li><a href="https://poap.gallery/event/4037">4037 - Night of Crypto 2021</a></li>
+<li><a href="https://poap.gallery/event/5478">5478 - Micro Camp 2021</a></li>
+<li><a href="https://poap.gallery/event/7371">7371 - CIO Forum: Straight talk on emerging technologies</a></li>
+<li><a href="https://poap.gallery/event/40021">40021 - Women in Tech Night Out (April 2022)</a></li>
+<li><a href="https://poap.gallery/event/42773">42773 - Web3MSP GM</a></li>
+<li><a href="https://poap.gallery/event/44934">44934 - Web3MSP @ VeeCon 2022</a></li>
+<li><a href="https://poap.gallery/event/72223">72223 - The State of Blockchain 2022</a></li>
+<li><a href="https://poap.gallery/event/102643">102643 - MnTech Tech Leadership Forum: Generative AI</a></li>
+<li><a href="https://poap.gallery/event/117267">117267 - MnTech Tech on Tap April 2023</a></li>
+<li><a href="https://poap.gallery/event/117279">117279 - Minnebar 17 Session: Creating Digital Community with POAP</a></li>
+<li><a href="https://poap.gallery/event/117328">117328 - Minnebar 17</a></li>
+<li><a href="https://poap.gallery/event/117329">117329 - Minnebar 17 Presenter</a></li>
+<li><a href="https://poap.gallery/event/117330">117330 - Minnebar 17 Organizer</a></li>
+<li><a href="https://poap.fun/2133">2133 - Minnebar 17 StayNftyMpls 612 Series Giveaway</a></li>
+<li><a href="https://poap.gallery/event/126708">126708 - Web3MSP Celebrates Bitcoin 2023</a></li>
+<li><a href="https://poap.gallery/event/170977">170977 - Pi Day 2024</a></li>
+<li><a href="https://poap.gallery/drops/185737">185737 - Ice Fishing on Pierson Lake</a></li>
+<li><a href="https://poap.gallery/event/189532">189532 - Minnebar 19</a></li>
+<li><a href="https://poap.gallery/event/189532">189534 - Minnebar 19: How to Newsletter</a></li>
+<li><a href="https://poap.gallery/event/191378">191378 - Creating Community with POAP — MN Blockchain</a></li>
+</ul>
+<h3 id="things-4-good">Things 4 Good</h3>
+<ul>
+<li><a href="https://poap.gallery/event/12718">12718 - Things 4 Good Fall Fundraiser</a></li>
+<li><a href="https://poap.gallery/event/82561">82561 - Things 4 Good 2022 Fall Fundraiser</a></li>
+<li><a href="https://poap.gallery/event/157489">157489 - Things 4 Good 2023 Candle Fundraiser</a></li>
+<li><a href="https://poap.gallery/event/179573">179573 - Things 4 Good 2024 Candle Fundraiser</a></li>
+<li><a href="https://poap.gallery/event/182360">182360 - Things 4 Good Scent Survey</a></li>
+</ul>
+<h3 id="teamsps">TeamSPS</h3>
+<ul>
+<li><a href="https://poap.gallery/event/4080">4080 - SPS TechJam 2021</a></li>
+<li><a href="https://poap.gallery/event/7641">7641 - SPS Kubb Tournament 2021</a> and <a href="https://poap.fun/raffle/569">SPS Kubb Tournament 2021 Raffle</a></li>
+<li><a href="https://poap.gallery/event/31540">31540 - TeamSPS Cyberweek 2021 Challenge Coin</a></li>
+<li><a href="https://poap.gallery/event/42882">42882 - Support #TeamSPS Ukraine Employee Emergency Fund</a></li>
+<li><a href="https://poap.gallery/event/51884">51884 - SPS TechJam 2022 Attendee</a> and <a href="https://poap.fun/raffle/1679">SPS TechJam 2022 Thirst for Growth Raffle</a></li>
+<li><a href="https://poap.gallery/event/51886">51886 - SPS TechJam 2022 Speaker</a></li>
+<li><a href="https://poap.gallery/event/51887">51887 - SPS TechJam 2022 Organizer</a></li>
+<li><a href="https://poap.gallery/event/66379">66379 - TeamSPS 2022 Kubb Tournament</a> and <a href="https://poap.fun/1830">TeamSPS 2022 Kubb Set Raffle</a></li>
+<li><a href="https://poap.gallery/event/88099">88099 - TeamSPS Four Million</a></li>
+<li><a href="https://poap.gallery/event/97785">97785 - TeamSPS 5th Floor Grand Reopening</a></li>
+<li><a href="https://poap.gallery/event/102624">102624 - SPS TechConnect 2023</a></li>
+<li><a href="https://poap.gallery/event/107016">107016 - SPS TechConnect 2023 Speaker</a></li>
+<li><a href="https://poap.gallery/event/109849">109849 - TeamSPS Pi Day 2023</a></li>
+<li><a href="https://poap.gallery/event/117269">117269 - TeamSPS New Hire Coffee — April 2023</a></li>
+<li><a href="https://poap.gallery/event/122563">122563 - TeamSPS Cyberweek 2022</a></li>
+</ul>
+<h3 id="family">Family</h3>
+<ul>
+<li><a href="https://poap.gallery/event/4038">4038 - Olson Family Lake Day 2021</a></li>
+<li><a href="https://poap.gallery/event/6938">6938 - Olson Family Vacation 18</a></li>
+<li><a href="https://poap.gallery/event/46950">46950 - Magic Pines Summer of 2022</a></li>
+<li><a href="https://poap.gallery/event/67164">67164 - Rosalin Chrest&rsquo;s 70th Birthday</a></li>
+<li><a href="https://poap.gallery/event/101293">101293 - Thingelstad Valentines Day 2023</a></li>
+<li><a href="https://poap.gallery/event/107694">107694 - 20 Years of Olson Family Vacations!</a></li>
+<li><a href="https://poap.gallery/event/109604">109604 - Olson Family Vacation 20 Blizzard Rescue</a></li>
+<li><a href="https://poap.gallery/event/110384">110384 - New York 2023 Father Son Trip</a></li>
+<li><a href="https://poap.gallery/event/126003">126003 - Magic Pines Summer of 2023</a></li>
+<li><a href="https://poap.gallery/event/174087">174087 - Magic Pines Summer of 2024</a></li>
+<li><a href="https://poap.gallery/event/174324">174324 - Thingelstad Ireland 2024</a></li>
+<li><a href="https://poap.gallery/event/173230">173230 - Olson Family Vacation 2024</a></li>
+<li><a href="https://poap.gallery/event/177056">179573 - First Computer Build</a></li>
+<li><a href="https://poap.gallery/drops/190325">190325 - Magic Pines Summer of 2025</a></li>
+<li><a href="https://poap.gallery/drops/190337">190337 - Magic Pines Peanuts Tree 2025</a> <strong>First location drop!</strong></li>
+<li><a href="https://poap.gallery/drops/191042">191042 - Lake Geneva Loop Legends</a></li>
+</ul>
+<h3 id="tylers-poaps">Tyler&rsquo;s POAPs</h3>
+<ul>
+<li><a href="https://poap.gallery/event/93385">93385 - Cabin Christmas 2022</a></li>
+<li><a href="https://poap.gallery/event/123903">123903 - My mom’s birthday and the trip we are taking</a></li>
+</ul>
+
+  </article>
+
+  
+
+</div>
+
+    </div>
+    
+  </div>
+  <footer class="site-footer">
+
+  <div class="wrapper">
+    
+    <p class="custom_footer"><p style="font-size: 13px;">
+<span xmlns:cc="http://creativecommons.org/ns#">This work by <span property="cc:attributionName">Jamie Thingelstad</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a></span><br/>
+Your privacy is respected without ads or tracking.<br/>
+The opinions expressed here are my own and not endorsed by any affiliated entities.<br/>
+No content aims to harm anyone or anything.
+</p>
+
+<div class="h-card" style="font-size: 13px;">
+  <p><a href="https://www.thingelstad.com/" rel="me" class="p-name u-url">Jamie Thingelstad</a> 👨‍💻
+  <img class="u-photo" style="display: none;" src="https://micro.blog/jthingelstad/avatar.jpg" />
+  <a rel="me" class="u-url" style="display: none;" href="https://weekly.thingelstad.com">weekly.thingelstad.com</a>
+  <p class="p-note" style="display: none;" >Technologist, leader, and family man with expertise in software, architecture, business, who actively contributes to the tech community.</p>
+</div>
+
+</p>
+    
+    <p class="attribution custom_footer">Hosted by <a href="https://micro.blog">Micro.blog</a>. Powered by <a href="https://tiny.micro.blog">Tiny Theme</a>. Designed with ♥ by <a href="https://www.mattlangford.com">Matt Langford</a>.</p>
+  </div>
+
+</footer>
+
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/hls.js?v=11"></script>
+  
+  <script src="/js/studio.js?v=11"></script>
+  
+  <script src="/assets/js/poststats.js?v=11"></script>
+  
+
+  
+</body>
+
+</html>

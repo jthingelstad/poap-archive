@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/174324/7136146",
+    "id": "7136146",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/8e783fd3-9ead-455d-993f-921a5952aaad.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/8e783fd3-9ead-455d-993f-921a5952aaad.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Jun-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "19-Jun-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": "Ireland"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/collections/ireland-2024/"
+        }
+      ],
+      "description": "This POAP is to commemorate the Thingelstad family vacation to Ireland in 2024. The trip starts on June 1 and ends on June 18. We are circling Ireland with lodging in Dublin, Ballydehob, Ballybunion, Doolin, Ballyshannon, Belfast, and Tubbrid Castle with a final stop back in Dublin.\n\nThis POAP is for our family and will also be opportunistically shared to people that we meet along our trip. The image was created using DALL-E with text additions added afterward.",
+      "external_url": "https://api.poap.tech/metadata/174324/7136146",
+      "home_url": "https://app.poap.xyz/token/7136146",
+      "image_url": "https://assets.poap.xyz/8e783fd3-9ead-455d-993f-921a5952aaad.png",
+      "name": "Thingelstad Ireland 2024",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is to commemorate the Thingelstad family vacation to Ireland in 2024. The trip starts on June 1 and ends on June 18. We are circling Ireland with lodging in Dublin, Ballydehob, Ballybunion, Doolin, Ballyshannon, Belfast, and Tubbrid Castle with a final stop back in Dublin.\n\nThis POAP is for our family and will also be opportunistically shared to people that we meet along our trip. The image was created using DALL-E with text additions added afterward.",
+    "external_url": "https://api.poap.tech/metadata/174324/7136146",
+    "home_url": "https://app.poap.xyz/token/7136146",
+    "image_url": "https://assets.poap.xyz/8e783fd3-9ead-455d-993f-921a5952aaad.png",
+    "name": "Thingelstad Ireland 2024",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Jun-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "19-Jun-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": "Ireland"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/collections/ireland-2024/"
+      }
+    ]
+  }
+}

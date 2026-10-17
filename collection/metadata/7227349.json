@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/179573/7227349",
+    "id": "7227349",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/62a841cb-0e1a-4632-95e6-ff5dd2bf830d.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/62a841cb-0e1a-4632-95e6-ff5dd2bf830d.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "02-Nov-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "04-Nov-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.things4good.xyz"
+        }
+      ],
+      "description": "This token was distributed directly via printed claim sheets to participants in the 2024 Things 4 Good Candle Fundraiser hosted by the Thingelstad family. This annual give back event raised donations for causes that we want to support by selling our handmade wooden wick candles.  \n\nThis year we had eight different scents: Winter Wonderland, Apple of My Eye, Tea Time, Oh My Darling, True North, Pumpkin Pie, Old Fashioned, and Just Crackle (unscented).  \n\nWe provide the materials and make the candles so that ALL proceeds from the fundraiser go to four different non-profits that we each pick. This year we supported:  \n\n- Syngap Research Fund \u2192 https://curesyngap1.org\n- Water to Thrive \u2192 https://www.watertothrive.org \n- Sprint to Cite Soleil \u2192 https://www.sprinttocitesoleil.org \n- World Central Kitchen \u2192 https://www.worldcentralkitchen.org",
+      "external_url": "https://api.poap.tech/metadata/179573/7227349",
+      "home_url": "https://app.poap.xyz/token/7227349",
+      "image_url": "https://assets.poap.xyz/62a841cb-0e1a-4632-95e6-ff5dd2bf830d.png",
+      "name": "Things 4 Good 2024 Candle Fundraiser",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This token was distributed directly via printed claim sheets to participants in the 2024 Things 4 Good Candle Fundraiser hosted by the Thingelstad family. This annual give back event raised donations for causes that we want to support by selling our handmade wooden wick candles.  \n\nThis year we had eight different scents: Winter Wonderland, Apple of My Eye, Tea Time, Oh My Darling, True North, Pumpkin Pie, Old Fashioned, and Just Crackle (unscented).  \n\nWe provide the materials and make the candles so that ALL proceeds from the fundraiser go to four different non-profits that we each pick. This year we supported:  \n\n- Syngap Research Fund \u2192 https://curesyngap1.org\n- Water to Thrive \u2192 https://www.watertothrive.org \n- Sprint to Cite Soleil \u2192 https://www.sprinttocitesoleil.org \n- World Central Kitchen \u2192 https://www.worldcentralkitchen.org",
+    "external_url": "https://api.poap.tech/metadata/179573/7227349",
+    "home_url": "https://app.poap.xyz/token/7227349",
+    "image_url": "https://assets.poap.xyz/62a841cb-0e1a-4632-95e6-ff5dd2bf830d.png",
+    "name": "Things 4 Good 2024 Candle Fundraiser",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "02-Nov-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "04-Nov-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.things4good.xyz"
+      }
+    ]
+  }
+}

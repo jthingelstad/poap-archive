@@ -1,0 +1,602 @@
+[
+  {
+    "banner_image_url": null,
+    "created_by": "Jamie Thingelstad",
+    "created_on": "2025-06-11T03:27:22.165386+00:00",
+    "description": "The 612 POAP Challenge is a citywide scavenger hunt running through Labor Day \u2013 Monday, September 1, 2025. Across Minneapolis, 31 iconic locations await \u2013 each tied to a unique POAP (short for Proof of Attendance Protocol), a digital token you can collect as a memento of your visit. It\u2019s like geocaching, but with art, technology, and hometown pride.",
+    "external_url": "https://www.thingelstad.com/projects/612-poap-challenge",
+    "id": 15858,
+    "logo_image_url": null,
+    "owner_address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "slug": "612-poap-challenge",
+    "title": "612 POAP Challenge",
+    "type": "user",
+    "type_rank": 4,
+    "updated_on": "2025-06-29T11:59:33.13809+00:00",
+    "year": 2025,
+    "collections_items": [
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190523,
+        "id": 298556
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190522,
+        "id": 298557
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190521,
+        "id": 298558
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190520,
+        "id": 298559
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190518,
+        "id": 298560
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190517,
+        "id": 298561
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190516,
+        "id": 298562
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190529,
+        "id": 298550
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190528,
+        "id": 298551
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190527,
+        "id": 298552
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190526,
+        "id": 298553
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190525,
+        "id": 298554
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190524,
+        "id": 298555
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190535,
+        "id": 298544
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190534,
+        "id": 298545
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190533,
+        "id": 298546
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190532,
+        "id": 298547
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190531,
+        "id": 298548
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190530,
+        "id": 298549
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190543,
+        "id": 298538
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190542,
+        "id": 298539
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190541,
+        "id": 298540
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190540,
+        "id": 298541
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190539,
+        "id": 298542
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190538,
+        "id": 298543
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190549,
+        "id": 298532
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190548,
+        "id": 298533
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190547,
+        "id": 298534
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190546,
+        "id": 298535
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190545,
+        "id": 298536
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-11T03:27:22.165386+00:00",
+        "drop_id": 190544,
+        "id": 298537
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-12T02:20:13.148739+00:00",
+        "drop_id": 190902,
+        "id": 298837
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-12T02:20:13.148739+00:00",
+        "drop_id": 190901,
+        "id": 298838
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-12T02:20:13.148739+00:00",
+        "drop_id": 190900,
+        "id": 298839
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-12T02:20:13.148739+00:00",
+        "drop_id": 190899,
+        "id": 298840
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-12T02:20:13.148739+00:00",
+        "drop_id": 190898,
+        "id": 298841
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-12T02:20:13.148739+00:00",
+        "drop_id": 190897,
+        "id": 298842
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-29T11:59:33.13809+00:00",
+        "drop_id": 191363,
+        "id": 303854
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-12T02:20:13.148739+00:00",
+        "drop_id": 190903,
+        "id": 298843
+      },
+      {
+        "collection_id": 15858,
+        "created_on": "2025-06-29T11:59:33.13809+00:00",
+        "drop_id": 190904,
+        "id": 303856
+      }
+    ]
+  },
+  {
+    "banner_image_url": null,
+    "created_by": "Jamie Thingelstad",
+    "created_on": "2025-07-27T11:30:48.984112+00:00",
+    "description": null,
+    "external_url": "https://www.thingelstad.com/family/olson-family-vacation",
+    "id": 18332,
+    "logo_image_url": null,
+    "owner_address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "slug": "olson-family-vacations",
+    "title": "Olson Family Vacations",
+    "type": "user",
+    "type_rank": 4,
+    "updated_on": "2026-01-14T23:04:34.231843+00:00",
+    "year": null,
+    "collections_items": [
+      {
+        "collection_id": 18332,
+        "created_on": "2025-07-27T11:30:48.984112+00:00",
+        "drop_id": 193101,
+        "id": 311044
+      },
+      {
+        "collection_id": 18332,
+        "created_on": "2025-07-27T11:30:48.984112+00:00",
+        "drop_id": 173230,
+        "id": 311045
+      },
+      {
+        "collection_id": 18332,
+        "created_on": "2025-07-27T11:30:48.984112+00:00",
+        "drop_id": 107694,
+        "id": 311047
+      },
+      {
+        "collection_id": 18332,
+        "created_on": "2025-07-27T11:30:48.984112+00:00",
+        "drop_id": 6938,
+        "id": 311048
+      },
+      {
+        "collection_id": 18332,
+        "created_on": "2026-01-14T23:04:34.231843+00:00",
+        "drop_id": 194498,
+        "id": 449837
+      },
+      {
+        "collection_id": 18332,
+        "created_on": "2025-07-27T11:30:48.984112+00:00",
+        "drop_id": 109604,
+        "id": 311046
+      },
+      {
+        "collection_id": 18332,
+        "created_on": "2026-01-14T23:04:34.231843+00:00",
+        "drop_id": 4038,
+        "id": 449839
+      }
+    ]
+  },
+  {
+    "banner_image_url": null,
+    "created_by": "Jamie Thingelstad",
+    "created_on": "2026-01-14T22:59:10.286207+00:00",
+    "description": null,
+    "external_url": "https://www.thingelstad.com",
+    "id": 27224,
+    "logo_image_url": null,
+    "owner_address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "slug": "you-ve-met-jamie-thingelstad",
+    "title": "You've met Jamie Thingelstad",
+    "type": "user",
+    "type_rank": 4,
+    "updated_on": "2026-01-16T03:39:43.7352+00:00",
+    "year": null,
+    "collections_items": [
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T22:59:10.286207+00:00",
+        "drop_id": 189533,
+        "id": 449824
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T22:59:10.286207+00:00",
+        "drop_id": 126661,
+        "id": 449826
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T22:59:10.286207+00:00",
+        "drop_id": 117615,
+        "id": 449827
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T23:11:11.293351+00:00",
+        "drop_id": 108920,
+        "id": 449846
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T22:59:10.286207+00:00",
+        "drop_id": 199622,
+        "id": 449823
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T22:59:10.286207+00:00",
+        "drop_id": 173328,
+        "id": 449825
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T23:11:11.293351+00:00",
+        "drop_id": 102426,
+        "id": 449847
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T23:11:11.293351+00:00",
+        "drop_id": 98116,
+        "id": 449848
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-14T23:11:11.293351+00:00",
+        "drop_id": 66832,
+        "id": 449849
+      },
+      {
+        "collection_id": 27224,
+        "created_on": "2026-01-16T03:39:43.7352+00:00",
+        "drop_id": 222977,
+        "id": 450908
+      }
+    ]
+  },
+  {
+    "banner_image_url": null,
+    "created_by": "Jamie Thingelstad",
+    "created_on": "2026-01-14T23:02:10.32174+00:00",
+    "description": null,
+    "external_url": "https://www.thingelstad.com",
+    "id": 27225,
+    "logo_image_url": null,
+    "owner_address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "slug": "jamie-thingelstad-s-birthdays",
+    "title": "Jamie Thingelstad's Birthdays",
+    "type": "user",
+    "type_rank": 4,
+    "updated_on": "2026-01-14T23:02:10.32174+00:00",
+    "year": null,
+    "collections_items": [
+      {
+        "collection_id": 27225,
+        "created_on": "2026-01-14T23:02:10.32174+00:00",
+        "drop_id": 220381,
+        "id": 449828
+      },
+      {
+        "collection_id": 27225,
+        "created_on": "2026-01-14T23:02:10.32174+00:00",
+        "drop_id": 183305,
+        "id": 449829
+      },
+      {
+        "collection_id": 27225,
+        "created_on": "2026-01-14T23:02:10.32174+00:00",
+        "drop_id": 166479,
+        "id": 449830
+      },
+      {
+        "collection_id": 27225,
+        "created_on": "2026-01-14T23:02:10.32174+00:00",
+        "drop_id": 95194,
+        "id": 449831
+      },
+      {
+        "collection_id": 27225,
+        "created_on": "2026-01-14T23:02:10.32174+00:00",
+        "drop_id": 20896,
+        "id": 449832
+      }
+    ]
+  },
+  {
+    "banner_image_url": null,
+    "created_by": "Jamie Thingelstad",
+    "created_on": "2026-01-14T23:09:38.334978+00:00",
+    "description": null,
+    "external_url": "https://www.reddit.com/r/poap/",
+    "id": 27226,
+    "logo_image_url": null,
+    "owner_address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "slug": "r-poap",
+    "title": "r/POAP",
+    "type": "user",
+    "type_rank": 4,
+    "updated_on": "2026-01-14T23:09:38.334978+00:00",
+    "year": null,
+    "collections_items": [
+      {
+        "collection_id": 27226,
+        "created_on": "2026-01-14T23:09:38.334978+00:00",
+        "drop_id": 221228,
+        "id": 449840
+      }
+    ]
+  },
+  {
+    "banner_image_url": null,
+    "created_by": "Jamie Thingelstad",
+    "created_on": "2026-01-14T23:12:01.308847+00:00",
+    "description": null,
+    "external_url": null,
+    "id": 27227,
+    "logo_image_url": null,
+    "owner_address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "slug": "magic-pines",
+    "title": "Magic Pines",
+    "type": "user",
+    "type_rank": 4,
+    "updated_on": "2026-01-14T23:12:01.308847+00:00",
+    "year": null,
+    "collections_items": [
+      {
+        "collection_id": 27227,
+        "created_on": "2026-01-14T23:12:01.308847+00:00",
+        "drop_id": 190325,
+        "id": 449850
+      },
+      {
+        "collection_id": 27227,
+        "created_on": "2026-01-14T23:12:01.308847+00:00",
+        "drop_id": 174087,
+        "id": 449851
+      },
+      {
+        "collection_id": 27227,
+        "created_on": "2026-01-14T23:12:01.308847+00:00",
+        "drop_id": 126003,
+        "id": 449852
+      },
+      {
+        "collection_id": 27227,
+        "created_on": "2026-01-14T23:12:01.308847+00:00",
+        "drop_id": 46950,
+        "id": 449853
+      }
+    ]
+  },
+  {
+    "banner_image_url": null,
+    "created_by": "Jamie Thingelstad",
+    "created_on": "2026-01-14T23:13:17.576617+00:00",
+    "description": null,
+    "external_url": null,
+    "id": 27228,
+    "logo_image_url": null,
+    "owner_address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "slug": "weekly-thing",
+    "title": "Weekly Thing",
+    "type": "user",
+    "type_rank": 4,
+    "updated_on": "2026-01-14T23:15:36.257314+00:00",
+    "year": null,
+    "collections_items": [
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 44270,
+        "id": 449864
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 126001,
+        "id": 449862
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 173575,
+        "id": 449860
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 189629,
+        "id": 449856
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 11276,
+        "id": 449865
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 150735,
+        "id": 449861
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 179700,
+        "id": 449858
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 214723,
+        "id": 449854
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 183156,
+        "id": 449857
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 108702,
+        "id": 449863
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 179699,
+        "id": 449859
+      },
+      {
+        "collection_id": 27228,
+        "created_on": "2026-01-14T23:13:17.576617+00:00",
+        "drop_id": 190338,
+        "id": 449855
+      }
+    ]
+  }
+]

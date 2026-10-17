@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/165575/6937660",
+    "id": "6937660",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/7bca9851-db31-4422-b764-ee844da0b392.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/7bca9851-db31-4422-b764-ee844da0b392.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "12-Dec-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "13-Dec-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapoli"
+        },
+        {
+          "trait_type": "country",
+          "value": "MN"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.mnblockchain.org/"
+        }
+      ],
+      "description": "Happy Holidays from MN Blockchain",
+      "external_url": "https://api.poap.tech/metadata/165575/6937660",
+      "home_url": "https://app.poap.xyz/token/6937660",
+      "image_url": "https://assets.poap.xyz/7bca9851-db31-4422-b764-ee844da0b392.png",
+      "name": "MNBlockchain - Holiday Party",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Happy Holidays from MN Blockchain",
+    "external_url": "https://api.poap.tech/metadata/165575/6937660",
+    "home_url": "https://app.poap.xyz/token/6937660",
+    "image_url": "https://assets.poap.xyz/7bca9851-db31-4422-b764-ee844da0b392.png",
+    "name": "MNBlockchain - Holiday Party",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "12-Dec-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "13-Dec-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapoli"
+      },
+      {
+        "trait_type": "country",
+        "value": "MN"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.mnblockchain.org/"
+      }
+    ]
+  }
+}

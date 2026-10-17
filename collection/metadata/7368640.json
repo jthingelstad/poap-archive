@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190523/7368640",
+    "id": "7368640",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/7c84dfc4-3294-4da2-ac91-40deb627488b.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/7c84dfc4-3294-4da2-ac91-40deb627488b.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "Towering with neo-Gothic flair, the Wells Fargo Center is what happens when a bank wants a cathedral. Designed by C\u00e9sar Pelli, its limestone exterior and elegant setbacks nod to a more classical era\u2014even though it was built in the '80s. It\u2019s both fortress and beacon, anchoring downtown with quiet confidence. Add this Architecture Aficionado POAP to your collection in the 612 POAP Challenge and celebrate timeless ambition. \n\nCategory: Architecture Aficionado \nGPS: 44.97697, -93.27088 \nMap: https://www.google.com/maps/place/44.97697,-93.27088 \nWikipedia: https://en.wikipedia.org/wiki/Wells_Fargo_Center_(Minneapolis) \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999184206428897281",
+      "external_url": "https://api.poap.tech/metadata/190523/7368640",
+      "home_url": "https://app.poap.xyz/token/7368640",
+      "image_url": "https://assets.poap.xyz/7c84dfc4-3294-4da2-ac91-40deb627488b.png",
+      "name": "Wells Fargo Center \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Towering with neo-Gothic flair, the Wells Fargo Center is what happens when a bank wants a cathedral. Designed by C\u00e9sar Pelli, its limestone exterior and elegant setbacks nod to a more classical era\u2014even though it was built in the '80s. It\u2019s both fortress and beacon, anchoring downtown with quiet confidence. Add this Architecture Aficionado POAP to your collection in the 612 POAP Challenge and celebrate timeless ambition. \n\nCategory: Architecture Aficionado \nGPS: 44.97697, -93.27088 \nMap: https://www.google.com/maps/place/44.97697,-93.27088 \nWikipedia: https://en.wikipedia.org/wiki/Wells_Fargo_Center_(Minneapolis) \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999184206428897281",
+    "external_url": "https://api.poap.tech/metadata/190523/7368640",
+    "home_url": "https://app.poap.xyz/token/7368640",
+    "image_url": "https://assets.poap.xyz/7c84dfc4-3294-4da2-ac91-40deb627488b.png",
+    "name": "Wells Fargo Center \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

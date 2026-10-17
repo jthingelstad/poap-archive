@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/117269/6512281",
+    "id": "6512281",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/044e5aa0-516d-482c-9c9c-0e8ecd6dedd2.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/044e5aa0-516d-482c-9c9c-0e8ecd6dedd2.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "04-Apr-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "05-Apr-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://tech.spscommerce.com"
+        }
+      ],
+      "description": "This POAP was given to each attendee of the CTO New Hire Coffee for April 2023. This event is an opportunity for new TeamSPS members to meet each other, share how their experience has been, and to ask any questions that may be on their mind. Claim codes were distributed directly to attendees.",
+      "external_url": "https://api.poap.tech/metadata/117269/6512281",
+      "home_url": "https://app.poap.xyz/token/6512281",
+      "image_url": "https://assets.poap.xyz/044e5aa0-516d-482c-9c9c-0e8ecd6dedd2.png",
+      "name": "TeamSPS New Hire Coffee \u2014 April 2023",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP was given to each attendee of the CTO New Hire Coffee for April 2023. This event is an opportunity for new TeamSPS members to meet each other, share how their experience has been, and to ask any questions that may be on their mind. Claim codes were distributed directly to attendees.",
+    "external_url": "https://api.poap.tech/metadata/117269/6512281",
+    "home_url": "https://app.poap.xyz/token/6512281",
+    "image_url": "https://assets.poap.xyz/044e5aa0-516d-482c-9c9c-0e8ecd6dedd2.png",
+    "name": "TeamSPS New Hire Coffee \u2014 April 2023",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "04-Apr-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "05-Apr-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://tech.spscommerce.com"
+      }
+    ]
+  }
+}

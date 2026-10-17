@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/72261/5768722",
+    "id": "5768722",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/donation-made-thanks-for-helping-it-happen-undefined-logo-1664943650300.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/donation-made-thanks-for-helping-it-happen-undefined-logo-1664943650300.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "06-Oct-2022"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "06-Oct-2022"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://twitter.com/profwerder"
+        }
+      ],
+      "description": "Thank you for minting my open edition SOS to support hurricane relief in Southwest Florida. We have a long recovery ahead so every bit helps. A donation of $843.75 USD (plus 3% to cover fees) was made to the SWFL Emergency Relief Fund via the Southwest Florida Community Foundation/The Collaboratory. The POAP image is the email receipt from the donation.\r\n\r\n\r\nAbout the Edition:\r\n\r\nSOS\r\n$IAN\r\nOPEN EDITION\r\nCopyright: Creative Commons Zero cc0\r\nNaples Pier, Naples Florida\r\nSeptember 29, 2022\r\nOne day after Hurricane Ian came on shore in Southwest Florida.\r\n\r\n\r\nSouthwest Florida has been devastated by Hurricane Ian. Prof Werder (aka The Nounish Professor) took this photo at the Naples Pier, the end of which was washed away. Someone had already written SOS in the sand. This edition was available through October 3, 2022 and all proceeds were donated to Hurricane Relief in Southwest Florida via The Collaboratory at:  https://collaboratory.org/\r\n\r\nThank you again for your support!\r\n\r\n\r\n",
+      "external_url": "https://api.poap.tech/metadata/72261/5768722",
+      "home_url": "https://app.poap.xyz/token/5768722",
+      "image_url": "https://assets.poap.xyz/donation-made-thanks-for-helping-it-happen-undefined-logo-1664943650300.png",
+      "name": "Donation made! Thanks for helping it happen!",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2022
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Thank you for minting my open edition SOS to support hurricane relief in Southwest Florida. We have a long recovery ahead so every bit helps. A donation of $843.75 USD (plus 3% to cover fees) was made to the SWFL Emergency Relief Fund via the Southwest Florida Community Foundation/The Collaboratory. The POAP image is the email receipt from the donation.\r\n\r\n\r\nAbout the Edition:\r\n\r\nSOS\r\n$IAN\r\nOPEN EDITION\r\nCopyright: Creative Commons Zero cc0\r\nNaples Pier, Naples Florida\r\nSeptember 29, 2022\r\nOne day after Hurricane Ian came on shore in Southwest Florida.\r\n\r\n\r\nSouthwest Florida has been devastated by Hurricane Ian. Prof Werder (aka The Nounish Professor) took this photo at the Naples Pier, the end of which was washed away. Someone had already written SOS in the sand. This edition was available through October 3, 2022 and all proceeds were donated to Hurricane Relief in Southwest Florida via The Collaboratory at:  https://collaboratory.org/\r\n\r\nThank you again for your support!\r\n\r\n\r\n",
+    "external_url": "https://api.poap.tech/metadata/72261/5768722",
+    "home_url": "https://app.poap.xyz/token/5768722",
+    "image_url": "https://assets.poap.xyz/donation-made-thanks-for-helping-it-happen-undefined-logo-1664943650300.png",
+    "name": "Donation made! Thanks for helping it happen!",
+    "year": 2022,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "06-Oct-2022"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "06-Oct-2022"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://twitter.com/profwerder"
+      }
+    ]
+  }
+}

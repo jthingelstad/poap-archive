@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/170228/7062580",
+    "id": "7062580",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/26898b70-e38f-4399-be46-e1800b2b62b5.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/26898b70-e38f-4399-be46-e1800b2b62b5.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "31-Oct-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "04-Feb-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poap.fun"
+        }
+      ],
+      "description": "Thank you for your feedback on POAP Fun 2.0! \n\nThis POAP commemorates that you've contributed to user testing our product(s) at POAP. On behalf of the development team; thank you for your contribution!",
+      "external_url": "https://api.poap.tech/metadata/170228/7062580",
+      "home_url": "https://app.poap.xyz/token/7062580",
+      "image_url": "https://assets.poap.xyz/26898b70-e38f-4399-be46-e1800b2b62b5.png",
+      "name": "POAP Fun 2.0 - User feedback",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Thank you for your feedback on POAP Fun 2.0! \n\nThis POAP commemorates that you've contributed to user testing our product(s) at POAP. On behalf of the development team; thank you for your contribution!",
+    "external_url": "https://api.poap.tech/metadata/170228/7062580",
+    "home_url": "https://app.poap.xyz/token/7062580",
+    "image_url": "https://assets.poap.xyz/26898b70-e38f-4399-be46-e1800b2b62b5.png",
+    "name": "POAP Fun 2.0 - User feedback",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "31-Oct-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "04-Feb-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poap.fun"
+      }
+    ]
+  }
+}

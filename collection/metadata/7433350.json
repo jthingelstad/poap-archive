@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190536/7433350",
+    "id": "7433350",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/7ba67521-6cb2-4dda-a9a0-4271b42e6cad.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/7ba67521-6cb2-4dda-a9a0-4271b42e6cad.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "If you found this, congratulations\u2014you\u2019ve squeezed yourself into one of the most iconic slivers of Minneapolis. Al\u2019s Breakfast is less a restaurant than a rite of passage: 14 stools, one counter, and pancakes so legendary they practically have tenure. Tucked in Dinkytown like a culinary secret, this place rewards early risers and persistent wanderers. This Easter Egg POAP is for the hungry-hearted who know that the best places are barely wide enough to stand in\u2014but full enough to make history. \n\nCategory: Easter Egg \nGPS: 44.98103, -93.23552 \nMap: https://www.google.com/maps/place/44.98103,-93.23552 \nWikipedia: https://en.wikipedia.org/wiki/Al's_Breakfast \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998851054405681153",
+      "external_url": "https://api.poap.tech/metadata/190536/7433350",
+      "home_url": "https://app.poap.xyz/token/7433350",
+      "image_url": "https://assets.poap.xyz/7ba67521-6cb2-4dda-a9a0-4271b42e6cad.png",
+      "name": "Al\u2019s Breakfast \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "If you found this, congratulations\u2014you\u2019ve squeezed yourself into one of the most iconic slivers of Minneapolis. Al\u2019s Breakfast is less a restaurant than a rite of passage: 14 stools, one counter, and pancakes so legendary they practically have tenure. Tucked in Dinkytown like a culinary secret, this place rewards early risers and persistent wanderers. This Easter Egg POAP is for the hungry-hearted who know that the best places are barely wide enough to stand in\u2014but full enough to make history. \n\nCategory: Easter Egg \nGPS: 44.98103, -93.23552 \nMap: https://www.google.com/maps/place/44.98103,-93.23552 \nWikipedia: https://en.wikipedia.org/wiki/Al's_Breakfast \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998851054405681153",
+    "external_url": "https://api.poap.tech/metadata/190536/7433350",
+    "home_url": "https://app.poap.xyz/token/7433350",
+    "image_url": "https://assets.poap.xyz/7ba67521-6cb2-4dda-a9a0-4271b42e6cad.png",
+    "name": "Al\u2019s Breakfast \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

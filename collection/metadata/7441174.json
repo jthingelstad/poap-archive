@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190533/7441174",
+    "id": "7441174",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/6770ed5b-98b2-45f4-bf21-11c2b3d8e4db.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/6770ed5b-98b2-45f4-bf21-11c2b3d8e4db.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "It\u2019s a culinary passport and cultural crossroads all in one. From tamales to injera, bubble tea to biryani, the Midtown Global Market celebrates the flavors and entrepreneurs of our globally diverse city. It\u2019s more than food\u2014it\u2019s a daily festival of community and craft. Pick up this Culture Collector POAP for tasting the world without leaving the 612 POAP Challenge. \n\nCategory: Culture Collector \nGPS: 44.94879, -93.26078 \nMap: https://www.google.com/maps/place/44.94879,-93.26078 \nWikipedia: https://en.wikipedia.org/wiki/Midtown_Exchange \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999156718638202881",
+      "external_url": "https://api.poap.tech/metadata/190533/7441174",
+      "home_url": "https://app.poap.xyz/token/7441174",
+      "image_url": "https://assets.poap.xyz/6770ed5b-98b2-45f4-bf21-11c2b3d8e4db.png",
+      "name": "Midtown Global Market \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "It\u2019s a culinary passport and cultural crossroads all in one. From tamales to injera, bubble tea to biryani, the Midtown Global Market celebrates the flavors and entrepreneurs of our globally diverse city. It\u2019s more than food\u2014it\u2019s a daily festival of community and craft. Pick up this Culture Collector POAP for tasting the world without leaving the 612 POAP Challenge. \n\nCategory: Culture Collector \nGPS: 44.94879, -93.26078 \nMap: https://www.google.com/maps/place/44.94879,-93.26078 \nWikipedia: https://en.wikipedia.org/wiki/Midtown_Exchange \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999156718638202881",
+    "external_url": "https://api.poap.tech/metadata/190533/7441174",
+    "home_url": "https://app.poap.xyz/token/7441174",
+    "image_url": "https://assets.poap.xyz/6770ed5b-98b2-45f4-bf21-11c2b3d8e4db.png",
+    "name": "Midtown Global Market \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

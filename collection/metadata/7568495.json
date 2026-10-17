@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/226259/7568495",
+    "id": "7568495",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/e69b91ba-ea45-4450-b003-187362e21e29.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/e69b91ba-ea45-4450-b003-187362e21e29.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "22-Feb-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "23-Feb-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapkings.com"
+        }
+      ],
+      "description": "On February 22, 2026, raquaza crossed the 12,000 trophy mark in a decisive Ladder victory over J Money, finishing the match 1\u20130 and sealing the push with a +17 gain to hit 12,000. Running a high-skill control deck featuring Archer Queen, Monk, Log, Miner, Electro Dragon, and Goblin Barrel support, raquaza outmaneuvered a Hog Rider cycle list backed by Tesla, Earthquake, Skeletons, and Ice Spirit. Clean defensive sequencing, disciplined elixir trades, and precise counter-push timing turned the matchup, breaking through and protecting the lead to lock in the milestone. This POAP marks the exact battle that elevated POAP KINGS to 12k\u2014proof of arena dominance earned the hard way.",
+      "external_url": "https://api.poap.tech/metadata/226259/7568495",
+      "home_url": "https://app.poap.xyz/token/7568495",
+      "image_url": "https://assets.poap.xyz/e69b91ba-ea45-4450-b003-187362e21e29.png",
+      "name": "raquaza 12k | POAP KINGS",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "On February 22, 2026, raquaza crossed the 12,000 trophy mark in a decisive Ladder victory over J Money, finishing the match 1\u20130 and sealing the push with a +17 gain to hit 12,000. Running a high-skill control deck featuring Archer Queen, Monk, Log, Miner, Electro Dragon, and Goblin Barrel support, raquaza outmaneuvered a Hog Rider cycle list backed by Tesla, Earthquake, Skeletons, and Ice Spirit. Clean defensive sequencing, disciplined elixir trades, and precise counter-push timing turned the matchup, breaking through and protecting the lead to lock in the milestone. This POAP marks the exact battle that elevated POAP KINGS to 12k\u2014proof of arena dominance earned the hard way.",
+    "external_url": "https://api.poap.tech/metadata/226259/7568495",
+    "home_url": "https://app.poap.xyz/token/7568495",
+    "image_url": "https://assets.poap.xyz/e69b91ba-ea45-4450-b003-187362e21e29.png",
+    "name": "raquaza 12k | POAP KINGS",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "22-Feb-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "23-Feb-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapkings.com"
+      }
+    ]
+  }
+}

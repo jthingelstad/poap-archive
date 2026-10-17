@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/157489/6885356",
+    "id": "6885356",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/b7214b5c-96d6-4227-90aa-cb039e4006bd.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/b7214b5c-96d6-4227-90aa-cb039e4006bd.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "04-Nov-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "06-Nov-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis, Minnesota"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/family/things4good/fundraiser-2023/"
+        }
+      ],
+      "description": "This POAP was distributed directly via printed claim sheets to participants in the 2023 Things 4 Good Candle Fundraiser hosted by the Thingelstad family. This annual give back event raised donations causes that we want to support by selling handmade wooden wick candles.\n\nThis year we created 204 candles in eight different scents: Winter Wonderland, Apple of My Eye, Tea Time, Oh My Darling, True North, Pumpkin Pie, Old Fashioned, and Plain Jane.\n\nWe provide the materials and make the candles so that ALL proceeds from the fundraiser go to four different non-profits that we each pick. This year we supported:\n\n- Oceanites \u2192 https://www.oceanites.org\n- Food Recovery Network \u2192 https://www.foodrecoverynetwork.org\n- Heart to Care Tanzania \u2192 https://www.hearttocaretanzania.org\n- American Prairie \u2192 https://americanprairie.org",
+      "external_url": "https://api.poap.tech/metadata/157489/6885356",
+      "home_url": "https://app.poap.xyz/token/6885356",
+      "image_url": "https://assets.poap.xyz/b7214b5c-96d6-4227-90aa-cb039e4006bd.png",
+      "name": "Things 4 Good 2023 Candle Fundraiser",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP was distributed directly via printed claim sheets to participants in the 2023 Things 4 Good Candle Fundraiser hosted by the Thingelstad family. This annual give back event raised donations causes that we want to support by selling handmade wooden wick candles.\n\nThis year we created 204 candles in eight different scents: Winter Wonderland, Apple of My Eye, Tea Time, Oh My Darling, True North, Pumpkin Pie, Old Fashioned, and Plain Jane.\n\nWe provide the materials and make the candles so that ALL proceeds from the fundraiser go to four different non-profits that we each pick. This year we supported:\n\n- Oceanites \u2192 https://www.oceanites.org\n- Food Recovery Network \u2192 https://www.foodrecoverynetwork.org\n- Heart to Care Tanzania \u2192 https://www.hearttocaretanzania.org\n- American Prairie \u2192 https://americanprairie.org",
+    "external_url": "https://api.poap.tech/metadata/157489/6885356",
+    "home_url": "https://app.poap.xyz/token/6885356",
+    "image_url": "https://assets.poap.xyz/b7214b5c-96d6-4227-90aa-cb039e4006bd.png",
+    "name": "Things 4 Good 2023 Candle Fundraiser",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "04-Nov-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "06-Nov-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis, Minnesota"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/family/things4good/fundraiser-2023/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+<!-- https://www.thingelstad.com/2025/01/05/poap-rss-awesome.html | 2025-01-05T10:43:54-05:00 | crypto, poap2rss -->
+<h1>POAP + RSS = Awesome?</h1>
+<p><strong>Update: I created <a href="https://www.poap2rss.com">POAP2RSS</a> to fill this gap!</strong></p>
+<p>I’m a <a href="https://www.thingelstad.com/lists/poap-events/">big fan</a> of <a href="https://poap.xyz">POAP</a>, and I’m a big fan of <a href="https://en.wikipedia.org/wiki/RSS">RSS</a>. Sadly, these two things don&rsquo;t know about each other, yet! This blog post is my take on a great start for RSS and POAP. Maybe there is a chance that the amazing folks at <a href="https://openrss.org">Open RSS</a> could bridge this gap in the meantime!</p>
+<p>First, why should POAP add RSS? I think there are dozens of use cases, but some examples…</p>
+<ol>
+<li>As someone that issues POAPs a lot I would love to subscribe to the RSS feeds for each of my events and see via the feed when a new token is claimed.</li>
+<li>It would be powerful to use automation on claims along by connecting the RSS feed for an event to <a href="https://ifttt.com/explore">IFTTT</a> or any of the hundreds of services to take an action when an RSS feed is updated.</li>
+<li>There are several friends that are active in the POAP ecosystem and I can aggregate a feed of all their claims in the <a href="https://home.poap.xyz">POAP Home</a> app, but I would rather subscribe to an RSS feed of each of their addresses and get updates that way.</li>
+</ol>
+<p>There are two items that RSS feeds would be useful for: <strong>Events</strong> and <strong>Collectors</strong>. There is a <a href="https://documentation.poap.tech/docs/getting-started">POAP API</a> that would make both of these pretty simple to get, and avoid any screen scraping. An API key would be needed but I think that would be <a href="https://documentation.poap.tech/docs/api-access">easy to get</a>. These use cases are all read only as well.</p>
+<h3 id="events">Events</h3>
+<p>Anybody can create an event the RSS feed would be specific to that event. Events have a simple ID, and there is a <a href="https://documentation.poap.tech/reference/geteventpoaps-2">Token Event API</a> method for <code>/event/{id}/poaps</code> that would get exactly what is desired. The URL&rsquo;s for an event are <code>https://poap.gallery/drops/{eventid}</code>, my <a href="https://poap.gallery/drops/183305">53rd Birthday</a> POAP is at <code>https://poap.gallery/drops/183305</code> is an example.</p>
+<p>In this case, the <code>eventid</code> is easily found and using the API could get the data to populate the RSS feed.</p>
+<h3 id="addresses">Addresses</h3>
+<p>Getting an RSS feed for new tokens that people claim is centered around a wallet address. Here we are looking for an address or ENS name. An example of this is <a href="https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29">my collection</a> at <code>https://collectors.poap.xyz/scan/0x111accebf9d70d9c06de2d38f9392522e82ecf29</code>. This can also be accessed via the ENS name at <code>https://collectors.poap.xyz/scan/poap.thingelstad.eth</code>.</p>
+<p>The <a href="https://documentation.poap.tech/reference/getactionsscan-5">Token Scan API</a> method <code>/actions/scan/{address}</code> returns the list of tokens for that address and could build the RSS feed.</p>
+

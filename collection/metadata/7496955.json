@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/214349/7496955",
+    "id": "7496955",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/3b44e216-f97f-4446-8e91-3a68967778c0.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/3b44e216-f97f-4446-8e91-3a68967778c0.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "03-Nov-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "04-Dec-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://goodenough.us/blog/2025-11-03-we-re-shutting-down-yay-boo-and-ponder/"
+        }
+      ],
+      "description": "This token commemorates our time together on Ponder \u2014 a \u201cquiet place for your group to talk\u201d where we connected, reflected, and held meaningful conversations away from the noise.\n\nAs of December 2025, Ponder will be shutting down. The team shared that this decision was made thoughtfully, so the company could focus on other products and next steps.\n\nThank you for being part of this community \u2014 for the ideas, the exchanges, and the friendships. This POAP marks that chapter closing, and honours the spirit of open, thoughtful discussion that Ponder embodied.",
+      "external_url": "https://api.poap.tech/metadata/214349/7496955",
+      "home_url": "https://app.poap.xyz/token/7496955",
+      "image_url": "https://assets.poap.xyz/3b44e216-f97f-4446-8e91-3a68967778c0.png",
+      "name": "Farewell Ponder",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This token commemorates our time together on Ponder \u2014 a \u201cquiet place for your group to talk\u201d where we connected, reflected, and held meaningful conversations away from the noise.\n\nAs of December 2025, Ponder will be shutting down. The team shared that this decision was made thoughtfully, so the company could focus on other products and next steps.\n\nThank you for being part of this community \u2014 for the ideas, the exchanges, and the friendships. This POAP marks that chapter closing, and honours the spirit of open, thoughtful discussion that Ponder embodied.",
+    "external_url": "https://api.poap.tech/metadata/214349/7496955",
+    "home_url": "https://app.poap.xyz/token/7496955",
+    "image_url": "https://assets.poap.xyz/3b44e216-f97f-4446-8e91-3a68967778c0.png",
+    "name": "Farewell Ponder",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "03-Nov-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "04-Dec-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://goodenough.us/blog/2025-11-03-we-re-shutting-down-yay-boo-and-ponder/"
+      }
+    ]
+  }
+}

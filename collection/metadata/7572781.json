@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/226722/7572781",
+    "id": "7572781",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/762b3522-cd98-4615-bc88-89987d7fe8c1.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/762b3522-cd98-4615-bc88-89987d7fe8c1.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "08-Mar-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "09-Mar-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapkings.com"
+        }
+      ],
+      "description": "On March 8 at 9:44 PM IST, Vijay secured a historic milestone for POAP KINGS \u2014 his 10,000th Clash Royale battle victory. This wasn\u2019t crowns, trophies, or seasonal ranking progress. This was the purest measure of experience in the arena: ten thousand battles fought and won.\n\nThe decisive match came in Ranked play against JOSLLS, ending in a 2\u20131 victory. Vijay\u2019s deck featured Bats, Rage, Golden Knight, Mini P.E.K.K.A, Minions, Arrows, Sparky, and Skeleton Army, a flexible and aggressive composition capable of explosive counter-pushes and overwhelming pressure. The battle showcased the relentless tempo and tactical awareness that defines a veteran player.\n\nReaching 10,000 battle wins represents years of arena mastery, countless pushes, defenses, and clutch moments. Very few players reach this level of sustained success.\n\nThis POAP commemorates the moment Vijay crossed that legendary threshold \u2014 a permanent on-chain artifact honoring a milestone earned through persistence, skill, and thousands of victorious battles in the Clash Royale arena.",
+      "external_url": "https://api.poap.tech/metadata/226722/7572781",
+      "home_url": "https://app.poap.xyz/token/7572781",
+      "image_url": "https://assets.poap.xyz/762b3522-cd98-4615-bc88-89987d7fe8c1.png",
+      "name": "Vijay 10,000 Battles Won | POAP KINGS",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "On March 8 at 9:44 PM IST, Vijay secured a historic milestone for POAP KINGS \u2014 his 10,000th Clash Royale battle victory. This wasn\u2019t crowns, trophies, or seasonal ranking progress. This was the purest measure of experience in the arena: ten thousand battles fought and won.\n\nThe decisive match came in Ranked play against JOSLLS, ending in a 2\u20131 victory. Vijay\u2019s deck featured Bats, Rage, Golden Knight, Mini P.E.K.K.A, Minions, Arrows, Sparky, and Skeleton Army, a flexible and aggressive composition capable of explosive counter-pushes and overwhelming pressure. The battle showcased the relentless tempo and tactical awareness that defines a veteran player.\n\nReaching 10,000 battle wins represents years of arena mastery, countless pushes, defenses, and clutch moments. Very few players reach this level of sustained success.\n\nThis POAP commemorates the moment Vijay crossed that legendary threshold \u2014 a permanent on-chain artifact honoring a milestone earned through persistence, skill, and thousands of victorious battles in the Clash Royale arena.",
+    "external_url": "https://api.poap.tech/metadata/226722/7572781",
+    "home_url": "https://app.poap.xyz/token/7572781",
+    "image_url": "https://assets.poap.xyz/762b3522-cd98-4615-bc88-89987d7fe8c1.png",
+    "name": "Vijay 10,000 Battles Won | POAP KINGS",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "08-Mar-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "09-Mar-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapkings.com"
+      }
+    ]
+  }
+}

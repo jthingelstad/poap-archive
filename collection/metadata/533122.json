@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/4076/533122",
+    "id": "533122",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/rw-book-club-june-2021-2021-logo-1626226694459.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/rw-book-club-june-2021-2021-logo-1626226694459.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "16-Jun-2021"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "16-Jun-2021"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Edina, MN"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": ""
+        }
+      ],
+      "description": "June 2021 meeting of R/W Book Club reading Klara and the Sun.",
+      "external_url": "https://api.poap.tech/metadata/4076/533122",
+      "home_url": "https://app.poap.xyz/token/533122",
+      "image_url": "https://assets.poap.xyz/rw-book-club-june-2021-2021-logo-1626226694459.png",
+      "name": "R/W Book Club: Klara and the Sun",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2021
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "June 2021 meeting of R/W Book Club reading Klara and the Sun.",
+    "external_url": "https://api.poap.tech/metadata/4076/533122",
+    "home_url": "https://app.poap.xyz/token/533122",
+    "image_url": "https://assets.poap.xyz/rw-book-club-june-2021-2021-logo-1626226694459.png",
+    "name": "R/W Book Club: Klara and the Sun",
+    "year": 2021,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "16-Jun-2021"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "16-Jun-2021"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Edina, MN"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": ""
+      }
+    ]
+  }
+}

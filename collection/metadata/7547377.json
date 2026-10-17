@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/217947/7547377",
+    "id": "7547377",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/77c11daf-d047-4205-a466-85db267a3be0.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/77c11daf-d047-4205-a466-85db267a3be0.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Jan-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Jan-2027"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poap.xyz"
+        }
+      ],
+      "description": "In 2026, the beloved ritual of receiving an inked passport stamp at a country\u2019s port of entry is fading into the rearview mirror. Much of North America and Asia-Pacific stopped issuing stamps years ago, and Europe\u2019s Schengen region is now transitioning to a fully digital, biometric entry-and-exit system, leaving travelers without a physical reminder of where they\u2019ve been.\nThe POAP Airport Rally offers a way to reconnect with that tradition. Starting January 1st 2026, travelers can mint a unique, commemorative POAP using POAP\u2019s GPS minting feature at over 100 participating airports around the world. Each POAP carries artwork that is unique to that airport, and a special piece of trivia to help travelers connect with the places they are passing through.\nThis POAP is distributed via POAP Airship, and serves as one of the qualifying tokens that unlocks participation in the POAP Airport Rally.",
+      "external_url": "https://api.poap.tech/metadata/217947/7547377",
+      "home_url": "https://app.poap.xyz/token/7547377",
+      "image_url": "https://assets.poap.xyz/77c11daf-d047-4205-a466-85db267a3be0.png",
+      "name": "POAP Airport Rally 2026 Boarding Pass",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "In 2026, the beloved ritual of receiving an inked passport stamp at a country\u2019s port of entry is fading into the rearview mirror. Much of North America and Asia-Pacific stopped issuing stamps years ago, and Europe\u2019s Schengen region is now transitioning to a fully digital, biometric entry-and-exit system, leaving travelers without a physical reminder of where they\u2019ve been.\nThe POAP Airport Rally offers a way to reconnect with that tradition. Starting January 1st 2026, travelers can mint a unique, commemorative POAP using POAP\u2019s GPS minting feature at over 100 participating airports around the world. Each POAP carries artwork that is unique to that airport, and a special piece of trivia to help travelers connect with the places they are passing through.\nThis POAP is distributed via POAP Airship, and serves as one of the qualifying tokens that unlocks participation in the POAP Airport Rally.",
+    "external_url": "https://api.poap.tech/metadata/217947/7547377",
+    "home_url": "https://app.poap.xyz/token/7547377",
+    "image_url": "https://assets.poap.xyz/77c11daf-d047-4205-a466-85db267a3be0.png",
+    "name": "POAP Airport Rally 2026 Boarding Pass",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Jan-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Jan-2027"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poap.xyz"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/201979/7450052",
+    "id": "7450052",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/1ed086c2-8832-4e0f-811c-3cddd7f13a47.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/1ed086c2-8832-4e0f-811c-3cddd7f13a47.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "11-Sep-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "19-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": ""
+        }
+      ],
+      "description": "SPS Kubb Tournament 2025 - This POAP is granted to employees of SPS Commerce who participate in the 2025 SPS Kubb Tournament taking place at the SPS Tower in Minneapolis. Claim codes will be distributed directly to authenticated TeamSPS members (employees!).",
+      "external_url": "https://api.poap.tech/metadata/201979/7450052",
+      "home_url": "https://app.poap.xyz/token/7450052",
+      "image_url": "https://assets.poap.xyz/1ed086c2-8832-4e0f-811c-3cddd7f13a47.png",
+      "name": "SPS Kubb Tournament 2025",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "SPS Kubb Tournament 2025 - This POAP is granted to employees of SPS Commerce who participate in the 2025 SPS Kubb Tournament taking place at the SPS Tower in Minneapolis. Claim codes will be distributed directly to authenticated TeamSPS members (employees!).",
+    "external_url": "https://api.poap.tech/metadata/201979/7450052",
+    "home_url": "https://app.poap.xyz/token/7450052",
+    "image_url": "https://assets.poap.xyz/1ed086c2-8832-4e0f-811c-3cddd7f13a47.png",
+    "name": "SPS Kubb Tournament 2025",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "11-Sep-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "19-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": ""
+      }
+    ]
+  }
+}

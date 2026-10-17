@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/173575/7126846",
+    "id": "7126846",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/06ebafe8-050b-416e-8f96-c92d20305841.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/06ebafe8-050b-416e-8f96-c92d20305841.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "13-May-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "14-May-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://weekly.thingelstad.com/"
+        }
+      ],
+      "description": "This is a special token to commemorate the Seven Year Anniversary of the Weekly Thing by Jamie Thingelstad, established in 2017. This token is for subscribers of the Weekly Thing as of May 13th, 2024 and was distributed directly via claim codes in Weekly Thing 288. \n\nThe art for this POAP was created by Daniel Sheldon (danielsheldon.eth) who I discovered via NiftyInk. Daniel found inspiration in the content of the Weekly Thing including travel, art, crypto, markets, theater, and tech. There is a peeled lemon as a memento mori, a reminder of impermanence. The quill represents knowledge and the sharing thereof. The layers that make up the background are made of photos of major tech hub cities like Tokyo and New York with filters and effects and an overlay in the shape of The Son of Man by Magritte, which was meant to be a silhouette and more about outward looking but also self-reflection. The Treachery of Images on the table (this is not a pipe) also by Magritte which is about NFTs and crypto, things not being what you think they are but also being so much more because of the power of ideas.\n\nhttps://weekly.thingelstad.com\nhttps://www.thingelstad.com\nhttps://danielsheldon.co.za\nhttps://nifty.ink/\nhttps://en.wikipedia.org/wiki/The_Son_of_Man\nhttps://en.wikipedia.org/wiki/The_Treachery_of_Images\nhttps://en.wikipedia.org/wiki/Ren\u00e9_Magritte\n\nFive Year POAP: https://collectors.poap.xyz/drop/44270\nSix Year POAP: https://collectors.poap.xyz/drop/126001",
+      "external_url": "https://api.poap.tech/metadata/173575/7126846",
+      "home_url": "https://app.poap.xyz/token/7126846",
+      "image_url": "https://assets.poap.xyz/06ebafe8-050b-416e-8f96-c92d20305841.png",
+      "name": "Weekly Thing Seven Year Anniversary",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This is a special token to commemorate the Seven Year Anniversary of the Weekly Thing by Jamie Thingelstad, established in 2017. This token is for subscribers of the Weekly Thing as of May 13th, 2024 and was distributed directly via claim codes in Weekly Thing 288. \n\nThe art for this POAP was created by Daniel Sheldon (danielsheldon.eth) who I discovered via NiftyInk. Daniel found inspiration in the content of the Weekly Thing including travel, art, crypto, markets, theater, and tech. There is a peeled lemon as a memento mori, a reminder of impermanence. The quill represents knowledge and the sharing thereof. The layers that make up the background are made of photos of major tech hub cities like Tokyo and New York with filters and effects and an overlay in the shape of The Son of Man by Magritte, which was meant to be a silhouette and more about outward looking but also self-reflection. The Treachery of Images on the table (this is not a pipe) also by Magritte which is about NFTs and crypto, things not being what you think they are but also being so much more because of the power of ideas.\n\nhttps://weekly.thingelstad.com\nhttps://www.thingelstad.com\nhttps://danielsheldon.co.za\nhttps://nifty.ink/\nhttps://en.wikipedia.org/wiki/The_Son_of_Man\nhttps://en.wikipedia.org/wiki/The_Treachery_of_Images\nhttps://en.wikipedia.org/wiki/Ren\u00e9_Magritte\n\nFive Year POAP: https://collectors.poap.xyz/drop/44270\nSix Year POAP: https://collectors.poap.xyz/drop/126001",
+    "external_url": "https://api.poap.tech/metadata/173575/7126846",
+    "home_url": "https://app.poap.xyz/token/7126846",
+    "image_url": "https://assets.poap.xyz/06ebafe8-050b-416e-8f96-c92d20305841.png",
+    "name": "Weekly Thing Seven Year Anniversary",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "13-May-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "14-May-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://weekly.thingelstad.com/"
+      }
+    ]
+  }
+}

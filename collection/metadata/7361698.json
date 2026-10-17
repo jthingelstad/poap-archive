@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190338/7361698",
+    "id": "7361698",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/2e96ec6e-10fc-496f-9e55-c1e0ceddde34.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/2e96ec6e-10fc-496f-9e55-c1e0ceddde34.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "13-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "14-May-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://weekly.thingelstad.com"
+        }
+      ],
+      "description": "This POAP is just for the 21 Supporting Members of the Weekly Thing that were part of the 8th Anniversary donation to Creative Commons to support there mission. The claim codes were distributed directly to each member via email.",
+      "external_url": "https://api.poap.tech/metadata/190338/7361698",
+      "home_url": "https://app.poap.xyz/token/7361698",
+      "image_url": "https://assets.poap.xyz/2e96ec6e-10fc-496f-9e55-c1e0ceddde34.png",
+      "name": "Weekly Thing 8th Anniversary Supporting Members",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is just for the 21 Supporting Members of the Weekly Thing that were part of the 8th Anniversary donation to Creative Commons to support there mission. The claim codes were distributed directly to each member via email.",
+    "external_url": "https://api.poap.tech/metadata/190338/7361698",
+    "home_url": "https://app.poap.xyz/token/7361698",
+    "image_url": "https://assets.poap.xyz/2e96ec6e-10fc-496f-9e55-c1e0ceddde34.png",
+    "name": "Weekly Thing 8th Anniversary Supporting Members",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "13-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "14-May-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://weekly.thingelstad.com"
+      }
+    ]
+  }
+}

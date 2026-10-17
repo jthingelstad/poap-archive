@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/115418/6624958",
+    "id": "6624958",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/92582d45-efd7-48f8-b01c-6464f92dc747.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/92582d45-efd7-48f8-b01c-6464f92dc747.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "30-Mar-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "30-Apr-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Berlin"
+        },
+        {
+          "trait_type": "country",
+          "value": "Germany"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://twitter.com/yeysus"
+        }
+      ],
+      "description": "I\u2019ve met Jesus during April 2023, probably in Berlin. Jesus works at Bayer AG currently as the Head of Business Disruption. If you are into Stranger Things, Breakthrough Innovations, AcceleRed, TeamRed, Science4Berlin, STEM4Health, Hackathons, Biotech, Digital Health, Startups, Entrepreneurship, Intrapreneurship, Web3, Web5, Networking For Health, Science, Technology, Pharma, Exobiology, Space, Science Fiction, Germany, Cuba, you can connect with Jesus in\r\n\r\nLinkedIn: https://www.linkedin.com/in/yeysus/\r\nTwitter: https://twitter.com/yeysus\r\nMeetup: https://www.meetup.com/members/45080772/\r\nWeb3: yeysus.eth/.tez/.near\r\n\r\nSome of his POAPs collections in Welook.io:\r\nBayer: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/1\r\nCorporates: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/2\r\nAnimated: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/5\r\nLadies: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/8\r\nBeautiful: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/9\r\n\r\nArt by Stable Diffusion based on an uploaded picture.",
+      "external_url": "https://api.poap.tech/metadata/115418/6624958",
+      "home_url": "https://app.poap.xyz/token/6624958",
+      "image_url": "https://assets.poap.xyz/92582d45-efd7-48f8-b01c-6464f92dc747.png",
+      "name": "I've met Jesus during April 2023",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "I\u2019ve met Jesus during April 2023, probably in Berlin. Jesus works at Bayer AG currently as the Head of Business Disruption. If you are into Stranger Things, Breakthrough Innovations, AcceleRed, TeamRed, Science4Berlin, STEM4Health, Hackathons, Biotech, Digital Health, Startups, Entrepreneurship, Intrapreneurship, Web3, Web5, Networking For Health, Science, Technology, Pharma, Exobiology, Space, Science Fiction, Germany, Cuba, you can connect with Jesus in\r\n\r\nLinkedIn: https://www.linkedin.com/in/yeysus/\r\nTwitter: https://twitter.com/yeysus\r\nMeetup: https://www.meetup.com/members/45080772/\r\nWeb3: yeysus.eth/.tez/.near\r\n\r\nSome of his POAPs collections in Welook.io:\r\nBayer: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/1\r\nCorporates: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/2\r\nAnimated: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/5\r\nLadies: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/8\r\nBeautiful: https://welook.io/0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC/poap/c/9\r\n\r\nArt by Stable Diffusion based on an uploaded picture.",
+    "external_url": "https://api.poap.tech/metadata/115418/6624958",
+    "home_url": "https://app.poap.xyz/token/6624958",
+    "image_url": "https://assets.poap.xyz/92582d45-efd7-48f8-b01c-6464f92dc747.png",
+    "name": "I've met Jesus during April 2023",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "30-Mar-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "30-Apr-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Berlin"
+      },
+      {
+        "trait_type": "country",
+        "value": "Germany"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://twitter.com/yeysus"
+      }
+    ]
+  }
+}

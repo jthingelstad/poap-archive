@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190545/7432143",
+    "id": "7432143",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/1e8c9f30-afb4-48b0-a983-b26b0552b03b.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/1e8c9f30-afb4-48b0-a983-b26b0552b03b.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "With his buck-toothed grin and maroon-and-gold pride, Goldy Gopher is more than a mascot\u2014he\u2019s the spirit animal of the University of Minnesota. Whether he's doing push-ups at football games or striking a pose on campus, Goldy brings mischief and energy wherever he goes. Snap a selfie if you see his statue\u2014it\u2019s tradition! This Minneapolis Marvel POAP is for spotting the furriest legend in the 612 POAP Challenge. \n\nCategory: Minneapolis Marvel \nGPS: 44.97307, -93.23486 \nMap: https://www.google.com/maps/place/44.97307,-93.23486 \nWikipedia: https://en.wikipedia.org/wiki/Goldy_Gopher \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999164415219597313",
+      "external_url": "https://api.poap.tech/metadata/190545/7432143",
+      "home_url": "https://app.poap.xyz/token/7432143",
+      "image_url": "https://assets.poap.xyz/1e8c9f30-afb4-48b0-a983-b26b0552b03b.png",
+      "name": "Goldy Gopher \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "With his buck-toothed grin and maroon-and-gold pride, Goldy Gopher is more than a mascot\u2014he\u2019s the spirit animal of the University of Minnesota. Whether he's doing push-ups at football games or striking a pose on campus, Goldy brings mischief and energy wherever he goes. Snap a selfie if you see his statue\u2014it\u2019s tradition! This Minneapolis Marvel POAP is for spotting the furriest legend in the 612 POAP Challenge. \n\nCategory: Minneapolis Marvel \nGPS: 44.97307, -93.23486 \nMap: https://www.google.com/maps/place/44.97307,-93.23486 \nWikipedia: https://en.wikipedia.org/wiki/Goldy_Gopher \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999164415219597313",
+    "external_url": "https://api.poap.tech/metadata/190545/7432143",
+    "home_url": "https://app.poap.xyz/token/7432143",
+    "image_url": "https://assets.poap.xyz/1e8c9f30-afb4-48b0-a983-b26b0552b03b.png",
+    "name": "Goldy Gopher \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

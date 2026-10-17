@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/108702/6435177",
+    "id": "6435177",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/weekly-thing-ukraine-fundraiser-2023-2023-logo-1678040964144.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/weekly-thing-ukraine-fundraiser-2023-2023-logo-1678040964144.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "26-Feb-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "10-Mar-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://weekly.thingelstad.com/"
+        }
+      ],
+      "description": "This POAP was given to each subscriber of the Weekly Thing that participated in the Ukraine Fundraiser Match announced in Weekly Thing #243. Claim codes were directly distributed to each person. Photograph of Independence Monument was taken by Jamie Thingelstad on April 12, 2017 in Kyiv, Ukraine. \r\n\r\nhttps://weekly.thingelstad.com/archive/weekly-thing-243-montaigne-ordinals-salsa-ukraine/\r\nhttps://en.wikipedia.org/wiki/Independence_Monument%2C_Kyiv",
+      "external_url": "https://api.poap.tech/metadata/108702/6435177",
+      "home_url": "https://app.poap.xyz/token/6435177",
+      "image_url": "https://assets.poap.xyz/weekly-thing-ukraine-fundraiser-2023-2023-logo-1678040964144.png",
+      "name": "Weekly Thing Ukraine Fundraiser 2023",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP was given to each subscriber of the Weekly Thing that participated in the Ukraine Fundraiser Match announced in Weekly Thing #243. Claim codes were directly distributed to each person. Photograph of Independence Monument was taken by Jamie Thingelstad on April 12, 2017 in Kyiv, Ukraine. \r\n\r\nhttps://weekly.thingelstad.com/archive/weekly-thing-243-montaigne-ordinals-salsa-ukraine/\r\nhttps://en.wikipedia.org/wiki/Independence_Monument%2C_Kyiv",
+    "external_url": "https://api.poap.tech/metadata/108702/6435177",
+    "home_url": "https://app.poap.xyz/token/6435177",
+    "image_url": "https://assets.poap.xyz/weekly-thing-ukraine-fundraiser-2023-2023-logo-1678040964144.png",
+    "name": "Weekly Thing Ukraine Fundraiser 2023",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "26-Feb-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "10-Mar-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://weekly.thingelstad.com/"
+      }
+    ]
+  }
+}

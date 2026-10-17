@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x111accebf9d70d9c06de2d38f9392522e82ecf29",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x111accebf9d70d9c06de2d38f9392522e82ecf29",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x111accebf9d70d9c06de2d38f9392522e82ecf29",
+    "chain": "xdai",
+    "poaps_owned": 253
+  },
+  {
+    "address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "chain": "mainnet",
+    "poaps_owned": 0
+  },
+  {
+    "address": "0x2bda946a7740b1ddb0fd5c226819170c4dd15720",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xb81b70afee42e944b88d06a71e0531852c612056",
+    "chain": "xdai",
+    "poaps_owned": 1
+  }
+]

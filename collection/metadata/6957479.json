@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/166593/6957479",
+    "id": "6957479",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/a5051a21-d12a-4649-b408-6a7cd6a0cf39.gif",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/a5051a21-d12a-4649-b408-6a7cd6a0cf39.gif",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "31-Dec-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "31-Jan-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.linkedin.com/in/yeysus/"
+        }
+      ],
+      "description": "Head of Business Disruption, Bayer Pharmaceuticals. I love Stranger Things, Science4Berlin, STEM4Health, Hackathons, Biotech, Digital Health, Startups, Web3, Networking For Health, Science, Technology, Pharma, Medicine, 23andMe, Exobiology, Space, Science Fiction, Germany, Cuba.\n\n#OhrSum #Byron #ByronBar #POAP #HackAProcess #ItIsNeverTooLate\n\nhttps://www.linkedin.com/in/yeysus/\nhttps://twitter.com/yeysus\nyeysus.eth/.tez/.near\n\nPOAP collections:\nhttps://collections.poap.xyz/en-US?creator=0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC\nBayer Berlin:\nhttps://collections.poap.xyz/bayer-berlin/173\n\nThe future doesn\u2019t belong to the fainthearted. It belongs to the Brave. - Ronald Reagan's Address to the Nation about the Explosion of the Space Shuttle Challenger, January 28th, 1986.\n\nArt combining reface.ai, onlinegiftools.com, and ezgif.com.",
+      "external_url": "https://api.poap.tech/metadata/166593/6957479",
+      "home_url": "https://app.poap.xyz/token/6957479",
+      "image_url": "https://assets.poap.xyz/a5051a21-d12a-4649-b408-6a7cd6a0cf39.gif",
+      "name": "I met Jesus in January 2024",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Head of Business Disruption, Bayer Pharmaceuticals. I love Stranger Things, Science4Berlin, STEM4Health, Hackathons, Biotech, Digital Health, Startups, Web3, Networking For Health, Science, Technology, Pharma, Medicine, 23andMe, Exobiology, Space, Science Fiction, Germany, Cuba.\r\n\r\n#OhrSum #Byron #ByronBar #POAP #HackAProcess #ItIsNeverTooLate\r\n\r\nhttps://www.linkedin.com/in/yeysus/\r\nhttps://twitter.com/yeysus\r\nyeysus.eth/.tez/.near\r\n\r\nPOAP collections:\r\nhttps://collections.poap.xyz/en-US?creator=0x74839F2fF3bb6F98E5f120329A76A89f52b95DCC\r\nBayer Berlin:\r\nhttps://collections.poap.xyz/bayer-berlin/173\r\n\r\nThe future doesn\u2019t belong to the fainthearted. It belongs to the Brave. - Ronald Reagan's Address to the Nation about the Explosion of the Space Shuttle Challenger, January 28th, 1986.\r\n\r\nArt combining reface.ai, onlinegiftools.com, and ezgif.com.",
+    "external_url": "https://api.poap.tech/metadata/166593/6957479",
+    "home_url": "https://app.poap.xyz/token/6957479",
+    "image_url": "https://assets.poap.xyz/a5051a21-d12a-4649-b408-6a7cd6a0cf39.gif",
+    "name": "I met Jesus in January 2024",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Jan-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "31-Jan-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.linkedin.com/in/yeysus/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/214723/7529645",
+    "id": "7529645",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/ca293d09-1fe0-4b5b-a36a-63aae58a3f82.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/ca293d09-1fe0-4b5b-a36a-63aae58a3f82.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "28-Nov-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Jan-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.reddit.com/r/weeklything/"
+        }
+      ],
+      "description": "This POAP celebrates the Reddit Revival of r/WeeklyThing, the subreddit companion to the Weekly Thing newsletter.\n\nIt is awarded to readers who showed up, commented, and helped restart the conversation during the relaunch of the community on Reddit in December, 2025. By adding your voice to the thread of links, ideas, and curiosities, you were part of the r/WeeklyThing revival!\n\nThanks for being there, commenting, and helping shape what this space can become next.",
+      "external_url": "https://api.poap.tech/metadata/214723/7529645",
+      "home_url": "https://app.poap.xyz/token/7529645",
+      "image_url": "https://assets.poap.xyz/ca293d09-1fe0-4b5b-a36a-63aae58a3f82.png",
+      "name": "Weekly Thing \u2014 Reddit Revival",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP celebrates the Reddit Revival of r/WeeklyThing, the subreddit companion to the Weekly Thing newsletter.\n\nIt is awarded to readers who showed up, commented, and helped restart the conversation during the relaunch of the community on Reddit in December, 2025. By adding your voice to the thread of links, ideas, and curiosities, you were part of the r/WeeklyThing revival!\n\nThanks for being there, commenting, and helping shape what this space can become next.",
+    "external_url": "https://api.poap.tech/metadata/214723/7529645",
+    "home_url": "https://app.poap.xyz/token/7529645",
+    "image_url": "https://assets.poap.xyz/ca293d09-1fe0-4b5b-a36a-63aae58a3f82.png",
+    "name": "Weekly Thing \u2014 Reddit Revival",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "28-Nov-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Jan-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.reddit.com/r/weeklything/"
+      }
+    ]
+  }
+}

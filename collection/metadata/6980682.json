@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/167002/6980682",
+    "id": "6980682",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/1a943592-c11b-4369-8da0-af9fa35ff5d6.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/1a943592-c11b-4369-8da0-af9fa35ff5d6.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Jan-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Feb-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": ""
+        }
+      ],
+      "description": "This POAP is distributed directly to TeamSPS members via claim code. It celebrates SPS Technology people leaders who received a 100% team engagement score on their 2023 Global Voices survey. The POAP image highlights the SPS values.",
+      "external_url": "https://api.poap.tech/metadata/167002/6980682",
+      "home_url": "https://app.poap.xyz/token/6980682",
+      "image_url": "https://assets.poap.xyz/1a943592-c11b-4369-8da0-af9fa35ff5d6.png",
+      "name": "2023 Global Voices 100%",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is distributed directly to TeamSPS members via claim code. It celebrates SPS Technology people leaders who received a 100% team engagement score on their 2023 Global Voices survey. The POAP image highlights the SPS values.",
+    "external_url": "https://api.poap.tech/metadata/167002/6980682",
+    "home_url": "https://app.poap.xyz/token/6980682",
+    "image_url": "https://assets.poap.xyz/1a943592-c11b-4369-8da0-af9fa35ff5d6.png",
+    "name": "2023 Global Voices 100%",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Jan-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Feb-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": ""
+      }
+    ]
+  }
+}

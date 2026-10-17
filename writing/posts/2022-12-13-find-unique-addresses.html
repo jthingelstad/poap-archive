@@ -1,0 +1,15 @@
+<!-- https://www.thingelstad.com/2022/12/13/find-unique-addresses.html | 2022-12-13T22:18:41-05:00 | crypto, poap -->
+<h1>Find Unique Addresses for Multiple POAP Events</h1>
+<p><strong>How do you get a list of unique addresses that have claimed any set of POAPs?</strong></p>
+<p>Each POAP event allows you to download a CSV file that has the addresses that claimed it, along with other data. Download all the CSV files into a directory. Now, assuming you are on Unix-like system, the rest is pretty easy.</p>
+<p>First put all the CSVs together in one file. The download from POAP is missing a trailing newline, so loop in the shell.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#66d9ef">for</span> file in *.csv; <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>&gt; cat $file &gt;&gt; combined.csv
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>&gt; echo <span style="color:#e6db74">&#34;&#34;</span> &gt;&gt; combined.csv
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>&gt; <span style="color:#66d9ef">done</span>
+</span></span></code></pre></div><p>Now lets spit the second column, the address, into another file. <code>awk</code> does this well.</p>
+<p><code>awk -F &quot;\&quot;*,\&quot;*&quot; '{print $2}' combined.csv &gt; addresses.txt</code></p>
+<p>Now the classic <code>sort</code> and <code>uniq</code> combination will give us what we want.</p>
+<p><code>cat addresses.txt| sort | uniq &gt; addresses-uniq.txt</code></p>
+<p>And you have your list!</p>
+

@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/199622/7441226",
+    "id": "7441226",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/d70d6d1f-16ff-47a8-80bf-3cb8ba5ba7e6.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/d70d6d1f-16ff-47a8-80bf-3cb8ba5ba7e6.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Aug-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com"
+        }
+      ],
+      "description": "I write at www.thingelstad.com and share a weekly newsletter at weekly.thingelstad.com. You can also find me on thingelstad.eth and POAP.thingelstad.eth.",
+      "external_url": "https://api.poap.tech/metadata/199622/7441226",
+      "home_url": "https://app.poap.xyz/token/7441226",
+      "image_url": "https://assets.poap.xyz/d70d6d1f-16ff-47a8-80bf-3cb8ba5ba7e6.png",
+      "name": "You've met Jamie Thingelstad in August 2025",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "I write at www.thingelstad.com and share a weekly newsletter at weekly.thingelstad.com. You can also find me on thingelstad.eth and POAP.thingelstad.eth.",
+    "external_url": "https://api.poap.tech/metadata/199622/7441226",
+    "home_url": "https://app.poap.xyz/token/7441226",
+    "image_url": "https://assets.poap.xyz/d70d6d1f-16ff-47a8-80bf-3cb8ba5ba7e6.png",
+    "name": "You've met Jamie Thingelstad in August 2025",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Aug-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com"
+      }
+    ]
+  }
+}

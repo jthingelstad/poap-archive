@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/222977/7552077",
+    "id": "7552077",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/40d18fab-15a7-43c0-bca2-2717686a062d.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/40d18fab-15a7-43c0-bca2-2717686a062d.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Dec-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Mar-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com"
+        }
+      ],
+      "description": "You got this digital collectible because you have met Jamie Thingelstad in real life between December 2025 and February 2026.\n\nBlog: https://www.thingelstad.com\nNewsletter: https://weekly.thingelstad.com\nPodcast: https://another.thingelstad.com\n\nConnect: https://www.thingelstad.com/connect/\nContact: https://www.thingelstad.com/contact/",
+      "external_url": "https://api.poap.tech/metadata/222977/7552077",
+      "home_url": "https://app.poap.xyz/token/7552077",
+      "image_url": "https://assets.poap.xyz/40d18fab-15a7-43c0-bca2-2717686a062d.png",
+      "name": "You've met Jamie Thingelstad in Winter 2026",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "You got this digital collectible because you have met Jamie Thingelstad in real life between December 2025 and February 2026.\n\nBlog: https://www.thingelstad.com\nNewsletter: https://weekly.thingelstad.com\nPodcast: https://another.thingelstad.com\n\nConnect: https://www.thingelstad.com/connect/\nContact: https://www.thingelstad.com/contact/",
+    "external_url": "https://api.poap.tech/metadata/222977/7552077",
+    "home_url": "https://app.poap.xyz/token/7552077",
+    "image_url": "https://assets.poap.xyz/40d18fab-15a7-43c0-bca2-2717686a062d.png",
+    "name": "You've met Jamie Thingelstad in Winter 2026",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Dec-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Mar-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/117279/6516437",
+    "id": "6516437",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/9abac724-bc4e-40f6-ac6a-55e66349b35a.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/9abac724-bc4e-40f6-ac6a-55e66349b35a.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "22-Apr-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "23-Apr-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/2023/03/04/hosting-minnebar-creating.html"
+        }
+      ],
+      "description": "This POAP was given to Minnebar 17 attendees that joined the session \"Creating Digital Community with POAP\" presented by Jamie Thingelstad (poap.thingelstad.eth), Tammy Thingelstad (tammy.thingelstad.eth), Mazie Thingelstad (mazie.thingelstad.eth), and Tyler Thingelstad (tyler.thingelstad.eth). This POAP was also used as the example during the session of how to create your own POAP drop. Claim codes were distributed directly to people in the session, as well as given via IYK POAP Disc.",
+      "external_url": "https://api.poap.tech/metadata/117279/6516437",
+      "home_url": "https://app.poap.xyz/token/6516437",
+      "image_url": "https://assets.poap.xyz/9abac724-bc4e-40f6-ac6a-55e66349b35a.png",
+      "name": "Minnebar 17 Session: Creating Digital Community with POAP",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP was given to Minnebar 17 attendees that joined the session \"Creating Digital Community with POAP\" presented by Jamie Thingelstad (poap.thingelstad.eth), Tammy Thingelstad (tammy.thingelstad.eth), Mazie Thingelstad (mazie.thingelstad.eth), and Tyler Thingelstad (tyler.thingelstad.eth). This POAP was also used as the example during the session of how to create your own POAP drop. Claim codes were distributed directly to people in the session, as well as given via IYK POAP Disc.",
+    "external_url": "https://api.poap.tech/metadata/117279/6516437",
+    "home_url": "https://app.poap.xyz/token/6516437",
+    "image_url": "https://assets.poap.xyz/9abac724-bc4e-40f6-ac6a-55e66349b35a.png",
+    "name": "Minnebar 17 Session: Creating Digital Community with POAP",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "22-Apr-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "23-Apr-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/2023/03/04/hosting-minnebar-creating.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/102643/6356207",
+    "id": "6356207",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/mntech-tech-leadership-forum3a-generative-ai-2023-logo-1677014253272.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/mntech-tech-leadership-forum3a-generative-ai-2023-logo-1677014253272.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "23-Feb-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "23-Feb-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis, MN"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://mntech.org/"
+        }
+      ],
+      "description": "This POAP was given to attendees of the MnTech Tech Leadership Forum on February 23, 2023 discussing Generative AI: Harnessing Disruption into Innovation. Tech Leadership Forums are quarterly educational forums, created by Chief Information Officers for their peers and other C-level tech executives. These morning events provide excellent networking opportunities as well as candid discussions around technology issues, trends and challenges that IT leaders face every day.\r\n\r\nThis session featured:\r\n\r\nJamie Thingelstad, CTO at SPS Commerce as Host\r\nTodd Van Nurden, Principal Cloud Architect, Microsoft Technology Center, Microsoft\r\nSam Pierson, CTO at Talend\r\nTammylynne Jonas, Global CIO, Donaldson",
+      "external_url": "https://api.poap.tech/metadata/102643/6356207",
+      "home_url": "https://app.poap.xyz/token/6356207",
+      "image_url": "https://assets.poap.xyz/mntech-tech-leadership-forum3a-generative-ai-2023-logo-1677014253272.png",
+      "name": "MnTech Tech Leadership Forum: Generative AI",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP was given to attendees of the MnTech Tech Leadership Forum on February 23, 2023 discussing Generative AI: Harnessing Disruption into Innovation. Tech Leadership Forums are quarterly educational forums, created by Chief Information Officers for their peers and other C-level tech executives. These morning events provide excellent networking opportunities as well as candid discussions around technology issues, trends and challenges that IT leaders face every day.\r\n\r\nThis session featured:\r\n\r\nJamie Thingelstad, CTO at SPS Commerce as Host\r\nTodd Van Nurden, Principal Cloud Architect, Microsoft Technology Center, Microsoft\r\nSam Pierson, CTO at Talend\r\nTammylynne Jonas, Global CIO, Donaldson",
+    "external_url": "https://api.poap.tech/metadata/102643/6356207",
+    "home_url": "https://app.poap.xyz/token/6356207",
+    "image_url": "https://assets.poap.xyz/mntech-tech-leadership-forum3a-generative-ai-2023-logo-1677014253272.png",
+    "name": "MnTech Tech Leadership Forum: Generative AI",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "23-Feb-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "23-Feb-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis, MN"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://mntech.org/"
+      }
+    ]
+  }
+}

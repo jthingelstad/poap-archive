@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/177056/7180533",
+    "id": "7180533",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/1b853ddd-c8da-4ffc-a47e-18ac9bf6bf14.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/1b853ddd-c8da-4ffc-a47e-18ac9bf6bf14.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "15-Aug-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "16-Aug-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://tyler.thingelstad.com/2024/06/21/building-a-towertech.html"
+        }
+      ],
+      "description": "This POAP is to celebrate Tyler successfully building his Gaming PC and getting it all running and ready for hours of fun ahead!",
+      "external_url": "https://api.poap.tech/metadata/177056/7180533",
+      "home_url": "https://app.poap.xyz/token/7180533",
+      "image_url": "https://assets.poap.xyz/1b853ddd-c8da-4ffc-a47e-18ac9bf6bf14.png",
+      "name": "First Computer Build",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is to celebrate Tyler successfully building his Gaming PC and getting it all running and ready for hours of fun ahead!",
+    "external_url": "https://api.poap.tech/metadata/177056/7180533",
+    "home_url": "https://app.poap.xyz/token/7180533",
+    "image_url": "https://assets.poap.xyz/1b853ddd-c8da-4ffc-a47e-18ac9bf6bf14.png",
+    "name": "First Computer Build",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "15-Aug-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "16-Aug-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://tyler.thingelstad.com/2024/06/21/building-a-towertech.html"
+      }
+    ]
+  }
+}

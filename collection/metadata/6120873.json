@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/92767/6120873",
+    "id": "6120873",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/2022-fifa-world-cup-winner-supporter-2022-logo-1672082130594.gif",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/2022-fifa-world-cup-winner-supporter-2022-logo-1672082130594.gif",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "18-Dec-2022"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "19-Dec-2022"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": ""
+        }
+      ],
+      "description": "This POAP (Proof of Attendance Protocol) commemorates your unconditional support to the FIFA World Cup winning team, Argentina.\r\n\r\nCongratulations to the winners, and to all the fans who supported them every step of the way!\r\n\r\nArgentina's National Football Team: \r\n\r\n1  GK  Franco Armani  \r\n12  GK  Ger\u00f3nimo Rulli  \r\n23  GK  Emiliano Mart\u00ednez\r\n\r\n2  DF  Juan Foyth  \r\n3  DF  Nicol\u00e1s Tagliafico  \r\n4  DF  Gonzalo Montiel  \r\n6  DF  Germ\u00e1n Pezzella  \r\n8  DF  Marcos Acu\u00f1a  \r\n13  DF  Cristian Romero  \r\n19  DF  Nicol\u00e1s Otamendi  \r\n25  DF  Lisandro Mart\u00ednez  \r\n26  DF  Nahuel Molina  \r\n\r\n5  MF  Leandro Paredes  \r\n7  MF  Rodrigo De Paul  \r\n14  MF  Exequiel Palacios  \r\n16  MF  Thiago Almada  \r\n17  MF  Alejandro G\u00f3mez  \r\n18  MF  Guido Rodr\u00edguez  \r\n20  MF  Alexis Mac Allister\r\n24  MF  Enzo Fern\u00e1ndez  \r\n\r\n9  FW  Juli\u00e1n \u00c1lvarez  \r\n10  FW  Lionel Messi (captain)  \r\n11  FW  \u00c1ngel Di Mar\u00eda  \r\n15  FW                \u00c1ngel Correa  \r\n21  FW  Paulo Dybala  \r\n22  FW  Lautaro Mart\u00ednez\r\n\r\nHC Lionel Scaloni & Coaching staff",
+      "external_url": "https://api.poap.tech/metadata/92767/6120873",
+      "home_url": "https://app.poap.xyz/token/6120873",
+      "image_url": "https://assets.poap.xyz/2022-fifa-world-cup-winner-supporter-2022-logo-1672082130594.gif",
+      "name": "2022 FIFA World Cup Winner Supporter",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2022
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP (Proof of Attendance Protocol) commemorates your unconditional support to the FIFA World Cup winning team, Argentina.\r\n\r\nCongratulations to the winners, and to all the fans who supported them every step of the way!\r\n\r\nArgentina's National Football Team: \r\n\r\n1  GK  Franco Armani  \r\n12  GK  Ger\u00f3nimo Rulli  \r\n23  GK  Emiliano Mart\u00ednez\r\n\r\n2  DF  Juan Foyth  \r\n3  DF  Nicol\u00e1s Tagliafico  \r\n4  DF  Gonzalo Montiel  \r\n6  DF  Germ\u00e1n Pezzella  \r\n8  DF  Marcos Acu\u00f1a  \r\n13  DF  Cristian Romero  \r\n19  DF  Nicol\u00e1s Otamendi  \r\n25  DF  Lisandro Mart\u00ednez  \r\n26  DF  Nahuel Molina  \r\n\r\n5  MF  Leandro Paredes  \r\n7  MF  Rodrigo De Paul  \r\n14  MF  Exequiel Palacios  \r\n16  MF  Thiago Almada  \r\n17  MF  Alejandro G\u00f3mez  \r\n18  MF  Guido Rodr\u00edguez  \r\n20  MF  Alexis Mac Allister\r\n24  MF  Enzo Fern\u00e1ndez  \r\n\r\n9  FW  Juli\u00e1n \u00c1lvarez  \r\n10  FW  Lionel Messi (captain)  \r\n11  FW  \u00c1ngel Di Mar\u00eda  \r\n15  FW                \u00c1ngel Correa  \r\n21  FW  Paulo Dybala  \r\n22  FW  Lautaro Mart\u00ednez\r\n\r\nHC Lionel Scaloni & Coaching staff",
+    "external_url": "https://api.poap.tech/metadata/92767/6120873",
+    "home_url": "https://app.poap.xyz/token/6120873",
+    "image_url": "https://assets.poap.xyz/2022-fifa-world-cup-winner-supporter-2022-logo-1672082130594.gif",
+    "name": "2022 FIFA World Cup Winner Supporter",
+    "year": 2022,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "18-Dec-2022"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "19-Dec-2022"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": ""
+      }
+    ]
+  }
+}

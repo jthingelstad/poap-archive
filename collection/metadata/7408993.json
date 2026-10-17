@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190540/7408993",
+    "id": "7408993",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/cedbb55d-47c3-4391-ac27-984058264614.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/cedbb55d-47c3-4391-ac27-984058264614.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "A quiet gem tucked into South Minneapolis, Lake Hiawatha offers peaceful paths, birdwatching hideaways, and a golf course next door. It may not make as much noise as its bigger siblings, but it holds its own with calm waters and a down-to-earth charm. Locals know it as a spot to fish, relax, or quietly recharge. Collect this Lake Lover POAP for discovering the subtle beauty on your 612 POAP Challenge journey. \n\nCategory: Lake Lover \nGPS: 44.91878, -93.23375 \nMap: https://www.google.com/maps/place/44.91878,-93.23375 \nWikipedia: https://en.wikipedia.org/wiki/Lake_Hiawatha \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998818069056847873",
+      "external_url": "https://api.poap.tech/metadata/190540/7408993",
+      "home_url": "https://app.poap.xyz/token/7408993",
+      "image_url": "https://assets.poap.xyz/cedbb55d-47c3-4391-ac27-984058264614.png",
+      "name": "Lake Hiawatha \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "A quiet gem tucked into South Minneapolis, Lake Hiawatha offers peaceful paths, birdwatching hideaways, and a golf course next door. It may not make as much noise as its bigger siblings, but it holds its own with calm waters and a down-to-earth charm. Locals know it as a spot to fish, relax, or quietly recharge. Collect this Lake Lover POAP for discovering the subtle beauty on your 612 POAP Challenge journey. \n\nCategory: Lake Lover \nGPS: 44.91878, -93.23375 \nMap: https://www.google.com/maps/place/44.91878,-93.23375 \nWikipedia: https://en.wikipedia.org/wiki/Lake_Hiawatha \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998818069056847873",
+    "external_url": "https://api.poap.tech/metadata/190540/7408993",
+    "home_url": "https://app.poap.xyz/token/7408993",
+    "image_url": "https://assets.poap.xyz/cedbb55d-47c3-4391-ac27-984058264614.png",
+    "name": "Lake Hiawatha \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

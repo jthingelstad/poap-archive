@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/191378/7379713",
+    "id": "7379713",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/d8974309-3154-4a69-8d43-4cc4719cfe3f.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/d8974309-3154-4a69-8d43-4cc4719cfe3f.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "30-Jun-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Jul-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "New Hope, MN"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.mnblockchain.org/event/june-30-spotlight-meetup/"
+        }
+      ],
+      "description": "This POAP commemorates the June 2025 MN Blockchain Spotlight Meetup [1], held at Frankie\u2019s Pizza [2] and featuring a special session titled \u201cCreating Community with POAP.\u201d Hosted by Jamie Thingelstad [3], this talk explored how POAPs can be used to foster community engagement and highlighted the 612 POAP Challenge [4] as a real-world example of using digital collectibles for connection and exploration. Attendees of this event came together to share ideas at the intersection of blockchain and community building while enjoying great conversation\u2014and pizza\u2014with fellow technologists and enthusiasts.\n\n[1]: https://www.mnblockchain.org/event/june-30-spotlight-meetup/\n[2]: https://www.frankieschicagostyle.com\n[3]: https://www.thingelstad.com\n[4]: https://www.thingelstad.com/projects/612-poap-challenge/",
+      "external_url": "https://api.poap.tech/metadata/191378/7379713",
+      "home_url": "https://app.poap.xyz/token/7379713",
+      "image_url": "https://assets.poap.xyz/d8974309-3154-4a69-8d43-4cc4719cfe3f.png",
+      "name": "Creating Community with POAP \u2014 MN Blockchain",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP commemorates the June 2025 MN Blockchain Spotlight Meetup [1], held at Frankie\u2019s Pizza [2] and featuring a special session titled \u201cCreating Community with POAP.\u201d Hosted by Jamie Thingelstad [3], this talk explored how POAPs can be used to foster community engagement and highlighted the 612 POAP Challenge [4] as a real-world example of using digital collectibles for connection and exploration. Attendees of this event came together to share ideas at the intersection of blockchain and community building while enjoying great conversation\u2014and pizza\u2014with fellow technologists and enthusiasts.\n\n[1]: https://www.mnblockchain.org/event/june-30-spotlight-meetup/\n[2]: https://www.frankieschicagostyle.com\n[3]: https://www.thingelstad.com\n[4]: https://www.thingelstad.com/projects/612-poap-challenge/",
+    "external_url": "https://api.poap.tech/metadata/191378/7379713",
+    "home_url": "https://app.poap.xyz/token/7379713",
+    "image_url": "https://assets.poap.xyz/d8974309-3154-4a69-8d43-4cc4719cfe3f.png",
+    "name": "Creating Community with POAP \u2014 MN Blockchain",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "30-Jun-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Jul-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "New Hope, MN"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.mnblockchain.org/event/june-30-spotlight-meetup/"
+      }
+    ]
+  }
+}

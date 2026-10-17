@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190897/7369494",
+    "id": "7369494",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/259f12a8-bb1c-4155-bcab-eb2d1d4fcbb1.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/259f12a8-bb1c-4155-bcab-eb2d1d4fcbb1.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "This POAP is given to everyone that collects any of the 33 locations in the 612 POAP Challenge! Collect one and you will get this POAP sent to you to commemorate being in the challenge.\n\nMailing List: https://buttondown.com/612-poap-challenge",
+      "external_url": "https://api.poap.tech/metadata/190897/7369494",
+      "home_url": "https://app.poap.xyz/token/7369494",
+      "image_url": "https://assets.poap.xyz/259f12a8-bb1c-4155-bcab-eb2d1d4fcbb1.png",
+      "name": "612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is given to everyone that collects any of the 33 locations in the 612 POAP Challenge! Collect one and you will get this POAP sent to you to commemorate being in the challenge.\n\nMailing List: https://buttondown.com/612-poap-challenge",
+    "external_url": "https://api.poap.tech/metadata/190897/7369494",
+    "home_url": "https://app.poap.xyz/token/7369494",
+    "image_url": "https://assets.poap.xyz/259f12a8-bb1c-4155-bcab-eb2d1d4fcbb1.png",
+    "name": "612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

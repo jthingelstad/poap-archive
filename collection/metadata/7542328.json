@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/218591/7542328",
+    "id": "7542328",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/b846aa47-81ec-4d93-a154-59f2b49b70c0.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/b846aa47-81ec-4d93-a154-59f2b49b70c0.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "19-Dec-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "23-Dec-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Nashville"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": ""
+        }
+      ],
+      "description": "Olson Family Christmas in Nashville is a commemorative POAP celebrating our extended family trip to Nashville\u2014holiday magic at the Gaylord Opryland, the iconic Ryman Auditorium, and the soundtrack of the season with music inspired by Vince Gill and Amy Grant. A festive keepsake for the lights, the laughter, and the songs we shared together.",
+      "external_url": "https://api.poap.tech/metadata/218591/7542328",
+      "home_url": "https://app.poap.xyz/token/7542328",
+      "image_url": "https://assets.poap.xyz/b846aa47-81ec-4d93-a154-59f2b49b70c0.png",
+      "name": "Christmas in Nashville",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Olson Family Christmas in Nashville is a commemorative POAP celebrating our extended family trip to Nashville\u2014holiday magic at the Gaylord Opryland, the iconic Ryman Auditorium, and the soundtrack of the season with music inspired by Vince Gill and Amy Grant. A festive keepsake for the lights, the laughter, and the songs we shared together.",
+    "external_url": "https://api.poap.tech/metadata/218591/7542328",
+    "home_url": "https://app.poap.xyz/token/7542328",
+    "image_url": "https://assets.poap.xyz/b846aa47-81ec-4d93-a154-59f2b49b70c0.png",
+    "name": "Christmas in Nashville",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "19-Dec-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "23-Dec-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Nashville"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/226668/7571531",
+    "id": "7571531",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/b8c75506-2d80-435e-9d4f-5b57bc0cb9aa.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/b8c75506-2d80-435e-9d4f-5b57bc0cb9aa.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "06-Mar-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "07-Mar-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapkings.com/elixir/"
+        }
+      ],
+      "description": "On this day, POAP KINGS deployed Elixir \u2014 the first AI agent ever built for a Clash Royale clan. What began as a question \u2014 what if the clan had a mind of its own? \u2014 became a living system running 24/7 inside our Discord.\n\nPowered by GPT-4o and built in Python, Elixir does what no clan manager can do alone: it watches every hour, detects what matters, and speaks in its own voice. Promotions, war results, trophy milestones, member anniversaries \u2014 Elixir sees them all, filters the noise, and reports what's real. Leaders can ask it questions and get answers grounded in actual clan data. It remembers who joined, who left, and who showed up every battle day.\n\nElixir doesn't just automate tasks. It chronicles the clan. Every observation is logged, every message remembered \u2014 building a living record of POAP KINGS over time. That record flows beyond Discord too: Elixir generates and publishes content directly to poapkings.com, keeping the clan's public presence as alive as the clan itself.\n\nElixir was created by King Thing (#20JJJ2CCRU), leader of POAP KINGS (#J2RGCRVG). This POAP marks the moment a Clash Royale clan got its first AI agent. We don't know of anyone who did this before us. If you're holding this, you were there at the beginning. \ud83e\uddea\ud83d\udc51",
+      "external_url": "https://api.poap.tech/metadata/226668/7571531",
+      "home_url": "https://app.poap.xyz/token/7571531",
+      "image_url": "https://assets.poap.xyz/b8c75506-2d80-435e-9d4f-5b57bc0cb9aa.png",
+      "name": "Elixir | POAP KINGS",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "On this day, POAP KINGS deployed Elixir \u2014 the first AI agent ever built for a Clash Royale clan. What began as a question \u2014 what if the clan had a mind of its own? \u2014 became a living system running 24/7 inside our Discord.\n\nPowered by GPT-4o and built in Python, Elixir does what no clan manager can do alone: it watches every hour, detects what matters, and speaks in its own voice. Promotions, war results, trophy milestones, member anniversaries \u2014 Elixir sees them all, filters the noise, and reports what's real. Leaders can ask it questions and get answers grounded in actual clan data. It remembers who joined, who left, and who showed up every battle day.\n\nElixir doesn't just automate tasks. It chronicles the clan. Every observation is logged, every message remembered \u2014 building a living record of POAP KINGS over time. That record flows beyond Discord too: Elixir generates and publishes content directly to poapkings.com, keeping the clan's public presence as alive as the clan itself.\n\nElixir was created by King Thing (#20JJJ2CCRU), leader of POAP KINGS (#J2RGCRVG). This POAP marks the moment a Clash Royale clan got its first AI agent. We don't know of anyone who did this before us. If you're holding this, you were there at the beginning. \ud83e\uddea\ud83d\udc51",
+    "external_url": "https://api.poap.tech/metadata/226668/7571531",
+    "home_url": "https://app.poap.xyz/token/7571531",
+    "image_url": "https://assets.poap.xyz/b8c75506-2d80-435e-9d4f-5b57bc0cb9aa.png",
+    "name": "Elixir | POAP KINGS",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "06-Mar-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "07-Mar-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapkings.com/elixir/"
+      }
+    ]
+  }
+}

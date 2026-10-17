@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/221806/7570327",
+    "id": "7570327",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/051ea37c-9dc0-46ea-a04b-421d51770390.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/051ea37c-9dc0-46ea-a04b-421d51770390.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Jan-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "31-Dec-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "New York City"
+        },
+        {
+          "trait_type": "country",
+          "value": "USA"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poap.xyz"
+        }
+      ],
+      "description": "I passed through LaGuardia Airport in New York City, United States in 2026, and I got to mint this pretty POAP!\r\n\r\n LGA is named after former NYC mayor Fiorello La Guardia and is famous for its long-standing \"perimeter rule\", which restricts nonstop flights to destinations within 1500 miles (with several exceptions). \r\n\r\nThis POAP was minted in 2026 as part of a campaign to offer precious digital collectibles to travellers around the world.",
+      "external_url": "https://api.poap.tech/metadata/221806/7570327",
+      "home_url": "https://app.poap.xyz/token/7570327",
+      "image_url": "https://assets.poap.xyz/051ea37c-9dc0-46ea-a04b-421d51770390.png",
+      "name": "I passed through LaGuardia Airport (LGA) in 2026",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "I passed through LaGuardia Airport in New York City, United States in 2026, and I got to mint this pretty POAP!\r\n\r\n LGA is named after former NYC mayor Fiorello La Guardia and is famous for its long-standing \"perimeter rule\", which restricts nonstop flights to destinations within 1500 miles (with several exceptions). \r\n\r\nThis POAP was minted in 2026 as part of a campaign to offer precious digital collectibles to travellers around the world.",
+    "external_url": "https://api.poap.tech/metadata/221806/7570327",
+    "home_url": "https://app.poap.xyz/token/7570327",
+    "image_url": "https://assets.poap.xyz/051ea37c-9dc0-46ea-a04b-421d51770390.png",
+    "name": "I passed through LaGuardia Airport (LGA) in 2026",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Jan-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "31-Dec-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "New York City"
+      },
+      {
+        "trait_type": "country",
+        "value": "USA"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poap.xyz"
+      }
+    ]
+  }
+}

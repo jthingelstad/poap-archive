@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/222336/7593072",
+    "id": "7593072",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/4546894f-a908-4856-9ca4-5a98fc7a7c78.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/4546894f-a908-4856-9ca4-5a98fc7a7c78.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Jan-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "31-Dec-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Seattle"
+        },
+        {
+          "trait_type": "country",
+          "value": "USA"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poap.xyz"
+        }
+      ],
+      "description": "I passed through Seattle-Tacoma International Airport in Seattle, United States in 2026, and I got to mint this pretty POAP!\r\n\r\nBefore it was an airport, the land SEA sits on today has housed a mushroom farm, a frog farm, a dog kennel, and a facility for raising domestic rabbits. \r\n\r\nThis POAP was minted in 2026 as part of a campaign to offer precious digital collectibles to travellers around the world.",
+      "external_url": "https://api.poap.tech/metadata/222336/7593072",
+      "home_url": "https://app.poap.xyz/token/7593072",
+      "image_url": "https://assets.poap.xyz/4546894f-a908-4856-9ca4-5a98fc7a7c78.png",
+      "name": "I passed through Seattle-Tacoma International Airport (SEA) in 2026",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "I passed through Seattle-Tacoma International Airport in Seattle, United States in 2026, and I got to mint this pretty POAP!\r\n\r\nBefore it was an airport, the land SEA sits on today has housed a mushroom farm, a frog farm, a dog kennel, and a facility for raising domestic rabbits. \r\n\r\nThis POAP was minted in 2026 as part of a campaign to offer precious digital collectibles to travellers around the world.",
+    "external_url": "https://api.poap.tech/metadata/222336/7593072",
+    "home_url": "https://app.poap.xyz/token/7593072",
+    "image_url": "https://assets.poap.xyz/4546894f-a908-4856-9ca4-5a98fc7a7c78.png",
+    "name": "I passed through Seattle-Tacoma International Airport (SEA) in 2026",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Jan-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "31-Dec-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Seattle"
+      },
+      {
+        "trait_type": "country",
+        "value": "USA"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poap.xyz"
+      }
+    ]
+  }
+}

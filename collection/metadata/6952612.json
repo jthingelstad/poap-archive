@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/166395/6952612",
+    "id": "6952612",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/94eacf75-3892-4f03-a233-95d74998d1a8.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/94eacf75-3892-4f03-a233-95d74998d1a8.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "28-Dec-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "29-Dec-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapathon.xyz/"
+        }
+      ],
+      "description": "POAPathon Community Chat December 29 2023\n\nThank you for attending our weekly community hangout. Today we talked about end of the year, catching up on goals, procrastination, being (dis)organized, crypto memes and trash coins, games, POAPs, tech, health and supplements, and how to properly hang a toilet paper roll.\n\nThe art was drawn live by Magdalena, in procreate. POAP sponsored by Jesus del Valle.\n\nhttps://twitter.com/poapathon\nhttps://poapathon.xyz/",
+      "external_url": "https://api.poap.tech/metadata/166395/6952612",
+      "home_url": "https://app.poap.xyz/token/6952612",
+      "image_url": "https://assets.poap.xyz/94eacf75-3892-4f03-a233-95d74998d1a8.png",
+      "name": "POAPathon Community Chat December 29 2023",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "POAPathon Community Chat December 29 2023\n\nThank you for attending our weekly community hangout. Today we talked about end of the year, catching up on goals, procrastination, being (dis)organized, crypto memes and trash coins, games, POAPs, tech, health and supplements, and how to properly hang a toilet paper roll.\n\nThe art was drawn live by Magdalena, in procreate. POAP sponsored by Jesus del Valle.\n\nhttps://twitter.com/poapathon\nhttps://poapathon.xyz/",
+    "external_url": "https://api.poap.tech/metadata/166395/6952612",
+    "home_url": "https://app.poap.xyz/token/6952612",
+    "image_url": "https://assets.poap.xyz/94eacf75-3892-4f03-a233-95d74998d1a8.png",
+    "name": "POAPathon Community Chat December 29 2023",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "28-Dec-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "29-Dec-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapathon.xyz/"
+      }
+    ]
+  }
+}

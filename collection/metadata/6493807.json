@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/111397/6493807",
+    "id": "6493807",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/0a0b38c9-6bdb-421c-a127-95061c00d7a2.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/0a0b38c9-6bdb-421c-a127-95061c00d7a2.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "26-Mar-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "31-Mar-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://salsa.me"
+        }
+      ],
+      "description": "This POAP is the one and only proof that you've been part of the Salsa tribe since day 1. Thank you for being an OG user of our app and sharing a post with the world prior to our public launch. Your early support means the world to us \ud83c\udf36",
+      "external_url": "https://api.poap.tech/metadata/111397/6493807",
+      "home_url": "https://app.poap.xyz/token/6493807",
+      "image_url": "https://assets.poap.xyz/0a0b38c9-6bdb-421c-a127-95061c00d7a2.png",
+      "name": "OG Salsa User ",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is the one and only proof that you've been part of the Salsa tribe since day 1. Thank you for being an OG user of our app and sharing a post with the world prior to our public launch. Your early support means the world to us \ud83c\udf36",
+    "external_url": "https://api.poap.tech/metadata/111397/6493807",
+    "home_url": "https://app.poap.xyz/token/6493807",
+    "image_url": "https://assets.poap.xyz/0a0b38c9-6bdb-421c-a127-95061c00d7a2.png",
+    "name": "OG Salsa User ",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "26-Mar-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "31-Mar-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://salsa.me"
+      }
+    ]
+  }
+}

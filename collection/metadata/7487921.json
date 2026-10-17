@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/213432/7487921",
+    "id": "7487921",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/23bed050-58b5-493c-9278-a1d6efaf76df.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/23bed050-58b5-493c-9278-a1d6efaf76df.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "08-Nov-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "10-Nov-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/candles/"
+        }
+      ],
+      "description": "This token was distributed directly via printed claim sheets to participants in the 2025 Things 4 Good Candle Fundraiser hosted by the Thingelstad family. This annual give back event raised donations for causes that we want to support by selling our handmade wooden wick candles. \n\nThis year's scents included True North, Winter Wonderland, Charcoal Rose, Old Fashioned, Apple of My Eye, Tea Time, Oh My Darling, Pumpkin Pie, and Just Crackle (unscented). This year we also debuted the 24oz XL Candles in Winter Wonderland and True North, as well as the T4G Labs and Rekindled collections. Finally, this was also the first year that we offered candle lids. Many new things!\n\nWe provide the materials and make the candles so that ALL proceeds from the fundraiser go to four different non-profits that we each pick. This year we supported: \n\n- Animal Welfare Institute \u2192 https://awionline.org/\n- Border Angels \u2192 https://www.borderangels.org \n- The Food Group \u2192 https://www.thefoodgroupmn.org\n- Sandy Hook Promise \u2192 https://www.sandyhookpromise.org",
+      "external_url": "https://api.poap.tech/metadata/213432/7487921",
+      "home_url": "https://app.poap.xyz/token/7487921",
+      "image_url": "https://assets.poap.xyz/23bed050-58b5-493c-9278-a1d6efaf76df.png",
+      "name": "Things 4 Good 2025 Candle Fundraiser",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This token was distributed directly via printed claim sheets to participants in the 2025 Things 4 Good Candle Fundraiser hosted by the Thingelstad family. This annual give back event raised donations for causes that we want to support by selling our handmade wooden wick candles. \n\nThis year's scents included True North, Winter Wonderland, Charcoal Rose, Old Fashioned, Apple of My Eye, Tea Time, Oh My Darling, Pumpkin Pie, and Just Crackle (unscented). This year we also debuted the 24oz XL Candles in Winter Wonderland and True North, as well as the T4G Labs and Rekindled collections. Finally, this was also the first year that we offered candle lids. Many new things!\n\nWe provide the materials and make the candles so that ALL proceeds from the fundraiser go to four different non-profits that we each pick. This year we supported: \n\n- Animal Welfare Institute \u2192 https://awionline.org/\n- Border Angels \u2192 https://www.borderangels.org \n- The Food Group \u2192 https://www.thefoodgroupmn.org\n- Sandy Hook Promise \u2192 https://www.sandyhookpromise.org",
+    "external_url": "https://api.poap.tech/metadata/213432/7487921",
+    "home_url": "https://app.poap.xyz/token/7487921",
+    "image_url": "https://assets.poap.xyz/23bed050-58b5-493c-9278-a1d6efaf76df.png",
+    "name": "Things 4 Good 2025 Candle Fundraiser",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "08-Nov-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "10-Nov-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/candles/"
+      }
+    ]
+  }
+}

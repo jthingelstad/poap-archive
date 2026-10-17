@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190530/7441157",
+    "id": "7441157",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/703df2b3-0990-41f4-9aed-78d34ff36ed8.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/703df2b3-0990-41f4-9aed-78d34ff36ed8.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "It\u2019s not just a sculpture\u2014it\u2019s the symbol of Minneapolis itself. Claes Oldenburg\u2019s iconic Spoonbridge and Cherry balances playfulness with bold design, nestled in the Minneapolis Sculpture Garden like it was always meant to be there. Snap a photo, dodge the mist, and admire how surrealism became civic pride. This Culture Collector POAP is your reward for embracing whimsy in the heart of the 612 POAP Challenge. \n\nCategory: Culture Collector \nGPS: 44.97023, -93.28905 \nMap: https://www.google.com/maps/place/44.97023,-93.28905 \nWikipedia: https://en.wikipedia.org/wiki/Spoonbridge_and_Cherry \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998920323638231041",
+      "external_url": "https://api.poap.tech/metadata/190530/7441157",
+      "home_url": "https://app.poap.xyz/token/7441157",
+      "image_url": "https://assets.poap.xyz/703df2b3-0990-41f4-9aed-78d34ff36ed8.png",
+      "name": "Spoonbridge and Cherry \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "It\u2019s not just a sculpture\u2014it\u2019s the symbol of Minneapolis itself. Claes Oldenburg\u2019s iconic Spoonbridge and Cherry balances playfulness with bold design, nestled in the Minneapolis Sculpture Garden like it was always meant to be there. Snap a photo, dodge the mist, and admire how surrealism became civic pride. This Culture Collector POAP is your reward for embracing whimsy in the heart of the 612 POAP Challenge. \n\nCategory: Culture Collector \nGPS: 44.97023, -93.28905 \nMap: https://www.google.com/maps/place/44.97023,-93.28905 \nWikipedia: https://en.wikipedia.org/wiki/Spoonbridge_and_Cherry \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998920323638231041",
+    "external_url": "https://api.poap.tech/metadata/190530/7441157",
+    "home_url": "https://app.poap.xyz/token/7441157",
+    "image_url": "https://assets.poap.xyz/703df2b3-0990-41f4-9aed-78d34ff36ed8.png",
+    "name": "Spoonbridge and Cherry \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

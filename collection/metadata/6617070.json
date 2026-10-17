@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/126003/6617070",
+    "id": "6617070",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/f8578df3-d082-4db8-831f-e7b09596660d.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/f8578df3-d082-4db8-831f-e7b09596660d.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "27-May-2023"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "05-Sep-2023"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Magic Pines"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/magic-pines/"
+        }
+      ],
+      "description": "This token celebrates the Summer of 2023 at Magic Pines, the Thingelstad's lake house. The token can only be claimed in-person by visiting Magic Pines between Memorial Day weekend on Saturday, May 27 and Labor Day on Monday, September 4th. The token image was created by Mazie Thingelstad.",
+      "external_url": "https://api.poap.tech/metadata/126003/6617070",
+      "home_url": "https://app.poap.xyz/token/6617070",
+      "image_url": "https://assets.poap.xyz/f8578df3-d082-4db8-831f-e7b09596660d.png",
+      "name": "Magic Pines Summer of 2023",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2023
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This token celebrates the Summer of 2023 at Magic Pines, the Thingelstad's lake house. The token can only be claimed in-person by visiting Magic Pines between Memorial Day weekend on Saturday, May 27 and Labor Day on Monday, September 4th. The token image was created by Mazie Thingelstad.",
+    "external_url": "https://api.poap.tech/metadata/126003/6617070",
+    "home_url": "https://app.poap.xyz/token/6617070",
+    "image_url": "https://assets.poap.xyz/f8578df3-d082-4db8-831f-e7b09596660d.png",
+    "name": "Magic Pines Summer of 2023",
+    "year": 2023,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "27-May-2023"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "05-Sep-2023"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Magic Pines"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/magic-pines/"
+      }
+    ]
+  }
+}

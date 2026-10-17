@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/214459/7547581",
+    "id": "7547581",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/8cc411b0-78d0-44dd-9df6-be692431e6ff.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/8cc411b0-78d0-44dd-9df6-be692431e6ff.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "17-Nov-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "18-Nov-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/"
+        }
+      ],
+      "description": "After three decades as a CTO \u2014 building platforms, launching products, scaling systems, and shipping more releases than anyone can count \u2014 there was still one mythical rite of passage I had never crossed: an ERP go-live.\n\nBut in 2025, the streak ended.\n\nThis POAP commemorates my very first ERP go-live, a milestone marked with equal parts accomplishment and amusement. Inspired by an \u201cold school\u201d merit-badge image a friend sent to celebrate the moment, this token captures the joyful absurdity of earning a merit badge for something so notoriously complex and essential.\n\nMinted in good humor \u2014 and with genuine appreciation for everyone who made the implementation a success \u2014 this POAP marks the occasion where I finally joined the ERP club. Better late than never.",
+      "external_url": "https://api.poap.tech/metadata/214459/7547581",
+      "home_url": "https://app.poap.xyz/token/7547581",
+      "image_url": "https://assets.poap.xyz/8cc411b0-78d0-44dd-9df6-be692431e6ff.png",
+      "name": "My First ERP",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "After three decades as a CTO \u2014 building platforms, launching products, scaling systems, and shipping more releases than anyone can count \u2014 there was still one mythical rite of passage I had never crossed: an ERP go-live.\n\nBut in 2025, the streak ended.\n\nThis POAP commemorates my very first ERP go-live, a milestone marked with equal parts accomplishment and amusement. Inspired by an \u201cold school\u201d merit-badge image a friend sent to celebrate the moment, this token captures the joyful absurdity of earning a merit badge for something so notoriously complex and essential.\n\nMinted in good humor \u2014 and with genuine appreciation for everyone who made the implementation a success \u2014 this POAP marks the occasion where I finally joined the ERP club. Better late than never.",
+    "external_url": "https://api.poap.tech/metadata/214459/7547581",
+    "home_url": "https://app.poap.xyz/token/7547581",
+    "image_url": "https://assets.poap.xyz/8cc411b0-78d0-44dd-9df6-be692431e6ff.png",
+    "name": "My First ERP",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "17-Nov-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "18-Nov-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/"
+      }
+    ]
+  }
+}

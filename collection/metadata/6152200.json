@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/93312/6152200",
+    "id": "6152200",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/kickin-it-with-krampus-233-2022-logo-1671774825036.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/kickin-it-with-krampus-233-2022-logo-1671774825036.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "23-Dec-2022"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "31-Dec-2022"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapathon.com"
+        }
+      ],
+      "description": "Have you been keeping on Krampus' good side or did you make it on the naughty list?\r\n\r\nHang out with friends and community on POAPathon's discord and see what we still have in store for winter!\r\n\r\nArtwork by Magdalena the Wanderer",
+      "external_url": "https://api.poap.tech/metadata/93312/6152200",
+      "home_url": "https://app.poap.xyz/token/6152200",
+      "image_url": "https://assets.poap.xyz/kickin-it-with-krampus-233-2022-logo-1671774825036.png",
+      "name": "Kickin' it with Krampus #3",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2022
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Have you been keeping on Krampus' good side or did you make it on the naughty list?\r\n\r\nHang out with friends and community on POAPathon's discord and see what we still have in store for winter!\r\n\r\nArtwork by Magdalena the Wanderer",
+    "external_url": "https://api.poap.tech/metadata/93312/6152200",
+    "home_url": "https://app.poap.xyz/token/6152200",
+    "image_url": "https://assets.poap.xyz/kickin-it-with-krampus-233-2022-logo-1671774825036.png",
+    "name": "Kickin' it with Krampus #3",
+    "year": 2022,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "23-Dec-2022"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "31-Dec-2022"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapathon.com"
+      }
+    ]
+  }
+}

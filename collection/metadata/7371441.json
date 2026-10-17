@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190546/7371441",
+    "id": "7371441",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/4c959d4c-303b-4530-b332-f340cdb30626.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/4c959d4c-303b-4530-b332-f340cdb30626.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "Glowing red above the Mississippi near the Hennepin Avenue Bridge, the historic Grain Belt Beer sign is a beacon of local brewing heritage. It\u2019s not just an ad\u2014it\u2019s a landmark, preserved and loved even as the brewery it once promoted has changed hands. Light it up at night and you\u2019ve got vintage magic over the water. You\u2019ve unlocked this Minneapolis Marvel POAP for toasting one of the city\u2019s most enduring icons in the 612 POAP Challenge. \n\nCategory: Minneapolis Marvel \nGPS: 44.98618, -93.26344 \nMap: https://www.google.com/maps/place/44.98618,-93.26344 \nWikipedia: https://en.wikipedia.org/wiki/Grain_Belt_Beer_Sign \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998919224126603265",
+      "external_url": "https://api.poap.tech/metadata/190546/7371441",
+      "home_url": "https://app.poap.xyz/token/7371441",
+      "image_url": "https://assets.poap.xyz/4c959d4c-303b-4530-b332-f340cdb30626.png",
+      "name": "Grain Belt Sign \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Glowing red above the Mississippi near the Hennepin Avenue Bridge, the historic Grain Belt Beer sign is a beacon of local brewing heritage. It\u2019s not just an ad\u2014it\u2019s a landmark, preserved and loved even as the brewery it once promoted has changed hands. Light it up at night and you\u2019ve got vintage magic over the water. You\u2019ve unlocked this Minneapolis Marvel POAP for toasting one of the city\u2019s most enduring icons in the 612 POAP Challenge. \n\nCategory: Minneapolis Marvel \nGPS: 44.98618, -93.26344 \nMap: https://www.google.com/maps/place/44.98618,-93.26344 \nWikipedia: https://en.wikipedia.org/wiki/Grain_Belt_Beer_Sign \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648998919224126603265",
+    "external_url": "https://api.poap.tech/metadata/190546/7371441",
+    "home_url": "https://app.poap.xyz/token/7371441",
+    "image_url": "https://assets.poap.xyz/4c959d4c-303b-4530-b332-f340cdb30626.png",
+    "name": "Grain Belt Sign \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

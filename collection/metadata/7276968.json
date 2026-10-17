@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/182360/7276968",
+    "id": "7276968",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/a547fb92-fe44-4a65-aeac-756bd60914fe.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/a547fb92-fe44-4a65-aeac-756bd60914fe.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "28-Nov-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "29-Nov-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.things4good.xyz"
+        }
+      ],
+      "description": "Recipients of this POAP participated in a scent survey sampling nine new candles in preparation for the 2025 Things 4 Good Candle Fundraiser. The POAP was directly given via claim code to each person.",
+      "external_url": "https://api.poap.tech/metadata/182360/7276968",
+      "home_url": "https://app.poap.xyz/token/7276968",
+      "image_url": "https://assets.poap.xyz/a547fb92-fe44-4a65-aeac-756bd60914fe.png",
+      "name": "Things 4 Good Scent Survey",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Recipients of this POAP participated in a scent survey sampling nine new candles in preparation for the 2025 Things 4 Good Candle Fundraiser. The POAP was directly given via claim code to each person.",
+    "external_url": "https://api.poap.tech/metadata/182360/7276968",
+    "home_url": "https://app.poap.xyz/token/7276968",
+    "image_url": "https://assets.poap.xyz/a547fb92-fe44-4a65-aeac-756bd60914fe.png",
+    "name": "Things 4 Good Scent Survey",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "28-Nov-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "29-Nov-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.things4good.xyz"
+      }
+    ]
+  }
+}

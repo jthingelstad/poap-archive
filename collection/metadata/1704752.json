@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/9043/1704752",
+    "id": "1704752",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/veefriends-x-christies-1001-2021-logo-1632980657160.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/veefriends-x-christies-1001-2021-logo-1632980657160.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "30-Sep-2021"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "30-Sep-2021"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://discord.gg/VeeFriends"
+        }
+      ],
+      "description": "On 10/01/2021, the physical drawings of 5 VeeFriends will be auctioned off at Christie's. This monumental moment for VeeFriends will be celebrated by showing off this POAP on all platforms: Twitter, Instagram, Discord, and more!",
+      "external_url": "https://api.poap.tech/metadata/9043/1704752",
+      "home_url": "https://app.poap.xyz/token/1704752",
+      "image_url": "https://assets.poap.xyz/veefriends-x-christies-1001-2021-logo-1632980657160.png",
+      "name": "VeeFriends x Christie's 10/01",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2021
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "On 10/01/2021, the physical drawings of 5 VeeFriends will be auctioned off at Christie's. This monumental moment for VeeFriends will be celebrated by showing off this POAP on all platforms: Twitter, Instagram, Discord, and more!",
+    "external_url": "https://api.poap.tech/metadata/9043/1704752",
+    "home_url": "https://app.poap.xyz/token/1704752",
+    "image_url": "https://assets.poap.xyz/veefriends-x-christies-1001-2021-logo-1632980657160.png",
+    "name": "VeeFriends x Christie's 10/01",
+    "year": 2021,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "30-Sep-2021"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "30-Sep-2021"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://discord.gg/VeeFriends"
+      }
+    ]
+  }
+}

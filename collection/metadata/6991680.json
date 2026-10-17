@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/167733/6991680",
+    "id": "6991680",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/70f782b5-80f4-42e0-8694-3a091ea15fea.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/70f782b5-80f4-42e0-8694-3a091ea15fea.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "02-Feb-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Mar-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/"
+        }
+      ],
+      "description": "This POAP is my celebration of getting the Apple Vision Pro on Friday, February 2nd, 2024 \u2014 launch day! I\u2019m sharing this POAP with anyone that tries my Apple Vision Pro and experiences spatial computing, likely for the very first time. The claim codes are given in person to those that have tried my Apple Vision Pro within the first 4 weeks.",
+      "external_url": "https://api.poap.tech/metadata/167733/6991680",
+      "home_url": "https://app.poap.xyz/token/6991680",
+      "image_url": "https://assets.poap.xyz/70f782b5-80f4-42e0-8694-3a091ea15fea.png",
+      "name": "You Experienced Spatial Computing",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is my celebration of getting the Apple Vision Pro on Friday, February 2nd, 2024 \u2014 launch day! I\u2019m sharing this POAP with anyone that tries my Apple Vision Pro and experiences spatial computing, likely for the very first time. The claim codes are given in person to those that have tried my Apple Vision Pro within the first 4 weeks.",
+    "external_url": "https://api.poap.tech/metadata/167733/6991680",
+    "home_url": "https://app.poap.xyz/token/6991680",
+    "image_url": "https://assets.poap.xyz/70f782b5-80f4-42e0-8694-3a091ea15fea.png",
+    "name": "You Experienced Spatial Computing",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "02-Feb-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Mar-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/"
+      }
+    ]
+  }
+}

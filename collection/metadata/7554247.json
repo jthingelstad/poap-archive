@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/223594/7554247",
+    "id": "7554247",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/e355dd1f-b456-4ad2-984c-c7f290766b42.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/e355dd1f-b456-4ad2-984c-c7f290766b42.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "20-Jan-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-Apr-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/2026/01/20/i-made-a-book-yearly.html"
+        }
+      ],
+      "description": "Thank you for being part of the very first Yearly Thing 2025 \u2014 a curated collection of 324 links from Weekly Thing issues 306-336, organized into ten themed chapters covering the year's most compelling ideas in technology, culture, and digital life.\n\nThe Yearly Thing is an artifact: a way to hold a year of the internet in your hands while the links themselves inevitably rot. This POAP is its digital twin \u2014 proof that you were here, that you collected the 2025 edition, and that you're part of the Weekly Thing community.\n\nOne physical artifact. One digital collectible. Both yours to keep.",
+      "external_url": "https://api.poap.tech/metadata/223594/7554247",
+      "home_url": "https://app.poap.xyz/token/7554247",
+      "image_url": "https://assets.poap.xyz/e355dd1f-b456-4ad2-984c-c7f290766b42.png",
+      "name": "Yearly Thing 2025",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Thank you for being part of the very first Yearly Thing 2025 \u2014 a curated collection of 324 links from Weekly Thing issues 306-336, organized into ten themed chapters covering the year's most compelling ideas in technology, culture, and digital life.\n\nThe Yearly Thing is an artifact: a way to hold a year of the internet in your hands while the links themselves inevitably rot. This POAP is its digital twin \u2014 proof that you were here, that you collected the 2025 edition, and that you're part of the Weekly Thing community.\n\nOne physical artifact. One digital collectible. Both yours to keep.",
+    "external_url": "https://api.poap.tech/metadata/223594/7554247",
+    "home_url": "https://app.poap.xyz/token/7554247",
+    "image_url": "https://assets.poap.xyz/e355dd1f-b456-4ad2-984c-c7f290766b42.png",
+    "name": "Yearly Thing 2025",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "20-Jan-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-Apr-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/2026/01/20/i-made-a-book-yearly.html"
+      }
+    ]
+  }
+}

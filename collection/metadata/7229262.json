@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/179699/7229262",
+    "id": "7229262",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/8aa2212c-7054-4e4b-82e6-c2bddd68cf4a.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/8aa2212c-7054-4e4b-82e6-c2bddd68cf4a.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "03-Nov-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "22-Dec-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://weekly.thingelstad.com"
+        }
+      ],
+      "description": "This POAP is for people who sign up to be Supporting Members of the Weekly Thing during the initial soft launch of the membership program. These early explorers are helping test the program out and make sure it is ready as we prepare for the member drive to raise funds for great non-profits!",
+      "external_url": "https://api.poap.tech/metadata/179699/7229262",
+      "home_url": "https://app.poap.xyz/token/7229262",
+      "image_url": "https://assets.poap.xyz/8aa2212c-7054-4e4b-82e6-c2bddd68cf4a.png",
+      "name": "Weekly Thing Early Supporting Member",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is for people who sign up to be Supporting Members of the Weekly Thing during the initial soft launch of the membership program. These early explorers are helping test the program out and make sure it is ready as we prepare for the member drive to raise funds for great non-profits!",
+    "external_url": "https://api.poap.tech/metadata/179699/7229262",
+    "home_url": "https://app.poap.xyz/token/7229262",
+    "image_url": "https://assets.poap.xyz/8aa2212c-7054-4e4b-82e6-c2bddd68cf4a.png",
+    "name": "Weekly Thing Early Supporting Member",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "03-Nov-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "22-Dec-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://weekly.thingelstad.com"
+      }
+    ]
+  }
+}

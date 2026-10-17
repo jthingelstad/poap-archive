@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/44270/4964766",
+    "id": "4964766",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/weekly-thing-five-year-anniversary-2022-logo-1652465755261.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/weekly-thing-five-year-anniversary-2022-logo-1652465755261.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "13-May-2022"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "13-May-2022"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "true"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://weekly.thingelstad.com"
+        }
+      ],
+      "description": "Special token to commemorate the Five Year Anniversary of the Weekly Thing by Jamie Thingelstad, established in 2017. This token is for subscribers of the Weekly Thing as of May 14th, 2022 and was distributed directly via claim codes. Token image IPFS CID QmRPZ668TCMq8cHrNce46qoqqq1pPUJzgz675MAhYRXtf2.",
+      "external_url": "https://api.poap.tech/metadata/44270/4964766",
+      "home_url": "https://app.poap.xyz/token/4964766",
+      "image_url": "https://assets.poap.xyz/weekly-thing-five-year-anniversary-2022-logo-1652465755261.png",
+      "name": "Weekly Thing Five Year Anniversary",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2022
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Special token to commemorate the Five Year Anniversary of the Weekly Thing by Jamie Thingelstad, established in 2017. This token is for subscribers of the Weekly Thing as of May 14th, 2022 and was distributed directly via claim codes. Token image IPFS CID QmRPZ668TCMq8cHrNce46qoqqq1pPUJzgz675MAhYRXtf2.",
+    "external_url": "https://api.poap.tech/metadata/44270/4964766",
+    "home_url": "https://app.poap.xyz/token/4964766",
+    "image_url": "https://assets.poap.xyz/weekly-thing-five-year-anniversary-2022-logo-1652465755261.png",
+    "name": "Weekly Thing Five Year Anniversary",
+    "year": 2022,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "13-May-2022"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "13-May-2022"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "true"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://weekly.thingelstad.com"
+      }
+    ]
+  }
+}

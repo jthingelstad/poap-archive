@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/207135/7453396",
+    "id": "7453396",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/2659d888-02a4-4858-80ff-35bb98636327.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/2659d888-02a4-4858-80ff-35bb98636327.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "18-Sep-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "19-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://tech.spscommerce.com"
+        }
+      ],
+      "description": "This POAP commemorates the Women in Tech Q3 Lunch & Learn held on September 18, 2025, featuring a guest presentation by Jamie Thingelstad on \"How AI is Transforming Product Creation.\"\n\nAttendees joined to explore how artificial intelligence is reshaping the way we build, design, and innovate products -- and to celebrate learning together as a community. This unique POAP is a keepsake honoring the spirit of curiosity, collaboration, and the WiT community.",
+      "external_url": "https://api.poap.tech/metadata/207135/7453396",
+      "home_url": "https://app.poap.xyz/token/7453396",
+      "image_url": "https://assets.poap.xyz/2659d888-02a4-4858-80ff-35bb98636327.png",
+      "name": "SPS Women in Tech Q3 2025 Lunch & Learn",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP commemorates the Women in Tech Q3 Lunch & Learn held on September 18, 2025, featuring a guest presentation by Jamie Thingelstad on \"How AI is Transforming Product Creation.\"\n\nAttendees joined to explore how artificial intelligence is reshaping the way we build, design, and innovate products -- and to celebrate learning together as a community. This unique POAP is a keepsake honoring the spirit of curiosity, collaboration, and the WiT community.",
+    "external_url": "https://api.poap.tech/metadata/207135/7453396",
+    "home_url": "https://app.poap.xyz/token/7453396",
+    "image_url": "https://assets.poap.xyz/2659d888-02a4-4858-80ff-35bb98636327.png",
+    "name": "SPS Women in Tech Q3 2025 Lunch & Learn",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "18-Sep-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "19-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://tech.spscommerce.com"
+      }
+    ]
+  }
+}

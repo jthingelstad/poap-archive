@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/226255/7568455",
+    "id": "7568455",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/4d3bc29e-4aef-49b6-a272-5ed0bd3d5e33.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/4d3bc29e-4aef-49b6-a272-5ed0bd3d5e33.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "20-Feb-2026"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "21-Feb-2026"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://poapkings.com/"
+        }
+      ],
+      "description": "On February 20, 2026, Chanco crossed the 10,000 trophy mark \u2014 a defining achievement that places them among the elite competitors of the arena. This milestone wasn\u2019t luck; it was the result of disciplined ladder grinding, precise elixir management, and confident execution under pressure. Powered by a high-level deck featuring evolved Dragon Goblin and Witch, backed by Skeleton King control, supported by Baby Dragon splash, Mini P.E.K.K.A. burst damage, Royal Hogs pressure, Arrows utility, and Prince finishing power, Chanco demonstrated adaptability and composure in the final push. The climb to 10k represents consistency across metas, strategic matchup awareness, and the ability to close critical games when trophies were on the line. This POAP stands as permanent on-chain proof of that moment \u2014 a snapshot of skill, focus, and arena dominance at five digits.",
+      "external_url": "https://api.poap.tech/metadata/226255/7568455",
+      "home_url": "https://app.poap.xyz/token/7568455",
+      "image_url": "https://assets.poap.xyz/4d3bc29e-4aef-49b6-a272-5ed0bd3d5e33.png",
+      "name": "Chanco 10k | POAP KINGS",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2026
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "On February 20, 2026, Chanco crossed the 10,000 trophy mark \u2014 a defining achievement that places them among the elite competitors of the arena. This milestone wasn\u2019t luck; it was the result of disciplined ladder grinding, precise elixir management, and confident execution under pressure. Powered by a high-level deck featuring evolved Dragon Goblin and Witch, backed by Skeleton King control, supported by Baby Dragon splash, Mini P.E.K.K.A. burst damage, Royal Hogs pressure, Arrows utility, and Prince finishing power, Chanco demonstrated adaptability and composure in the final push. The climb to 10k represents consistency across metas, strategic matchup awareness, and the ability to close critical games when trophies were on the line. This POAP stands as permanent on-chain proof of that moment \u2014 a snapshot of skill, focus, and arena dominance at five digits.",
+    "external_url": "https://api.poap.tech/metadata/226255/7568455",
+    "home_url": "https://app.poap.xyz/token/7568455",
+    "image_url": "https://assets.poap.xyz/4d3bc29e-4aef-49b6-a272-5ed0bd3d5e33.png",
+    "name": "Chanco 10k | POAP KINGS",
+    "year": 2026,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "20-Feb-2026"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "21-Feb-2026"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://poapkings.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190549/7431210",
+    "id": "7431210",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/9ccc1351-e7ef-4687-b2e9-842bf6488b66.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/9ccc1351-e7ef-4687-b2e9-842bf6488b66.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "Perched mysteriously in Prospect Park, the \u201cWitches Hat Tower\u201d looks like it fell out of a fairy tale and landed among the trees. Officially named the Prospect Park Water Tower, it once offered panoramic views of the city\u2014but its locked gate and peculiar charm now fuel urban legends. It\u2019s weird, it\u2019s wonderful, and yes, it\u2019s real. You\u2019ve earned this Minneapolis Marvel POAP by seeking out the strange and storied in the 612 POAP Challenge. \n\nCategory: Minneapolis Marvel \nGPS: 44.96872, -93.21267 \nMap: https://www.google.com/maps/place/44.96872,-93.21267 \nWikipedia: https://en.wikipedia.org/wiki/Prospect_Park_Water_Tower \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999439293126541313",
+      "external_url": "https://api.poap.tech/metadata/190549/7431210",
+      "home_url": "https://app.poap.xyz/token/7431210",
+      "image_url": "https://assets.poap.xyz/9ccc1351-e7ef-4687-b2e9-842bf6488b66.png",
+      "name": "Witches Tower \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Perched mysteriously in Prospect Park, the \u201cWitches Hat Tower\u201d looks like it fell out of a fairy tale and landed among the trees. Officially named the Prospect Park Water Tower, it once offered panoramic views of the city\u2014but its locked gate and peculiar charm now fuel urban legends. It\u2019s weird, it\u2019s wonderful, and yes, it\u2019s real. You\u2019ve earned this Minneapolis Marvel POAP by seeking out the strange and storied in the 612 POAP Challenge. \n\nCategory: Minneapolis Marvel \nGPS: 44.96872, -93.21267 \nMap: https://www.google.com/maps/place/44.96872,-93.21267 \nWikipedia: https://en.wikipedia.org/wiki/Prospect_Park_Water_Tower \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999439293126541313",
+    "external_url": "https://api.poap.tech/metadata/190549/7431210",
+    "home_url": "https://app.poap.xyz/token/7431210",
+    "image_url": "https://assets.poap.xyz/9ccc1351-e7ef-4687-b2e9-842bf6488b66.png",
+    "name": "Witches Tower \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

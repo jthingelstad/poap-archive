@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/189625/7347510",
+    "id": "7347510",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/a7e37da8-12e9-4668-af2f-556292b75baa.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/a7e37da8-12e9-4668-af2f-556292b75baa.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "01-Apr-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "01-May-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/2025/04/30/renewal-indieweb-carnival-roundup.html"
+        }
+      ],
+      "description": "This POAP is for bloggers who participated in the IndieWeb Carnival [1] in April 2025 hosted by Jamie Thingelstad. The topic for the month was \"Renewal\" [2] to be interpreted in whatever way the author found interesting. The POAP was distributed directly via email to each author. The Roundup [3] has links to all the submitted posts.\n\n[1]: https://indieweb.org/IndieWeb_Carnival\n[2]: https://www.thingelstad.com/2025/03/27/renewal-indieweb-carnival.html\n[3]: https://www.thingelstad.com/2025/04/30/renewal-indieweb-carnival-roundup.html",
+      "external_url": "https://api.poap.tech/metadata/189625/7347510",
+      "home_url": "https://app.poap.xyz/token/7347510",
+      "image_url": "https://assets.poap.xyz/a7e37da8-12e9-4668-af2f-556292b75baa.png",
+      "name": "IndieWeb Carnival - Renewal",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This POAP is for bloggers who participated in the IndieWeb Carnival [1] in April 2025 hosted by Jamie Thingelstad. The topic for the month was \"Renewal\" [2] to be interpreted in whatever way the author found interesting. The POAP was distributed directly via email to each author. The Roundup [3] has links to all the submitted posts.\n\n[1]: https://indieweb.org/IndieWeb_Carnival\n[2]: https://www.thingelstad.com/2025/03/27/renewal-indieweb-carnival.html\n[3]: https://www.thingelstad.com/2025/04/30/renewal-indieweb-carnival-roundup.html",
+    "external_url": "https://api.poap.tech/metadata/189625/7347510",
+    "home_url": "https://app.poap.xyz/token/7347510",
+    "image_url": "https://assets.poap.xyz/a7e37da8-12e9-4668-af2f-556292b75baa.png",
+    "name": "IndieWeb Carnival - Renewal",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "01-Apr-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "01-May-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/2025/04/30/renewal-indieweb-carnival-roundup.html"
+      }
+    ]
+  }
+}

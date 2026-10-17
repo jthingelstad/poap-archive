@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/174087/7132736",
+    "id": "7132736",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/3a23d12b-cffc-478b-8430-bc70df12841b.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/3a23d12b-cffc-478b-8430-bc70df12841b.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "25-May-2024"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "03-Sep-2024"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Warsaw"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/magic-pines/"
+        }
+      ],
+      "description": "This token celebrates Magic Pines Summer of 2024 at the Thingelstad's lake house. The token can only be claimed in-person by visiting Magic Pines between Memorial Day weekend on Saturday, May 25 and Labor Day on Monday, September 2nd. \n\nThe token image was created by by DALL-E using the prompt: \"Create a circular image for a POAP to celebrate summer at the lake. Have the image feature a campfire with people making s'mores in the evening with the lake behind them and stars in the sky. The image should feel close and intimate with everyone having fun and relaxing.\"\n\nMagic Pines Summer of 2022: https://collectors.poap.xyz/drop/46950\nMagic Pines Summer of 2023: https://collectors.poap.xyz/drop/126003",
+      "external_url": "https://api.poap.tech/metadata/174087/7132736",
+      "home_url": "https://app.poap.xyz/token/7132736",
+      "image_url": "https://assets.poap.xyz/3a23d12b-cffc-478b-8430-bc70df12841b.png",
+      "name": "Magic Pines Summer of 2024",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2024
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This token celebrates Magic Pines Summer of 2024 at the Thingelstad's lake house. The token can only be claimed in-person by visiting Magic Pines between Memorial Day weekend on Saturday, May 25 and Labor Day on Monday, September 2nd. \n\nThe token image was created by by DALL-E using the prompt: \"Create a circular image for a POAP to celebrate summer at the lake. Have the image feature a campfire with people making s'mores in the evening with the lake behind them and stars in the sky. The image should feel close and intimate with everyone having fun and relaxing.\"\n\nMagic Pines Summer of 2022: https://collectors.poap.xyz/drop/46950\nMagic Pines Summer of 2023: https://collectors.poap.xyz/drop/126003",
+    "external_url": "https://api.poap.tech/metadata/174087/7132736",
+    "home_url": "https://app.poap.xyz/token/7132736",
+    "image_url": "https://assets.poap.xyz/3a23d12b-cffc-478b-8430-bc70df12841b.png",
+    "name": "Magic Pines Summer of 2024",
+    "year": 2024,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "25-May-2024"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "03-Sep-2024"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Warsaw"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/magic-pines/"
+      }
+    ]
+  }
+}

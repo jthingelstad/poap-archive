@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/190524/7441115",
+    "id": "7441115",
+    "image_media_type": "image",
+    "image_url": "https://assets.poap.xyz/9697692e-3843-4805-b03a-17c916b1b80d.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/9697692e-3843-4805-b03a-17c916b1b80d.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "24-May-2025"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "02-Sep-2025"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": "Minneapolis"
+        },
+        {
+          "trait_type": "country",
+          "value": "United States"
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+        }
+      ],
+      "description": "Built in record time after tragedy, the 35W Saint Anthony Falls Bridge is a story of resilience and renewal. This sleek, modern structure carries thousands of cars each day while quietly boasting green credentials and structural innovation. It even lights up in brilliant colors at night, offering a moment of beauty amid the bustle. As a Bridge Builder in the 612 POAP Challenge, you\u2019ve crossed more than a river\u2014you\u2019ve crossed into history. \n\nCategory: Bridge Builder \nGPS: 44.97896, -93.24497 \nMap: https://www.google.com/maps/place/44.97896,-93.24497 \nWikipedia: https://en.wikipedia.org/wiki/I-35W_Saint_Anthony_Falls_Bridge \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999329341963763713",
+      "external_url": "https://api.poap.tech/metadata/190524/7441115",
+      "home_url": "https://app.poap.xyz/token/7441115",
+      "image_url": "https://assets.poap.xyz/9697692e-3843-4805-b03a-17c916b1b80d.png",
+      "name": "35W Saint Anthony Falls Bridge \u2014 612 POAP Challenge",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2025
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "Built in record time after tragedy, the 35W Saint Anthony Falls Bridge is a story of resilience and renewal. This sleek, modern structure carries thousands of cars each day while quietly boasting green credentials and structural innovation. It even lights up in brilliant colors at night, offering a moment of beauty amid the bustle. As a Bridge Builder in the 612 POAP Challenge, you\u2019ve crossed more than a river\u2014you\u2019ve crossed into history. \n\nCategory: Bridge Builder \nGPS: 44.97896, -93.24497 \nMap: https://www.google.com/maps/place/44.97896,-93.24497 \nWikipedia: https://en.wikipedia.org/wiki/I-35W_Saint_Anthony_Falls_Bridge \nNFT: https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/62190149032022655717025961372930289129265559683354101596648999329341963763713",
+    "external_url": "https://api.poap.tech/metadata/190524/7441115",
+    "home_url": "https://app.poap.xyz/token/7441115",
+    "image_url": "https://assets.poap.xyz/9697692e-3843-4805-b03a-17c916b1b80d.png",
+    "name": "35W Saint Anthony Falls Bridge \u2014 612 POAP Challenge",
+    "year": 2025,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "24-May-2025"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "02-Sep-2025"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": "Minneapolis"
+      },
+      {
+        "trait_type": "country",
+        "value": "United States"
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.thingelstad.com/projects/612-poap-challenge/"
+      }
+    ]
+  }
+}

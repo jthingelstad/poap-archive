@@ -1,0 +1,112 @@
+{
+  "chain_item": {
+    "animation_media_type": null,
+    "animation_url": null,
+    "external_app_url": "https://api.poap.tech/metadata/27164/3985602",
+    "id": "3985602",
+    "image_media_type": null,
+    "image_url": "https://assets.poap.xyz/nft-innovation-digest-sotuland-dreams-2022-logo-1644488991765.png",
+    "is_unique": null,
+    "media_type": null,
+    "media_url": "https://assets.poap.xyz/nft-innovation-digest-sotuland-dreams-2022-logo-1644488991765.png",
+    "metadata": {
+      "attributes": [
+        {
+          "trait_type": "startDate",
+          "value": "10-Feb-2022"
+        },
+        {
+          "trait_type": "endDate",
+          "value": "10-Feb-2022"
+        },
+        {
+          "trait_type": "virtualEvent",
+          "value": "false"
+        },
+        {
+          "trait_type": "city",
+          "value": ""
+        },
+        {
+          "trait_type": "country",
+          "value": ""
+        },
+        {
+          "trait_type": "eventURL",
+          "value": "https://www.nftinnovationdigest.com/"
+        }
+      ],
+      "description": "This is a badge for NFT Innovation Digest subscribers, it is a limited edition that grants community benefits and access to featured artists' giveaways.",
+      "external_url": "https://api.poap.tech/metadata/27164/3985602",
+      "home_url": "https://app.poap.xyz/token/3985602",
+      "image_url": "https://assets.poap.xyz/nft-innovation-digest-sotuland-dreams-2022-logo-1644488991765.png",
+      "name": "NFT Innovation Digest - Sotuland Dreams",
+      "tags": [
+        "poap",
+        "event"
+      ],
+      "year": 2022
+    },
+    "owner": null,
+    "thumbnails": null,
+    "token": {
+      "address_hash": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders_count": "1400860",
+      "icon_url": null,
+      "is_bridged": false,
+      "name": "POAP",
+      "new_ui_multiplier": null,
+      "reputation": "ok",
+      "symbol": "The Proof of Attendance Protocol",
+      "total_supply": "7383071",
+      "type": "ERC-721",
+      "ui_multiplier": null,
+      "ui_multiplier_effective_at": null,
+      "volume_24h": null
+    },
+    "token_type": "ERC-721",
+    "value": "1"
+  },
+  "metadata": {
+    "description": "This is a badge for NFT Innovation Digest subscribers, it is a limited edition that grants community benefits and access to featured artists' giveaways.",
+    "external_url": "https://api.poap.tech/metadata/27164/3985602",
+    "home_url": "https://app.poap.xyz/token/3985602",
+    "image_url": "https://assets.poap.xyz/nft-innovation-digest-sotuland-dreams-2022-logo-1644488991765.png",
+    "name": "NFT Innovation Digest - Sotuland Dreams",
+    "year": 2022,
+    "tags": [
+      "poap",
+      "event"
+    ],
+    "attributes": [
+      {
+        "trait_type": "startDate",
+        "value": "10-Feb-2022"
+      },
+      {
+        "trait_type": "endDate",
+        "value": "10-Feb-2022"
+      },
+      {
+        "trait_type": "virtualEvent",
+        "value": "false"
+      },
+      {
+        "trait_type": "city",
+        "value": ""
+      },
+      {
+        "trait_type": "country",
+        "value": ""
+      },
+      {
+        "trait_type": "eventURL",
+        "value": "https://www.nftinnovationdigest.com/"
+      }
+    ]
+  }
+}
