@@ -69,6 +69,10 @@ the design.
 - **Voice.** Jamie's own writing is the narration. `writing/ESSAYS.md` collects the
   product and business advice Jamie gave POAP; set it beside what POAP actually did
   (`research/poap-company.md`).
+- **Private drops are not sensitive.** POAP's `private: true` flag means a drop was not
+  listed publicly (more like a draft or an unopened drop), not that it is secret. Jamie,
+  2026-10-17: "Private drops aren't really private. Just not publicly shared." Treat them
+  like any other drop.
 - **Lost things.** Moment photos are gone from POAP's servers; Jamie may have originals in
   Photos. Drops on neither the POAP Events page nor a collection are missing.
 - **Hosting.** The S3 bucket is private, created for this project. Publishing needs a
