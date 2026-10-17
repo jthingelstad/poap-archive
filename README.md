@@ -25,7 +25,17 @@ for a browsable gallery.
 | `writing/posts/` | 390 thingelstad.com posts about POAP (2021-06 to 2026-07), full HTML, indexed in `writing/posts.json` | Micro.blog category feeds |
 | `writing/sites/612.poapchallenge.com/` | Mirror of the 612 POAP Challenge site | wget |
 | `writing/thingelstad-lists-poap-events.html` | Jamie's "POAP Events" list page | thingelstad.com |
+| `writing/ESSAYS.md` | Jamie's substantive POAP essays and every piece of product and business advice Jamie gave POAP, with what shipped | curated from the posts |
+| `writing/weekly-thing/` | POAP sections of 81 Weekly Thing issues (WT193 to WT342) | local issue text |
+| `writing/mint-posts.json`, `writing/timeline.json` | The 262 syndicated mint posts as rows; every writing item dated | derived |
+| `timeline/events.json` | 3,305 dated events across three sides: collector, issuer, writer | `scripts/build_timeline.py` |
+| `network/` | Who collected Jamie's drops, their ENS names, shared events, collection sizes (see its README) | Compass, ensdata.net |
+| `research/poap-company.md` | POAP the company: origins, the $10M 2022 seed, products, business model, the 2026 wind-down, the archives | web research |
+| `research/interactions-PRIVATE.md` | **Private.** Jamie's exchanges with Patricio, Isabel and the POAP team, summarized from email | Fastmail |
+| `BRIEF.md` | Hand-off for designing the time capsule | |
 | `scripts/` | The scripts that made all of this, so it can be re-run while the sources live | |
+
+The full snapshot zip is also in `s3://poap-archive-999153317627-us-east-1/snapshot/` (private, versioned).
 
 ## Wallets
 
