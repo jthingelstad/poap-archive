@@ -1,0 +1,922 @@
+{
+  "description": "Weekly Thing issues that mention POAP the protocol, with the POAP-relevant sections saved per issue. POAP KINGS (a Clash Royale clan) mentions are not counted.",
+  "source": "Local markdown builds at ~/Projects/thingelstad.com/weekly.thingelstad.com/_site/archive/<n>.txt, cross-checked against the thingelstad.com archive MCP (list_content topic POAP, 79 issues).",
+  "count": 81,
+  "issues": [
+    {
+      "issue": 193,
+      "date": "2021-09-04",
+      "url": "https://weekly.thingelstad.com/archive/193/",
+      "subject": "Weekly Thing #193 / POAPs, DAOs, NFTs",
+      "sections": [
+        "Poaps are a big deal"
+      ],
+      "file": "weekly-thing/wt-193.md"
+    },
+    {
+      "issue": 194,
+      "date": "2021-09-11",
+      "url": "https://weekly.thingelstad.com/archive/194/",
+      "subject": "Weekly Thing #194 / Writing, Playdate, OpenMoji",
+      "sections": [
+        "POAP - \"ANNOUNCING - The NFT Treasure Hunt!! 🏴‍☠️\""
+      ],
+      "file": "weekly-thing/wt-194.md"
+    },
+    {
+      "issue": 199,
+      "date": "2021-10-16",
+      "url": "https://weekly.thingelstad.com/archive/199/",
+      "subject": "Weekly Thing #199 / Revolutions, Dopamine, Reconsolidation",
+      "sections": [
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-199.md"
+    },
+    {
+      "issue": 203,
+      "date": "2021-11-13",
+      "url": "https://weekly.thingelstad.com/archive/203/",
+      "subject": "Weekly Thing #203 / Discord, Family, Names",
+      "sections": [
+        "Discord: Imagine a Place - Not Boring by Packy McCormick"
+      ],
+      "file": "weekly-thing/wt-203.md"
+    },
+    {
+      "issue": 204,
+      "date": "2021-11-20",
+      "url": "https://weekly.thingelstad.com/archive/204/",
+      "subject": "Weekly Thing #204 / Containers, Constitution, Cancel",
+      "sections": [
+        "Notes on Web3"
+      ],
+      "file": "weekly-thing/wt-204.md"
+    },
+    {
+      "issue": 205,
+      "date": "2021-11-27",
+      "url": "https://weekly.thingelstad.com/archive/205/",
+      "subject": "Weekly Thing #205 / Hurl, Faster, Web3",
+      "sections": [
+        "ConstitutionDAO’s bold crypto bid for US Constitution falls short | TechCrunch"
+      ],
+      "file": "weekly-thing/wt-205.md"
+    },
+    {
+      "issue": 207,
+      "date": "2021-12-11",
+      "url": "https://weekly.thingelstad.com/archive/207/",
+      "subject": "Weekly Thing #207 / Architecture, Contrarian, Storytelling",
+      "sections": [
+        "Journal: I'm a fan of POAPs and have created many POAP events of my own. The Constitution..."
+      ],
+      "file": "weekly-thing/wt-207.md"
+    },
+    {
+      "issue": 208,
+      "date": "2022-01-22",
+      "url": "https://weekly.thingelstad.com/archive/208/",
+      "subject": "Weekly Thing #208 / GPS, Intel, Omicron",
+      "sections": [
+        "POAP inc. raises $10M to accelerate human development | POAP"
+      ],
+      "file": "weekly-thing/wt-208.md"
+    },
+    {
+      "issue": 209,
+      "date": "2022-01-29",
+      "url": "https://weekly.thingelstad.com/archive/209/",
+      "subject": "Weekly Thing #209 / PGP, Soulbound, Mosey",
+      "sections": [
+        "Soulbound"
+      ],
+      "file": "weekly-thing/wt-209.md"
+    },
+    {
+      "issue": 220,
+      "date": "2022-05-21",
+      "url": "https://weekly.thingelstad.com/archive/220/",
+      "subject": "Weekly Thing #220 / Ukraine DAO, Nouns, Icebergs",
+      "sections": [
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-220.md"
+    },
+    {
+      "issue": 222,
+      "date": "2022-06-05",
+      "url": "https://weekly.thingelstad.com/archive/222/",
+      "subject": "Weekly Thing #222 / Smalltalk, Friendships, Automata",
+      "sections": [
+        "Issue",
+        "Gift for Weekly Thing POAP Holders",
+        "Journal: Magic Pines Summer of 2022 POAP"
+      ],
+      "file": "weekly-thing/wt-222.md"
+    },
+    {
+      "issue": 223,
+      "date": "2022-06-11",
+      "url": "https://weekly.thingelstad.com/archive/223/",
+      "subject": "Weekly Thing #223 / Digital Identity, Finding a Mode, WWDC",
+      "sections": [
+        "Reputation in Web3: Ships Built on the Great Flood",
+        "Journal: My Introduction to the POAP Community"
+      ],
+      "file": "weekly-thing/wt-223.md"
+    },
+    {
+      "issue": 225,
+      "date": "2022-06-25",
+      "url": "https://weekly.thingelstad.com/archive/225/",
+      "subject": "Weekly Thing #225 / Prestige, WebAssembly, PhizFans",
+      "sections": [
+        "PhizFans Multisig Experiment"
+      ],
+      "file": "weekly-thing/wt-225.md"
+    },
+    {
+      "issue": 226,
+      "date": "2022-09-17",
+      "url": "https://weekly.thingelstad.com/archive/226/",
+      "subject": "Weekly Thing #226 / Patagonia, Merge, Walrus",
+      "sections": [
+        "Journal: Waiting for the Ethereum mainnet merge? Make your Gitcoin grants!",
+        "Journal: Participated in my first POAP Art canvas tonight as part of the merge call. Pain...",
+        "Journal: Looking forward to the Ethereum mainnet merge tonight, and digging my Ropsten an..."
+      ],
+      "file": "weekly-thing/wt-226.md"
+    },
+    {
+      "issue": 227,
+      "date": "2022-09-24",
+      "url": "https://weekly.thingelstad.com/archive/227/",
+      "subject": "Weekly Thing #227 / Attention, Minnedemo, Learning",
+      "sections": [
+        "Journal: The POAP for this years TeamSPS Kubb Tournament turned out just amazing! I creat...",
+        "Journal: I got my Ethereum Mainnet Merge POAP today! It goes perfectly with my Ropsten Me...",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-227.md"
+    },
+    {
+      "issue": 228,
+      "date": "2022-10-02",
+      "url": "https://weekly.thingelstad.com/archive/228/",
+      "subject": "Weekly Thing #228 / Technical, Adversarial, Overcomplicating",
+      "sections": [
+        "Nifty Chess",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-228.md"
+    },
+    {
+      "issue": 229,
+      "date": "2022-10-08",
+      "url": "https://weekly.thingelstad.com/archive/229/",
+      "subject": "Weekly Thing #229 / Time, Zolatron, Maigret",
+      "sections": [
+        "Journal: State of Blockchain 2022 Event",
+        "Journal: We are having a party to celebrate my Mom's 70th Birthday today and we are marki...",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-229.md"
+    },
+    {
+      "issue": 231,
+      "date": "2022-10-29",
+      "url": "https://weekly.thingelstad.com/archive/231/",
+      "subject": "Weekly Thing #231 / UNIX Pipe, Slow Roads, Personal Brand",
+      "sections": [
+        "POAP x ENS x IYK swag at Devcon 6 by the numbers — ENS",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-231.md"
+    },
+    {
+      "issue": 233,
+      "date": "2022-11-13",
+      "url": "https://weekly.thingelstad.com/archive/233/",
+      "subject": "Weekly Thing #233 / Versepad, &quot;Just&quot;, Mastadon",
+      "sections": [
+        "Journal: The POAP for this weekends Things 4 Good 2022 Fall Fundraiser is ready and it is...",
+        "Journal: I just wrapped up another Poapathon contest to get a design for our Things 4 Goo..."
+      ],
+      "file": "weekly-thing/wt-233.md"
+    },
+    {
+      "issue": 234,
+      "date": "2022-11-19",
+      "url": "https://weekly.thingelstad.com/archive/234/",
+      "subject": "Weekly Thing #234 / Distributed, Principles, Drivers",
+      "sections": [
+        "Journal: Mainnet Merge Lapse 12 \"Thing\"",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-234.md"
+    },
+    {
+      "issue": 235,
+      "date": "2022-11-27",
+      "url": "https://weekly.thingelstad.com/archive/235/",
+      "subject": "Weekly Thing #235 / TikTok, Busy, Stories",
+      "sections": [
+        "Journal: I love that This Week in POAP highlighted our Things 4 Good Fall Fundraiser POAP..."
+      ],
+      "file": "weekly-thing/wt-235.md"
+    },
+    {
+      "issue": 236,
+      "date": "2022-12-03",
+      "url": "https://weekly.thingelstad.com/archive/236/",
+      "subject": "Weekly Thing #236 / ChatGPT, Reading, Legitimacy",
+      "sections": [
+        "Journal: Things 4 Good Fall Fundraiser Notes"
+      ],
+      "file": "weekly-thing/wt-236.md"
+    },
+    {
+      "issue": 237,
+      "date": "2022-12-11",
+      "url": "https://weekly.thingelstad.com/archive/237/",
+      "subject": "Weekly Thing #237 / Ethereum, Zelensky, Fadell + Erratic Narratives",
+      "sections": [
+        "What in the Ethereum application ecosystem excites me"
+      ],
+      "file": "weekly-thing/wt-237.md"
+    },
+    {
+      "issue": 238,
+      "date": "2023-01-21",
+      "url": "https://weekly.thingelstad.com/archive/238/",
+      "subject": "Weekly Thing #238 / Addiction, Disruption, Intentional",
+      "sections": [
+        "Issue"
+      ],
+      "file": "weekly-thing/wt-238.md"
+    },
+    {
+      "issue": 239,
+      "date": "2023-01-29",
+      "url": "https://weekly.thingelstad.com/archive/239/",
+      "subject": "Weekly Thing #239 / Helmets, Bear, Smile",
+      "sections": [
+        "Currently",
+        "The Year Ahead | Pantera",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-239.md"
+    },
+    {
+      "issue": 240,
+      "date": "2023-02-05",
+      "url": "https://weekly.thingelstad.com/archive/240/",
+      "subject": "Weekly Thing #240 / Shapes, Tags, Ubiquity",
+      "sections": [
+        "Journal: POAP Family"
+      ],
+      "file": "weekly-thing/wt-240.md"
+    },
+    {
+      "issue": 241,
+      "date": "2023-02-11",
+      "url": "https://weekly.thingelstad.com/archive/241/",
+      "subject": "Weekly Thing #241 / Wildebeest, Reputation, Zero",
+      "sections": [
+        "Journal: Art Shanty Projects"
+      ],
+      "file": "weekly-thing/wt-241.md"
+    },
+    {
+      "issue": 242,
+      "date": "2023-02-19",
+      "url": "https://weekly.thingelstad.com/archive/242/",
+      "subject": "Weekly Thing #242 / Stories, Volcano, Decemberists",
+      "sections": [
+        "Currently",
+        "Journal: Just received and registered IYK Disc 585! I’m eager to put this to use for an u...",
+        "Journal: Extending the Minnestar Community Supporter Program"
+      ],
+      "file": "weekly-thing/wt-242.md"
+    },
+    {
+      "issue": 243,
+      "date": "2023-02-26",
+      "url": "https://weekly.thingelstad.com/archive/243/",
+      "subject": "Weekly Thing #243 / Montaigne, Ordinals, Salsa + Ukraine Fundraiser!",
+      "sections": [
+        "Issue",
+        "Salsa ✦ Meet & Chat through POAPs",
+        "Journal: MnTech Leadership Forum: Generative AI"
+      ],
+      "file": "weekly-thing/wt-243.md"
+    },
+    {
+      "issue": 244,
+      "date": "2023-03-04",
+      "url": "https://weekly.thingelstad.com/archive/244/",
+      "subject": "Weekly Thing #244 / Fans, Sameness, Fediverse + Ukraine Fundraiser!",
+      "sections": [
+        "Issue",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-244.md"
+    },
+    {
+      "issue": 245,
+      "date": "2023-03-11",
+      "url": "https://weekly.thingelstad.com/archive/245/",
+      "subject": "Weekly Thing #245 / Curation, Outcomes, Disturbed",
+      "sections": [
+        "Issue",
+        "Journal: Hosting Minnebar 17: Creating Digital Community with POAPs",
+        "Journal: Minnebar 17 POAPs",
+        "Journal: Transferring NFTs in Bulk",
+        "Journal: Isolating Crypto Assets and Access"
+      ],
+      "file": "weekly-thing/wt-245.md"
+    },
+    {
+      "issue": 246,
+      "date": "2023-03-18",
+      "url": "https://weekly.thingelstad.com/archive/246/",
+      "subject": "Weekly Thing #246 / Banks, Stablecoin, Trust",
+      "sections": [
+        "Journal: Using my new IYK Disc to distribute POAP claim codes for the TeamSPS Pi Day 2023...",
+        "Journal: In the midst of a blizzard Jamie decided that it would be a good idea to take th...",
+        "Journal: 20 Years of Olson Family Vacation",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-246.md"
+    },
+    {
+      "issue": 247,
+      "date": "2023-03-25",
+      "url": "https://weekly.thingelstad.com/archive/247/",
+      "subject": "Weekly Thing #247 / New York, Fingerprints, Snitch",
+      "sections": [
+        "Journal: Tyler and I commemorated our New York 2023 trip with a special and extremely exc..."
+      ],
+      "file": "weekly-thing/wt-247.md"
+    },
+    {
+      "issue": 248,
+      "date": "2023-04-01",
+      "url": "https://weekly.thingelstad.com/archive/248/",
+      "subject": "Weekly Thing #248 / Bicycle, Attention, Shapella",
+      "sections": [
+        "Journal: Minnebar 17 StayNftyMpls 612 Series Giveaway"
+      ],
+      "file": "weekly-thing/wt-248.md"
+    },
+    {
+      "issue": 250,
+      "date": "2023-04-16",
+      "url": "https://weekly.thingelstad.com/archive/250/",
+      "subject": "Weekly Thing #250 / LLM, Shanghai, Wing",
+      "sections": [
+        "Memory Dividends - POAP Blog"
+      ],
+      "file": "weekly-thing/wt-250.md"
+    },
+    {
+      "issue": 252,
+      "date": "2023-04-29",
+      "url": "https://weekly.thingelstad.com/archive/252/",
+      "subject": "Weekly Thing #252 / Elevator, Evidence, Everything",
+      "sections": [
+        "LLMs break the internet. Signing everything fixes it.",
+        "Journal: It was cool to see the Minnebar 17 POAPs highlighted in the April 25 issue of Th...",
+        "Journal: Hector and I at Minnebar 17! I'm sporting my Community Supporter tag, as well as..."
+      ],
+      "file": "weekly-thing/wt-252.md"
+    },
+    {
+      "issue": 253,
+      "date": "2023-05-07",
+      "url": "https://weekly.thingelstad.com/archive/253/",
+      "subject": "Weekly Thing #253 / Domains, Anybox, Currl",
+      "sections": [
+        "Journal: Tammy's NYC Birthday Trip Day 1",
+        "Journal: Just claimed the POAP Tyler made for Tammy's NYC Birthday trip to see Bono and m...",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-253.md"
+    },
+    {
+      "issue": 254,
+      "date": "2023-05-13",
+      "url": "https://weekly.thingelstad.com/archive/254/",
+      "subject": "Weekly Thing #254 / Redis, Dooce, Batteries",
+      "sections": [
+        "Journal: I claimed my ENS 6th Anniversary POAP for: thingelstad.eth, weeklything.eth, 0xj..."
+      ],
+      "file": "weekly-thing/wt-254.md"
+    },
+    {
+      "issue": 255,
+      "date": "2023-05-20",
+      "url": "https://weekly.thingelstad.com/archive/255/",
+      "subject": "Weekly Thing #255 / Lassie, Vore, Alby",
+      "sections": [
+        "Digital identity – Assessing Web3’s identity building blocks"
+      ],
+      "file": "weekly-thing/wt-255.md"
+    },
+    {
+      "issue": 262,
+      "date": "2023-09-23",
+      "url": "https://weekly.thingelstad.com/archive/262/",
+      "subject": "Weekly Thing 262 / Simulator, System, Snoopy",
+      "sections": [
+        "Journal: Today we held our 5th Annual TeamSPS Kubb Tournament! This event has now become ..."
+      ],
+      "file": "weekly-thing/wt-262.md"
+    },
+    {
+      "issue": 264,
+      "date": "2023-10-07",
+      "url": "https://weekly.thingelstad.com/archive/264/",
+      "subject": "Weekly Thing 264 / Dazed, Zany, Llama",
+      "sections": [
+        "Journal: Task Management for the Weekly Thing"
+      ],
+      "file": "weekly-thing/wt-264.md"
+    },
+    {
+      "issue": 267,
+      "date": "2023-10-29",
+      "url": "https://weekly.thingelstad.com/archive/267/",
+      "subject": "Weekly Thing 267 / Generative, Ghibli, Mermaid",
+      "sections": [
+        "Journal: I claimed my POAP for participating in the KZG Ceremony. This is one of the POAP..."
+      ],
+      "file": "weekly-thing/wt-267.md"
+    },
+    {
+      "issue": 272,
+      "date": "2023-12-10",
+      "url": "https://weekly.thingelstad.com/archive/272/",
+      "subject": "Weekly Thing 272 / Escape, Fuzzy, Melodrip",
+      "sections": [
+        "Receipts"
+      ],
+      "file": "weekly-thing/wt-272.md"
+    },
+    {
+      "issue": 273,
+      "date": "2023-12-17",
+      "url": "https://weekly.thingelstad.com/archive/273/",
+      "subject": "Weekly Thing 273 / Trippy, Buffalo, Bitkey",
+      "sections": [
+        "Journal: I was excited to be the first to claim tonight’s MN Blockchain Holiday Party POA..."
+      ],
+      "file": "weekly-thing/wt-273.md"
+    },
+    {
+      "issue": 274,
+      "date": "2024-01-27",
+      "url": "https://weekly.thingelstad.com/archive/274/",
+      "subject": "Weekly Thing 274 / Gibberish, Happyfeed, Airshow",
+      "sections": [
+        "💬 Interview with 612 Series creator Erik Halaas",
+        "Journal: New POAP Onboarding Process",
+        "Journal: Weekly Thing Forum 🆕"
+      ],
+      "file": "weekly-thing/wt-274.md"
+    },
+    {
+      "issue": 275,
+      "date": "2024-02-04",
+      "url": "https://weekly.thingelstad.com/archive/275/",
+      "subject": "Weekly Thing 275 / Vision, Sense, Magic",
+      "sections": [
+        "The end of my childhood",
+        "Journal: The #TeamSPS tech team gave out this “I Stopped by the Tech Lab at SKO POAP” in ...",
+        "Journal: Weekly Thing Forum 🆕"
+      ],
+      "file": "weekly-thing/wt-275.md"
+    },
+    {
+      "issue": 276,
+      "date": "2024-02-11",
+      "url": "https://weekly.thingelstad.com/archive/276/",
+      "subject": "Weekly Thing 276 / Contextual, Copilot, Collections",
+      "sections": [
+        "Connect the Drops with POAP Collections",
+        "Journal: I wanted to celebrate getting my Apple Vision Pro and what better way than with ..."
+      ],
+      "file": "weekly-thing/wt-276.md"
+    },
+    {
+      "issue": 280,
+      "date": "2024-03-16",
+      "url": "https://weekly.thingelstad.com/archive/280/",
+      "subject": "Weekly Thing 280 / Canvas, Undersea, Documents",
+      "sections": [
+        "Issue",
+        "Journal: Today Gnosis Chain activated the Dencun upgrade before Ethereum. I run a validat..."
+      ],
+      "file": "weekly-thing/wt-280.md"
+    },
+    {
+      "issue": 281,
+      "date": "2024-03-31",
+      "url": "https://weekly.thingelstad.com/archive/281/",
+      "subject": "Weekly Thing 281 / Fediverse, Odyssey, Echo Chess",
+      "sections": [
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-281.md"
+    },
+    {
+      "issue": 285,
+      "date": "2024-04-28",
+      "url": "https://weekly.thingelstad.com/archive/285/",
+      "subject": "Weekly Thing 285 / Voyager, ActivityPub, Trackers",
+      "sections": [
+        "NASA’s Voyager 1 Resumes Sending Engineering Updates to Earth – Voyager"
+      ],
+      "file": "weekly-thing/wt-285.md"
+    },
+    {
+      "issue": 287,
+      "date": "2024-05-11",
+      "url": "https://weekly.thingelstad.com/archive/287/",
+      "subject": "Weekly Thing 287 / Plinky, Piccolo, Privacy",
+      "sections": [
+        "Journal: I’m looking forward to Minnesota Technology Association Tech Connect 2024 event ..."
+      ],
+      "file": "weekly-thing/wt-287.md"
+    },
+    {
+      "issue": 289,
+      "date": "2024-05-25",
+      "url": "https://weekly.thingelstad.com/archive/289/",
+      "subject": "Weekly Thing 289 / Queueing, Counting, Mapping",
+      "sections": [
+        "Journal: Awesome to see my Weekly Thing Seven Year Anniversary POAP highlighted in the mo..."
+      ],
+      "file": "weekly-thing/wt-289.md"
+    },
+    {
+      "issue": 290,
+      "date": "2024-06-01",
+      "url": "https://weekly.thingelstad.com/archive/290/",
+      "subject": "Weekly Thing 290 / Kino, Krebs, Kagi",
+      "sections": [
+        "Journal: Soon we start our trip to Ireland and I thought it would be fun to make a POAP f..."
+      ],
+      "file": "weekly-thing/wt-290.md"
+    },
+    {
+      "issue": 294,
+      "date": "2024-09-28",
+      "url": "https://weekly.thingelstad.com/archive/294/",
+      "subject": "Weekly Thing 294 / Vaporizing, Intelligence, Contraption",
+      "sections": [
+        "Journal: ENS Continued Progress"
+      ],
+      "file": "weekly-thing/wt-294.md"
+    },
+    {
+      "issue": 296,
+      "date": "2024-10-13",
+      "url": "https://weekly.thingelstad.com/archive/296/",
+      "subject": "Weekly Thing 296 / Awk, Fav, Alarmo",
+      "sections": [
+        "Ethereum Follow Protocol"
+      ],
+      "file": "weekly-thing/wt-296.md"
+    },
+    {
+      "issue": 299,
+      "date": "2024-11-03",
+      "url": "https://weekly.thingelstad.com/archive/299/",
+      "subject": "Weekly Thing 299 / Apples, Abundance, Australia",
+      "sections": [
+        "Journal: The Things 4 Good 2024 Candle Fundraiser POAP is ready to share with folks at th..."
+      ],
+      "file": "weekly-thing/wt-299.md"
+    },
+    {
+      "issue": 300,
+      "date": "2024-11-09",
+      "url": "https://weekly.thingelstad.com/archive/300/",
+      "subject": "Weekly Thing 300 / Traceroute, 34x34x34, Typst",
+      "sections": [
+        "Issue"
+      ],
+      "file": "weekly-thing/wt-300.md"
+    },
+    {
+      "issue": 306,
+      "date": "2025-01-25",
+      "url": "https://weekly.thingelstad.com/archive/306/",
+      "subject": "Weekly Thing 306 / Spell, McLarens, Lynch",
+      "sections": [
+        "Issue",
+        "Introducing the Christmas Blogs"
+      ],
+      "file": "weekly-thing/wt-306.md"
+    },
+    {
+      "issue": 310,
+      "date": "2025-02-23",
+      "url": "https://weekly.thingelstad.com/archive/310/",
+      "subject": "Weekly Thing 310 / Signals, Research, Playlist",
+      "sections": [
+        "Journal: I couldn’t pass up the opportunity to make a POAP to commemorate my first time i..."
+      ],
+      "file": "weekly-thing/wt-310.md"
+    },
+    {
+      "issue": 314,
+      "date": "2025-03-22",
+      "url": "https://weekly.thingelstad.com/archive/314/",
+      "subject": "Weekly Thing 314 / Interfaces, π, Bubbles",
+      "sections": [
+        "Journal: What a great POAP for SPS Tech Connect 2025!"
+      ],
+      "file": "weekly-thing/wt-314.md"
+    },
+    {
+      "issue": 315,
+      "date": "2025-03-30",
+      "url": "https://weekly.thingelstad.com/archive/315/",
+      "subject": "Weekly Thing 315 / Innovation, Yak, Calligraphr",
+      "sections": [
+        "Introducing 4o Image Generation | OpenAI"
+      ],
+      "file": "weekly-thing/wt-315.md"
+    },
+    {
+      "issue": 317,
+      "date": "2025-05-03",
+      "url": "https://weekly.thingelstad.com/archive/317/",
+      "subject": "Weekly Thing 317 / Assembly, Blogging, Cyberpunk",
+      "sections": [
+        "Journal: Created the designs for three different POAPs for Minnebar 19 next week. Have a ...",
+        "Journal: We Met at Minnebar 19 POAP",
+        "Journal: Minnebar 19 \"How to Newsletter\" Session POAP",
+        "Journal: Minnebar 19 POAP",
+        "Journal: Renewal — IndieWeb Carnival Roundup"
+      ],
+      "file": "weekly-thing/wt-317.md"
+    },
+    {
+      "issue": 320,
+      "date": "2025-05-24",
+      "url": "https://weekly.thingelstad.com/archive/320/",
+      "subject": "Weekly Thing 320 / Octopus, Agentic, Voyager",
+      "sections": [
+        "Issue"
+      ],
+      "file": "weekly-thing/wt-320.md"
+    },
+    {
+      "issue": 321,
+      "date": "2025-05-31",
+      "url": "https://weekly.thingelstad.com/archive/321/",
+      "subject": "Weekly Thing 321 / Saluting, Tetris, Sky",
+      "sections": [
+        "Issue",
+        "Journal: The Summer of 2025 Magic Pines POAP is now minting! Available for visitors until...",
+        "Journal: I created my very first location-based POAP. Our “Peanuts Tree” is a popular spo..."
+      ],
+      "file": "weekly-thing/wt-321.md"
+    },
+    {
+      "issue": 323,
+      "date": "2025-06-15",
+      "url": "https://weekly.thingelstad.com/archive/323/",
+      "subject": "Weekly Thing 323 / Context, Dithering, Liquid Glass",
+      "sections": [
+        "Issue",
+        "Journal: I completed the final set of achievement tokens for the 612 POAP Challenge tonig..."
+      ],
+      "file": "weekly-thing/wt-323.md"
+    },
+    {
+      "issue": 324,
+      "date": "2025-06-21",
+      "url": "https://weekly.thingelstad.com/archive/324/",
+      "subject": "Weekly Thing 324 / Agents, Shortcuts, Joy",
+      "sections": [
+        "Journal: Got a recursive selfie while collecting the Grain Belt Sign for the 612 POAP Cha...",
+        "Journal: Stone Arch Bridge Fest",
+        "Journal: Today Tammy and Tyler completed a 26-mile walk around Lake Geneva, Wisconsin. Th...",
+        "Journal: I'm going to be sharing my love of POAPs at the Minnesota Blockchain meetup on J...",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-324.md"
+    },
+    {
+      "issue": 325,
+      "date": "2025-06-28",
+      "url": "https://weekly.thingelstad.com/archive/325/",
+      "subject": "Weekly Thing 325 / Platform, Agents, Legacy",
+      "sections": [
+        "Issue",
+        "Journal: IndieWeb is Punk: Wear It!",
+        "Journal: Love that @ericmwalk did a run with Strava to get some 612 POAP Challenge locati...",
+        "Briefly"
+      ],
+      "file": "weekly-thing/wt-325.md"
+    },
+    {
+      "issue": 326,
+      "date": "2025-09-14",
+      "url": "https://weekly.thingelstad.com/archive/326/",
+      "subject": "Weekly Thing 326 / Tempo, Seedship, Refraction",
+      "sections": [
+        "Issue",
+        "Currently",
+        "Journal: POAP 7450052 at SPS Kubb Tournament 2025."
+      ],
+      "file": "weekly-thing/wt-326.md"
+    },
+    {
+      "issue": 327,
+      "date": "2025-09-20",
+      "url": "https://weekly.thingelstad.com/archive/327/",
+      "subject": "Weekly Thing 327 / Prototypes, Tahoe, UTF-8",
+      "sections": [
+        "The Purpose of Prototypes : Silicon Valley Product Group",
+        "ChatGPT Memory and the Bitter Lesson | Shlok Khemani",
+        "Journal: POAP 7453396 for SPS Women in Tech Q3 2025 Lunch & Learn.",
+        "Journal: POAP 7454382 at SPS TechJam 2025 - Attendee."
+      ],
+      "file": "weekly-thing/wt-327.md"
+    },
+    {
+      "issue": 328,
+      "date": "2025-09-27",
+      "url": "https://weekly.thingelstad.com/archive/328/",
+      "subject": "Weekly Thing 328 / Agents, Pulse, Vision",
+      "sections": [
+        "Journal: Saw this item in my RSS feed tonight. I had forgot about this feature in POAP2RS..."
+      ],
+      "file": "weekly-thing/wt-328.md"
+    },
+    {
+      "issue": 332,
+      "date": "2025-11-16",
+      "url": "https://weekly.thingelstad.com/archive/332/",
+      "subject": "Weekly Thing 332 / Compute, Avatar, Cryptography",
+      "sections": [
+        "Journal: POAP 7487921 at Things 4 Good 2025 Candle Fundraiser."
+      ],
+      "file": "weekly-thing/wt-332.md"
+    },
+    {
+      "issue": 333,
+      "date": "2025-11-23",
+      "url": "https://weekly.thingelstad.com/archive/333/",
+      "subject": "Weekly Thing 333 / Gemini, LangChain, Illusion",
+      "sections": [
+        "Journal: POAP 7496955 at Farewell Ponder.",
+        "Journal: Farewell Ponder and Weekly Thing Forum"
+      ],
+      "file": "weekly-thing/wt-333.md"
+    },
+    {
+      "issue": 334,
+      "date": "2025-11-29",
+      "url": "https://weekly.thingelstad.com/archive/334/",
+      "subject": "Weekly Thing 334 / Privacy, Shopping, Consciousness",
+      "sections": [
+        "Issue",
+        "Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model",
+        "Journal: Having fun preparing for the Things 4 Good 2026 Scent Survey. I have 10 new scen...",
+        "Journal: POAP 7529255 at Things 4 Good -- 2026 Scent Survey."
+      ],
+      "file": "weekly-thing/wt-334.md"
+    },
+    {
+      "issue": 335,
+      "date": "2025-12-06",
+      "url": "https://weekly.thingelstad.com/archive/335/",
+      "subject": "Weekly Thing 335 / Complexity, Fizzy, Soul",
+      "sections": [
+        "Journal: POAP 7529645 at Weekly Thing -- Reddit Revival."
+      ],
+      "file": "weekly-thing/wt-335.md"
+    },
+    {
+      "issue": 336,
+      "date": "2025-12-13",
+      "url": "https://weekly.thingelstad.com/archive/336/",
+      "subject": "Weekly Thing 336 / Culture, Retention, Transmission",
+      "sections": [
+        "Issue"
+      ],
+      "file": "weekly-thing/wt-336.md"
+    },
+    {
+      "issue": 337,
+      "date": "2026-01-18",
+      "url": "https://weekly.thingelstad.com/archive/337/",
+      "subject": "Weekly Thing 337 / Sunrise, Vision, Offline",
+      "sections": [
+        "Patricio Worthalter (POAP): The impossible balance between culture alignment and survival - YouTube",
+        "Journal: Excited to see the MSP airport has been added to the Airport POAP Rally! Follow ...",
+        "Journal: POAP 7550517 at TeamSPS Cyberweek 2025.",
+        "Journal: POAP 7552077 at You've met Jamie Thingelstad in Winter 2026."
+      ],
+      "file": "weekly-thing/wt-337.md"
+    },
+    {
+      "issue": 338,
+      "date": "2026-01-24",
+      "url": "https://weekly.thingelstad.com/archive/338/",
+      "subject": "Weekly Thing 338 / Authority, Humanizer, Left",
+      "sections": [
+        "Yearly Thing 2025"
+      ],
+      "file": "weekly-thing/wt-338.md"
+    },
+    {
+      "issue": 339,
+      "date": "2026-02-01",
+      "url": "https://weekly.thingelstad.com/archive/339/",
+      "subject": "Weekly Thing 339 / OpenClaw, Isometric, Prism",
+      "sections": [
+        "Yearly Thing 2025"
+      ],
+      "file": "weekly-thing/wt-339.md"
+    },
+    {
+      "issue": 340,
+      "date": "2026-02-08",
+      "url": "https://weekly.thingelstad.com/archive/340/",
+      "subject": "Weekly Thing 340 / Moltbook, Frontier, Poster",
+      "sections": [
+        "Yearly Thing 2025",
+        "Journal: POAP 7561204 at The Molt Epoch Begins.",
+        "Journal: POAP 7562288 at SPS Ignite 2026.",
+        "Journal: POAP 7562293 at POAP KINGS Founder."
+      ],
+      "file": "weekly-thing/wt-340.md"
+    },
+    {
+      "issue": 341,
+      "date": "2026-02-15",
+      "url": "https://weekly.thingelstad.com/archive/341/",
+      "subject": "Weekly Thing 341 / Minions, MAX, ReMemory",
+      "sections": [
+        "Journal: POAP 7563511 at SPS MAX Introduction."
+      ],
+      "file": "weekly-thing/wt-341.md"
+    },
+    {
+      "issue": 342,
+      "date": "2026-03-08",
+      "url": "https://weekly.thingelstad.com/archive/342/",
+      "subject": "Weekly Thing 342 / Claude, Otto, Elixir",
+      "sections": [
+        "Flight Path",
+        "Journal: POAP 7570327 at I passed through LaGuardia Airport (LGA) in 2026."
+      ],
+      "file": "weekly-thing/wt-342.md"
+    }
+  ],
+  "excluded": [
+    {
+      "issue": 343,
+      "date": "2026-03-15",
+      "url": "https://weekly.thingelstad.com/archive/343/",
+      "subject": "Weekly Thing 343 / Commune, Chaos, Renaissance",
+      "reason": "only mentions POAP KINGS (Clash Royale clan) or poapkings.com"
+    },
+    {
+      "issue": 345,
+      "date": "2026-04-26",
+      "url": "https://weekly.thingelstad.com/archive/345/",
+      "subject": "Weekly Thing 345 / Codex, Headless, Wikiwise",
+      "reason": "only mentions POAP KINGS (Clash Royale clan) or poapkings.com"
+    },
+    {
+      "issue": 346,
+      "date": "2026-05-03",
+      "url": "https://weekly.thingelstad.com/archive/346/",
+      "subject": "Weekly Thing 346 / Wuphf, Landsat, Eclipse",
+      "reason": "only mentions POAP KINGS (Clash Royale clan) or poapkings.com"
+    },
+    {
+      "issue": 347,
+      "date": "2026-05-10",
+      "url": "https://weekly.thingelstad.com/archive/347/",
+      "subject": "Weekly Thing 347 / Scrum, FilamentHound, DO_NOT_TRACK",
+      "reason": "only mentions POAP KINGS (Clash Royale clan) or poapkings.com"
+    },
+    {
+      "issue": 350,
+      "date": "2026-09-19",
+      "url": "https://weekly.thingelstad.com/archive/350/",
+      "subject": "WT350 — Builders Puzzlers And Agents",
+      "reason": "only mentions POAP KINGS (Clash Royale clan) or poapkings.com"
+    }
+  ]
+}
