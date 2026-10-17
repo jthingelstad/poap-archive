@@ -1,0 +1,3292 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "celo",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "linea",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "arbitrum-one",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "base",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "chiliz",
+    "poaps_owned": 9
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "mantle",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "mainnet",
+    "poaps_owned": 238
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "unichain",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "matic",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chain": "xdai",
+    "poaps_owned": 194934
+  },
+  {
+    "address": "0x018a6cc8f0b0ae5a686f926b62a67bbdcab33c47",
+    "chain": "xdai",
+    "poaps_owned": 62
+  },
+  {
+    "address": "0x01ad75dc5a57680bd83bef6b9ba91dd21520543f",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x024550da7b7ef42dc67d17e726aeddf9894dca65",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x02f99e554545141b2941a00073556021987a3b7f",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x04dfcebab555d2763f6e71461093420f9fcca0aa",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x051a1cfa6681742876c58846e64148c5a6bdc166",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x052164d1277b3e80e4eb4f064a07fe5a4c79d14b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x059bd8adee43f9d02a0e8adde13faca78c6302f2",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x05b3d232163f9725b71a7c430742b51e7adc06ab",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0718f2ce760a279e5bcb8544f232c47340b9b9b2",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x07ab67a36edac0845118b94dcd824d0536818fee",
+    "chain": "xdai",
+    "poaps_owned": 264
+  },
+  {
+    "address": "0x07bfcc9d788bc64658949cb4f2d122e6b96b85ad",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x083481bb19720d79473eb6c1c9632e32f008cbd8",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x084d8e1fb72a105af956ebbf76ce8bd159eed8b9",
+    "chain": "xdai",
+    "poaps_owned": 718
+  },
+  {
+    "address": "0x087a1947768e5b1d0ab8aca3dcfd879d029e80a1",
+    "chain": "xdai",
+    "poaps_owned": 115
+  },
+  {
+    "address": "0x0916a469875b08cc77c86ffc7a49b46fb805b97d",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x097a4680b5207a9a0141384dd156550c7f20687b",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x0a0c48b2e2650e809f7d49df96f0dd6a219fe805",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0a1a0ba6502376bc58437d1f340372133b21dd63",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0a9b58506c7fa2d58e8bf88750b77abb0fe78ef0",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0aa7be66b82129bf8b64ac11f0257eb2ab8fdfff",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x0b81e8dc3137e040ccb99b0e0ae13c987cc3ff56",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x0c880be09496c3a8074c33a167f277b4b5b22563",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0c933b9202fdd4f6f19dc1d21335cf0688141828",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0ca1694672da5490dc24fce3850ef80440eebb6e",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x0d6c208259272127a6c1005f01a00c094bb1b2ee",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0db89e48fc3a1315d45ffaed10d01d8b962f89e8",
+    "chain": "xdai",
+    "poaps_owned": 16
+  },
+  {
+    "address": "0x0dcad49af8d860dad06a3136814ebd39039daabf",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x0de97dca79c4a604ae410555d17d5ac945ead5b7",
+    "chain": "xdai",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0x0dfdacf4286cd5ad9f7dd6f7cdade86aa3c0e7dd",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x103c537785a6a70ba35454d59771444ce5ab2089",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x10d37394560dc3f73f6048c493affbde54c23bc5",
+    "chain": "xdai",
+    "poaps_owned": 53
+  },
+  {
+    "address": "0x1276b37dc0aa21257ac07073cecfe7eb2a7a3934",
+    "chain": "xdai",
+    "poaps_owned": 378
+  },
+  {
+    "address": "0x1295193b00e4f36b45668a6d25405ed87ff79b5b",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0x14452c5869e795e286c8a59821ccfa86c225ed07",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x14a131bae0c4adef659d1b4a0f9a2b47be8de567",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x15b5ac45b211c3090a74757a3183b547567d92f9",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x15c47c48bf468c2ff4513434e3900e558828e210",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x1649228697139b0c67bd7785e366455e4b0331a2",
+    "chain": "xdai",
+    "poaps_owned": 174
+  },
+  {
+    "address": "0x167ad8eb7dee939ae16334b6adc2db91d61582dd",
+    "chain": "xdai",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x16a43674c2602d43d154a8b41db377d261e04e58",
+    "chain": "arbitrum-one",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x16a43674c2602d43d154a8b41db377d261e04e58",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0x16e62652d94b3972cbe6e5f6e1cdd9d085d2db73",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x17201c8e3494f803ea915a44bb2412b54ebe79c5",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x173d0a7a161ea7b0f54e0fa0db8e75168f63a225",
+    "chain": "xdai",
+    "poaps_owned": 31
+  },
+  {
+    "address": "0x17470261d36fd5f3c6d19e750f6f6f7b389df357",
+    "chain": "xdai",
+    "poaps_owned": 48
+  },
+  {
+    "address": "0x177821cbe97b3eb0a20de1fd534bc7160cbcd76e",
+    "chain": "xdai",
+    "poaps_owned": 1972
+  },
+  {
+    "address": "0x17a928546e1a30af7985fa41e598390598d2ba62",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x17c21ca1a74ee5164a5ead5fcb0a909bab09162a",
+    "chain": "xdai",
+    "poaps_owned": 23
+  },
+  {
+    "address": "0x181af19e431cc1738809c6ca5d152a2473d75449",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x183bdb344a07ee3d27f07ac4799a56e4a2fe5439",
+    "chain": "unichain",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x183bdb344a07ee3d27f07ac4799a56e4a2fe5439",
+    "chain": "xdai",
+    "poaps_owned": 2106
+  },
+  {
+    "address": "0x187acb5b7bbed1b08f019707c2cd6ac087a82283",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x18b31c1df5b9b30449733a970235c81eff9b9928",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x196ac500f514361a2a89c2f02aacc104833fb713",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x197e6ff938c80ae931b02f02dac9aee96c54a443",
+    "chain": "xdai",
+    "poaps_owned": 21
+  },
+  {
+    "address": "0x19a7273d9d7edf52256fc6faa32b58b4350f9ba5",
+    "chain": "xdai",
+    "poaps_owned": 246
+  },
+  {
+    "address": "0x19e0cdd5dec5ca682a7f7457f5cf1d51d0e68570",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x1a86c76f5b6b7beb0ec5706264571fc446cfa4ed",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x1ac53075ecfd2234984e8e4ea72b87cc61b9e988",
+    "chain": "xdai",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0x1ba1ff69f03d38af7ef40e3afdc53ad073eb4642",
+    "chain": "xdai",
+    "poaps_owned": 691
+  },
+  {
+    "address": "0x1ba614687d2c9ff129bac68847af5e8807584b4b",
+    "chain": "xdai",
+    "poaps_owned": 14
+  },
+  {
+    "address": "0x1bf0aab93bc834b22c7945333aea19ad9d554998",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x1c67ea28d84fec444204c0f5aeef05e9cef855c4",
+    "chain": "xdai",
+    "poaps_owned": 37
+  },
+  {
+    "address": "0x1cec7bf6903abf12779edfbc44b2c80425a220fe",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x1d47063eabfe94e9b36a7c2eb787d8b5d4aaaace",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x1d5067eb575a2023dba477755e3eae2135cc138b",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x1d65bb0af0c3e17013e138dc412321fe70efc384",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x1e502ff15b4fcaffb23a9c6b0316dc4a455cc597",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x1e8b7539b0da9d993f3151be229d915035e0972f",
+    "chain": "xdai",
+    "poaps_owned": 43
+  },
+  {
+    "address": "0x1efcc3818a8fb893eae371c3b328f1af14c45efc",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x1fd836bc222223ad154d209e90f6c85d95ba896f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x201a6d5f1357f38e0a61b855a21ea73f1d0bba0c",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x203d26a56b716ef6074f55425fe3a112badb740a",
+    "chain": "xdai",
+    "poaps_owned": 14
+  },
+  {
+    "address": "0x2071ecaa96fe9baf30741f2b9e07b686f75a9b6a",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x213eaa5b40926e76a755ab193de937cad3985a56",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x2190eaad50767e6336110e31441efa7fd218217d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x21d4a39efa62a5b3dcaa6bd0e911ad89bbb58204",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x220c51a4310da4b6256b5958a5319bcdd7def8e5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x221a10875344b3ed1ef611771bf86abbfebe16f4",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x22489a6b8807a245f5f403dcf5e99a16866925f0",
+    "chain": "xdai",
+    "poaps_owned": 3301
+  },
+  {
+    "address": "0x227babcfdfb43c46520fd3aba40cee254b3f93d5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x23863e1b154221c43a0498c4db1d1ba832289ba7",
+    "chain": "xdai",
+    "poaps_owned": 485
+  },
+  {
+    "address": "0x23c6648f507d2547385af34d58f983865806fd24",
+    "chain": "xdai",
+    "poaps_owned": 17
+  },
+  {
+    "address": "0x240c0887cb9ede9ee88f3eeaecded95e363c203f",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x240c0887cb9ede9ee88f3eeaecded95e363c203f",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x243a8f1a5301f08d14b336e69c552ca2c6cbd801",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x24dba218e480dfe0a14d73f2f03738271827759c",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x24e76e61727caf24628bf4b7db687279e608f1f8",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x2a19073a06723feb04f35b9ab14370b13df2d228",
+    "chain": "xdai",
+    "poaps_owned": 108
+  },
+  {
+    "address": "0x2b6aa87d375c5a819ff2494a6d0d78250d6317fc",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x2b904f8d7bcb38b610c4867feab36e49478651b5",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x2c1a42e536fc6a5145ce639aa8102053ef60c4f5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x2c6c0a9c47ed280fb9e37d09890fd89c79fb2616",
+    "chain": "xdai",
+    "poaps_owned": 40
+  },
+  {
+    "address": "0x2c993b7f012a97fa84c8e74d9538626022603f9d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x2cf5bc956a7c238beb11d7d6eb7c6aa6aa8b9209",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "mainnet",
+    "poaps_owned": 61
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "celo",
+    "poaps_owned": 39
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "chiliz",
+    "poaps_owned": 17
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "base",
+    "poaps_owned": 204
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "unichain",
+    "poaps_owned": 52
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "arbitrum-one",
+    "poaps_owned": 45
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "mantle",
+    "poaps_owned": 43
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "matic",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "linea",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 67
+  },
+  {
+    "address": "0x2cf84928261f655a47d04ec714d3bedf9375de46",
+    "chain": "xdai",
+    "poaps_owned": 3718
+  },
+  {
+    "address": "0x2d2fa130226bd1fb37716f9cfe56377d21f2e7ef",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x2d7ea68e4fcaf4bd4feb349f3d9cabbd7c8c2035",
+    "chain": "xdai",
+    "poaps_owned": 67
+  },
+  {
+    "address": "0x2dbf5e5f4700e17d8e420e81dd8359cc4dccede0",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x2ef1fdb205dbed8df1b4790f81fa04a97dc86355",
+    "chain": "xdai",
+    "poaps_owned": 36
+  },
+  {
+    "address": "0x3014817cae742e835c78f7b7e50d2139479fceb5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x3296250d7ae01f5a85e1ca3bf66a7f9fb6b8dded",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x333da9c8b2af18a8e63a1569d493aade973e6432",
+    "chain": "xdai",
+    "poaps_owned": 10
+  },
+  {
+    "address": "0x33c60a0c286c7e832d7d8dd07ac8ce837e67233b",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x350b96a4c5e3454204e3f7519d7f9d35af8c87b9",
+    "chain": "xdai",
+    "poaps_owned": 518
+  },
+  {
+    "address": "0x3533cef2f7587dae9e144a81160dbc5aeea8581b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x358ca21a769450cee500082e24d8d364968ad900",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x367bb201e5903b0b8421c315322d12e7e9ada448",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x3748a1b5dfd23e3191407d71a35a465cd8c04132",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x374ee31876ddc0d7e95d8ddc0f7158f6823b06ec",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x379033562359c638afbaa8666bb26948ff113fa7",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x38448fcd1fb7b41dbc578cc8337c7ec33958a244",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x390d36defcab225cb5009edede37e29edefdd490",
+    "chain": "xdai",
+    "poaps_owned": 10
+  },
+  {
+    "address": "0x399e0ae23663f27181ebb4e66ec504b3aab25541",
+    "chain": "arbitrum-one",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x399e0ae23663f27181ebb4e66ec504b3aab25541",
+    "chain": "mainnet",
+    "poaps_owned": 26
+  },
+  {
+    "address": "0x399e0ae23663f27181ebb4e66ec504b3aab25541",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x399e0ae23663f27181ebb4e66ec504b3aab25541",
+    "chain": "xdai",
+    "poaps_owned": 886
+  },
+  {
+    "address": "0x3a8da7aa2b21cb24f20a80aed64a639f54206267",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x3b3540c429e6cec4f63d161ad2788a7d4a9a7b2b",
+    "chain": "mainnet",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x3b3540c429e6cec4f63d161ad2788a7d4a9a7b2b",
+    "chain": "xdai",
+    "poaps_owned": 235
+  },
+  {
+    "address": "0x3bc44db6795adac9935adbf85c87a3fd1f20e29d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x3bcc30797ed9f8472c0c694ce217b89bfaa42f68",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x3c2550ddb9294c21d209999bdaa15f8249d0c161",
+    "chain": "xdai",
+    "poaps_owned": 80
+  },
+  {
+    "address": "0x3c35833d7b45e28d155b1d2ac7bf4ac7bdf610fe",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x3cb1bb0b464f22e847509531e8b0ce0aefeddae6",
+    "chain": "xdai",
+    "poaps_owned": 14
+  },
+  {
+    "address": "0x3cd5f1df895fef99e80dba7afb6a7e10f17758b5",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x3d4dbe9aa7947f97cb552b06753d53e292b2277a",
+    "chain": "xdai",
+    "poaps_owned": 1162
+  },
+  {
+    "address": "0x3dfbf6bccf9bd95626c32362f8ce6a9857b20dc0",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x3f9ea9383cd427e108fa9b5af2e9ae43bf331702",
+    "chain": "xdai",
+    "poaps_owned": 84
+  },
+  {
+    "address": "0x3fea3fc75933b24bce280a26fa581a751fc68bb1",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "chiliz",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "linea",
+    "poaps_owned": 26
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "matic",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "unichain",
+    "poaps_owned": 15
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "celo",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "arbitrum-one",
+    "poaps_owned": 22
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "base",
+    "poaps_owned": 54
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "mantle",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x4124cf34f56fa151e05c91ace550ada0dd5aabd7",
+    "chain": "xdai",
+    "poaps_owned": 982
+  },
+  {
+    "address": "0x42e2ed29cd8fb82c824ee9ccd83ea02753a35c71",
+    "chain": "xdai",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0x4366a41e23e9fedcbbd563cbeb1214abf0e70ce0",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x43998f7fa449270be7f65f1be34177e6d22f7e51",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x43f330d94486b5581369a477ea85a01f177dc6fd",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x44722add35bb2b1a17391221c22b51dc4b57b729",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0x451eb83e5e2aef481d8907ac53c6ad2d40f031f5",
+    "chain": "xdai",
+    "poaps_owned": 10
+  },
+  {
+    "address": "0x45d2df615ce2299c88d529b60cf9c97fda0afff1",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x45fb5c05f8f9ce0fbdd2cae7ea60383842dee779",
+    "chain": "xdai",
+    "poaps_owned": 61
+  },
+  {
+    "address": "0x466573da5fa32e6de78ae17aa0ef2e4129bda432",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x467f229121096d3b82023a0079dbe5895a0534fd",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x4683e76b2a5f2131b95969d895c19c6084a3f15a",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x468a3ccd88ce1258abb09688a5e3a2a2ebf9aad0",
+    "chain": "xdai",
+    "poaps_owned": 14
+  },
+  {
+    "address": "0x46dd7dc34fd7326c8584ecad84a75b2d107b018b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x473c930af0160534561f4be7a320a1d0aefd7efb",
+    "chain": "xdai",
+    "poaps_owned": 24
+  },
+  {
+    "address": "0x47c7fe4084a06aa6f5ee6e14afac191ba5b63dc5",
+    "chain": "xdai",
+    "poaps_owned": 203
+  },
+  {
+    "address": "0x47d03f238c971e5e66ec20ce01daf2d867dea460",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x48311afdef56d1a1cd5c5756a1297926204d0dc5",
+    "chain": "xdai",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x48a8df52085ad5e85b84a5be0d67bd00c0bce929",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x49573e576cee0e3a02b4a5767205d95277de684d",
+    "chain": "xdai",
+    "poaps_owned": 104
+  },
+  {
+    "address": "0x497b116b68c211e0ca009f188d1ad65fc4354b60",
+    "chain": "xdai",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x4b4d82efe11e43e68ef7ea3ed40dcd094d2419dc",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x4b70a35cbf756c93954e3616902e3a8309cfc191",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x4b771e3421d4fbecc6eb67a26af77aca85ef2ac3",
+    "chain": "xdai",
+    "poaps_owned": 968
+  },
+  {
+    "address": "0x4bb02d958ab91f232cdca354fbf3a6be0e7a0593",
+    "chain": "xdai",
+    "poaps_owned": 46
+  },
+  {
+    "address": "0x4bc864acb5b517a775aeb49d9e49660fb320bbb5",
+    "chain": "xdai",
+    "poaps_owned": 88
+  },
+  {
+    "address": "0x4bf14c791e02ef7eef058164d0a7e8a184290d47",
+    "chain": "xdai",
+    "poaps_owned": 426
+  },
+  {
+    "address": "0x4c14f53638ee8642dcef18f7ade281b04b1ae791",
+    "chain": "xdai",
+    "poaps_owned": 77
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "chiliz",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "celo",
+    "poaps_owned": 52
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "linea",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "unichain",
+    "poaps_owned": 10
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "arbitrum-one",
+    "poaps_owned": 29
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "mantle",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "matic",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "base",
+    "poaps_owned": 47
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x4ccc2acdd43811ce928cef7371fc95daf7418631",
+    "chain": "xdai",
+    "poaps_owned": 940
+  },
+  {
+    "address": "0x596ecbddea5ae27d5ab7a43b36084d64f4b5d59e",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x5a05795714f890d72c8ae3b247c54b1e0959ee5c",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5a0e063cd3f0a373c68f608604c6b11870cbbabd",
+    "chain": "xdai",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0x5a2b04289c55ce60c5031f5765e65444aeae46d5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5a45fa1d4ffc1428dc50f9df6fd1643f1012a39d",
+    "chain": "xdai",
+    "poaps_owned": 691
+  },
+  {
+    "address": "0x5a7e5060d3772a445d32018076beb163ef08b5ee",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x5bb6b9b0c4f30dd2198c72077ac0034579538562",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x5bfb8982a97df43c2512f074534fd4f3ac12588b",
+    "chain": "mainnet",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x5bfb8982a97df43c2512f074534fd4f3ac12588b",
+    "chain": "xdai",
+    "poaps_owned": 1713
+  },
+  {
+    "address": "0x5c19d31fcc9f3f1fc10723c1994b5725704075e3",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5c63b361cd0476d3706e1064b112f671de0dc23f",
+    "chain": "xdai",
+    "poaps_owned": 1136
+  },
+  {
+    "address": "0x5cbb07b12de16cc3d3e077711026e291c9d4eb8a",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x5d02128beeb670eab15743e1fd245bb4d9be04bc",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5d15ccfaf11fcbd7d39a0f07c61f47d6b1821f10",
+    "chain": "xdai",
+    "poaps_owned": 10
+  },
+  {
+    "address": "0x5d46ed7405a8a87492cd139fcd38bce60cb5030e",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5d46ed7405a8a87492cd139fcd38bce60cb5030e",
+    "chain": "xdai",
+    "poaps_owned": 1750
+  },
+  {
+    "address": "0x5d6c9f18dceb9c3dc788faf8a4c937fd1bf00d5b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5e025b4b83aaca88826499faf0a394b6441b9f0e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5e6ae0cba9db74812f5fdbf737e10d3321fe216b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5e7b060b10b20b31540dc936cf0713d4ef915185",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x5eb800c5e01ec48480956791b995a459b3084ffb",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x5ee1789184d5460ccecd621df91af4cf8e8dd0ab",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x5fdb1bc7e69a65dcd93ec3bd289acda5f9646ab0",
+    "chain": "xdai",
+    "poaps_owned": 26
+  },
+  {
+    "address": "0x600f3b407531f7aab359e3715f1db8439e3c8bac",
+    "chain": "xdai",
+    "poaps_owned": 36
+  },
+  {
+    "address": "0x6016bf4a547d82b5eeb5bb0bc9f324b5ea0300dd",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x602ba47b74bd65884c3b9a57379aecff4633af99",
+    "chain": "xdai",
+    "poaps_owned": 38
+  },
+  {
+    "address": "0x603ffdb06f7e93bdb6443908a28e54a1e1de79e5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x60a6b55a8e9431f6749019d9b4138b977fdb4529",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x60e9764ea3f944ac1ba1041fcbd4f2bfa8cd1c00",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x61323c5c6696fde1d334fee5f49f1fac8781d0cf",
+    "chain": "xdai",
+    "poaps_owned": 1479
+  },
+  {
+    "address": "0x6152dc338ee80c8ec9004b33f9039d3b0a375de7",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x61a4137afa6324e9aa9a1c8009d8501e410b9319",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x620c3c4523773bc97ac3d129bda00713ff50f65f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x62710847734e3c1fef0210ede27cbee126205f63",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x63320f8aaecd7997724b9fc723764a1492130a9a",
+    "chain": "xdai",
+    "poaps_owned": 21
+  },
+  {
+    "address": "0x63bb84086fa92b190f4972d9c30bbc3d800b3868",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x63bbf213dd3f3fe5bb9e7e1bcbfede413a68a328",
+    "chain": "xdai",
+    "poaps_owned": 32
+  },
+  {
+    "address": "0x63db8497d5125b35541d1aef19957b362047adbd",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x6423c7b836c681393610b2c970bef50411f8e99e",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x6493db62998997134e0451cacd32360858f9a3d6",
+    "chain": "xdai",
+    "poaps_owned": 111
+  },
+  {
+    "address": "0x64d30c442191d3c94be328e05249a011b0450529",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x652467f6e4bfa7e09367023fc0da50147916dcf2",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x664f7068b3cfefb50e31c2f287a1ea741a10f913",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x665213ea3c3692eb236d204f5cccfc3927280cc0",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x6697992e90d83071d27660294b043984266a9ab4",
+    "chain": "xdai",
+    "poaps_owned": 25
+  },
+  {
+    "address": "0x66c591e57efaa2595e89e436d36cd74e95acc764",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x66eaba26e37750b42536cf4838d9427a36369546",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x68423773c7edbd62739850793367af90194684ba",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x69819da121710c7b88c7652a5cdcbd1ae1959870",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x6a28f51b549eec216b7980649c77d5cb9ca2c86e",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x6bae158b49e48b2e877b1423684f932e44c85b6b",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x6c9054e9a403a685157e99031df280d44b2ccb9a",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x6cb8beba4832e86feb006b791a8a386e44674fcd",
+    "chain": "xdai",
+    "poaps_owned": 15
+  },
+  {
+    "address": "0x6cd68252648439be00dc85c0fc84375a435971fb",
+    "chain": "xdai",
+    "poaps_owned": 48
+  },
+  {
+    "address": "0x6cdb55bef9b5a9053608fedee7d67de2539c79ea",
+    "chain": "xdai",
+    "poaps_owned": 101
+  },
+  {
+    "address": "0x6cde17f2e1278b686b2c7dd9da10f94a0ac6c1e4",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x6d4e0a8ec3ebf540c058824b1c81ae30578982d4",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x6d517db579f9c086ef89ff291d29041e446d107f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x6db5d2faafd6d44ab8563e65d9659fde484d163f",
+    "chain": "xdai",
+    "poaps_owned": 486
+  },
+  {
+    "address": "0x6e7f7e7b01642e96893cc7db1d9e499ecfcab439",
+    "chain": "xdai",
+    "poaps_owned": 39
+  },
+  {
+    "address": "0x6ea7965b6e64045f0b709c50383b23eb03ad5b9c",
+    "chain": "xdai",
+    "poaps_owned": 1489
+  },
+  {
+    "address": "0x6ead91d35abac80b47347c923907eaa2c0d9d086",
+    "chain": "xdai",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x6ec4e659062f22e72240ccef3edf0c508e692892",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7082159bf17e309a6192768af847999cff9348a0",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x708f4aa793629911494c502670f551eea6f28444",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x70ae7b53c9c8fb8376285e314c0ab022b627810d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7101a39c053954e3e7fd010fdf3f6ef6bdbcbde0",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7101a39c053954e3e7fd010fdf3f6ef6bdbcbde0",
+    "chain": "xdai",
+    "poaps_owned": 2022
+  },
+  {
+    "address": "0x71ccee431a972bcc51ccd517f461eb2368177e44",
+    "chain": "xdai",
+    "poaps_owned": 81
+  },
+  {
+    "address": "0x720d2389ba2846277f4ba485498be2752e011ddb",
+    "chain": "xdai",
+    "poaps_owned": 10
+  },
+  {
+    "address": "0x7238dd9a62270a12c79ecef792ec60d06f8e8fd6",
+    "chain": "xdai",
+    "poaps_owned": 333
+  },
+  {
+    "address": "0x7370f377359fcdd379845ee24b7847ea6d16c6db",
+    "chain": "xdai",
+    "poaps_owned": 105
+  },
+  {
+    "address": "0x739ad7528eb5ccba3768d3201ba036cf99e05f1a",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x74081c4f2688d9f23e5967dd0393049daf5ffbef",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x74081c4f2688d9f23e5967dd0393049daf5ffbef",
+    "chain": "xdai",
+    "poaps_owned": 35
+  },
+  {
+    "address": "0x743c985ddb6877cb8b4947be230ecb3135628d51",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x745ebcbf5916914fe098c2db546501a206485870",
+    "chain": "xdai",
+    "poaps_owned": 1403
+  },
+  {
+    "address": "0x74839f2ff3bb6f98e5f120329a76a89f52b95dcc",
+    "chain": "xdai",
+    "poaps_owned": 2852
+  },
+  {
+    "address": "0x74aa8093388dc2adc731b19c9ab04b2abfbb2472",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x74dbbcb9c08c51b38510d130d928e1e8c68eda7c",
+    "chain": "xdai",
+    "poaps_owned": 107
+  },
+  {
+    "address": "0x759d652c3576552e38b1a8ae0acc1492530179d5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x760e9b477bb79d7c30ef0b4e64fa5f58393a35c8",
+    "chain": "arbitrum-one",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x760e9b477bb79d7c30ef0b4e64fa5f58393a35c8",
+    "chain": "xdai",
+    "poaps_owned": 35
+  },
+  {
+    "address": "0x765c8be4e333308a6e7e37567e3124c0cc4582b2",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x779c6ea22e9283b946e0685a48696e44d8e95b42",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0x781cca7ec448df41024dbb29347b38d65bec4818",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x785cf44783ec79b7bd548b923f2b5d39f24b15dd",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x786da357c8ad4230cf5d5dd47556079239c36b8f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7881958b392cd412bde979ad9d33d2c9282d4f3d",
+    "chain": "xdai",
+    "poaps_owned": 18
+  },
+  {
+    "address": "0x78f35f56538317fefbd1c11a86c257a89dbb7843",
+    "chain": "xdai",
+    "poaps_owned": 10
+  },
+  {
+    "address": "0x79ce2425fcf5b669354783ff8c2a21d8249de20c",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x7a12d059a269fd50ed64217cd05e0e535c4c6b52",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7a90e511afc46e513ae31d578326894f97bf79e6",
+    "chain": "xdai",
+    "poaps_owned": 98
+  },
+  {
+    "address": "0x7ae3be50449a6452a2a5bc98072d2daf5dba4776",
+    "chain": "xdai",
+    "poaps_owned": 821
+  },
+  {
+    "address": "0x7b15bd6780086ce04ce7f999cea3a5d94b5de3a2",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7be816b109ace1a83d1cc0b6a2632fc2c0a9cc50",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x7c529e74448aeb1e4294b388748495a9a1660f26",
+    "chain": "xdai",
+    "poaps_owned": 22
+  },
+  {
+    "address": "0x7cd65a14c7b61d14f4a1a6795457bac2bea25e14",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7d0d04382c60fb21ea53cc1782a463e2ff76825e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7d25f9dbd49585561b3df7716b51ac429a2bac11",
+    "chain": "xdai",
+    "poaps_owned": 17
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "chiliz",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "celo",
+    "poaps_owned": 13
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "unichain",
+    "poaps_owned": 16
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "linea",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "matic",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "arbitrum-one",
+    "poaps_owned": 29
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "base",
+    "poaps_owned": 93
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 14
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "xdai",
+    "poaps_owned": 397
+  },
+  {
+    "address": "0x7e8608f5893a6a57602a014ab190f7af8069d1e1",
+    "chain": "mantle",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0x7efb778aa768286518f889679f96ec649d62e61c",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x7f800e832f69acba7f2416ef5aff8f0ec8d11dd7",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x7fbf45f75d97a39b75ca14074127dbfd8eff96b1",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x7fd3982a80cf80d6912717e76c2119accf23dc2e",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x8033e390e9bd51583289594910dbf5a30682c955",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x80b2c98637820fb356a55814badba6580ddcd869",
+    "chain": "xdai",
+    "poaps_owned": 36
+  },
+  {
+    "address": "0x80e98ff840f919d6f51ccd0d1c77ce52e349c54d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8176883e978a142c253e47753b00cd3ac2dd1767",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x81d6123d70d5738094f52ec5ae2ca2728f0e7c26",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x823a576a02ffac1fc3185deb261e8a0314a8b1a7",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x8255a6212b0ee2b18dde00a5340172f251ebe917",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x826e9559ec6c1ffc56f6a42a1e3a440a5e78747d",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x82745bb2593710914bd1a71ae033f840b32098f3",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x82e78e8e3ff5c6ebf137f9092c937cbf0cb9c254",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x83792a652ad105138ad998d1230801d9a327ac9e",
+    "chain": "xdai",
+    "poaps_owned": 24
+  },
+  {
+    "address": "0x8384b9eaf0f3928e06132db5dd6f9677b5653646",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x841cf987c723fd76926f6ad0eefbcb0b27fa0403",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x84cf0749936ed375e4528f9c21c393ce5fd660a1",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x84e3e0f568ed68b4f6827fe797444b3d5b1fd8b5",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x84e3e0f568ed68b4f6827fe797444b3d5b1fd8b5",
+    "chain": "xdai",
+    "poaps_owned": 2067
+  },
+  {
+    "address": "0x850e52bd239114a9f8a6991219e7567e25985de2",
+    "chain": "xdai",
+    "poaps_owned": 84
+  },
+  {
+    "address": "0x86168acfa847ec4a077a1fd7569ab7770357f94e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x876ca72fe1c55aaeb9d075c010cf4ab894723951",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x88bd639d6b029596b029c61490f29f57b0bf4a3f",
+    "chain": "xdai",
+    "poaps_owned": 2363
+  },
+  {
+    "address": "0x88eaf971d7babed6d13dd31d0aa7dc5c1f3f7989",
+    "chain": "linea",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x88eaf971d7babed6d13dd31d0aa7dc5c1f3f7989",
+    "chain": "xdai",
+    "poaps_owned": 58
+  },
+  {
+    "address": "0x88fa2596c841633fedac7bb84d604f9f946bda52",
+    "chain": "xdai",
+    "poaps_owned": 36
+  },
+  {
+    "address": "0x897e6081047823fbf57912fa7b378db0a8e7b962",
+    "chain": "xdai",
+    "poaps_owned": 43
+  },
+  {
+    "address": "0x89e1e4bd1fbd15259e98bc8374e170da074b4b5f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8b1d6217a0ebaa5e20ca0141d57b64d2db673332",
+    "chain": "xdai",
+    "poaps_owned": 20
+  },
+  {
+    "address": "0x8b86c59e1782b35dbf52e76500bc3a8f26eb93e6",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8b9a05f50bf3257826b0fefc0af3f58951ad662e",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8b9a05f50bf3257826b0fefc0af3f58951ad662e",
+    "chain": "xdai",
+    "poaps_owned": 262
+  },
+  {
+    "address": "0x8bddaf01aa1820ee8936a9f44965b052f7f63ebc",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8c0d6a3fcb28bddb44683b06bc2872ba97b5431d",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x8c45420a012c9db585a8b7aca874e4c485d7ce24",
+    "chain": "xdai",
+    "poaps_owned": 22
+  },
+  {
+    "address": "0x8d689ef30b6596a9fb1c284fdb61f18d599aad37",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8dc7dde63e261629e124285a80f9743e2c5a2497",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8dc8f339997ef9bcce8cce04d86ea0851820d820",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0x8dfc3d74f2e8458c1f1c5e865024428288927ab5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x8f42d9bd16282f0ec86a2d808c970493f43f108c",
+    "chain": "xdai",
+    "poaps_owned": 122
+  },
+  {
+    "address": "0x8fbca6b7735e991b9269028cbff89edee95fb8d6",
+    "chain": "xdai",
+    "poaps_owned": 28
+  },
+  {
+    "address": "0x8ff8a417c13ed1534457436936f01c5ba60ec5c1",
+    "chain": "xdai",
+    "poaps_owned": 63
+  },
+  {
+    "address": "0x902351b6ceea01c1a5099acd94fbc438bfd57ee7",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x902febd88233ca38ee0dfb3908b05ebac89359bf",
+    "chain": "xdai",
+    "poaps_owned": 19
+  },
+  {
+    "address": "0x90da26f90ed4679d369f3e7476bd6538f13c4bea",
+    "chain": "xdai",
+    "poaps_owned": 30
+  },
+  {
+    "address": "0x910c60c049d833a7fd2f5bda310bbea1c5fa3598",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x910c60c049d833a7fd2f5bda310bbea1c5fa3598",
+    "chain": "xdai",
+    "poaps_owned": 1235
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "celo",
+    "poaps_owned": 17
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "chiliz",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "linea",
+    "poaps_owned": 21
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "unichain",
+    "poaps_owned": 15
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "arbitrum-one",
+    "poaps_owned": 28
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "mantle",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "matic",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "base",
+    "poaps_owned": 50
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x914a7f893c3f7a7c0067fad1312c1bd630009159",
+    "chain": "xdai",
+    "poaps_owned": 452
+  },
+  {
+    "address": "0x914e903adf91e5b8f5d5bcf92a12e036d3c20e36",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x9155881a99c41620edfc889e18ec180cdd567bc6",
+    "chain": "mainnet",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x9155881a99c41620edfc889e18ec180cdd567bc6",
+    "chain": "xdai",
+    "poaps_owned": 1147
+  },
+  {
+    "address": "0x91bd69f83dc09ea25f01394dcc95ccebf1240937",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x922d124d0d3ee885a2834f8cde2e1140fed3fb99",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x9266f5d9c4ebe2f97992078a0db494abdba20324",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x926adca537e330451a2de84fe3fed64c98cdae27",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x9316882f624c0736cffed56142864d405610f83f",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x934745676e8f50f6e5af40bde56f5970cddac9cd",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x935c3cecbcbaf76a161b030d6415be182f7aa73f",
+    "chain": "xdai",
+    "poaps_owned": 17
+  },
+  {
+    "address": "0x942b272ae06d92a0a1e12e0a5aff173583c47b3f",
+    "chain": "xdai",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0x945f8daf1e491e05b81b1c2f326f477c2c587352",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x948a35e94da456608de93aa938bf940ba2b6117d",
+    "chain": "xdai",
+    "poaps_owned": 3064
+  },
+  {
+    "address": "0x952d18fe96afd79854f5b8087d38e5b9808db990",
+    "chain": "xdai",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0x960259659001e9357b69e4242ad6d12bd5103fa3",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x960b1cdd1d608dd1442987e627a3017dc37bea77",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x962136004e91950316b6e7ae9d2711d99394664b",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0x9632908c458a209184abb01a20c8edad22b8cda9",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x963ba08f07e32e496fadc6ea6c1b40806e93dfd9",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x971a00271f6f051e9dd80bde9a038b1de7106f73",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x974eab6e6c36e5c8b9fe1856e575337a39df0ae1",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0x975c44ec3e3c2eefa065d4f41a16a18b5dc737db",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x977b1fc313da13f06d956931c0c434e1264bcb3e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x983ff583b055ab85b8f01ad7fb08c064e4d69661",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x98556b71c60e8c09f3fb960fb32ac577a68ea0ae",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x98acde250219d583f578b932f7b8f87a676fc235",
+    "chain": "mainnet",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0x98acde250219d583f578b932f7b8f87a676fc235",
+    "chain": "xdai",
+    "poaps_owned": 25
+  },
+  {
+    "address": "0x98ea413632d1e31fea8345672a27b3697d07a22b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0x994cc31b8e51309336e836efa2f70d814c067855",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0x99ee69c12b86e71b8a3cda9f45da174bf9ef6b4c",
+    "chain": "xdai",
+    "poaps_owned": 104
+  },
+  {
+    "address": "0x9a64488b2287cff69ec08a3eeb87792be6e14fec",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0x9a8c0e5f9aebad4bfc81903449835d4c36730b62",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa3622f7312d61dc55f3d889084dfc9be96516a36",
+    "chain": "xdai",
+    "poaps_owned": 281
+  },
+  {
+    "address": "0xa38f82506c3ab79816d625ad286574133fc6f4e9",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa38f82506c3ab79816d625ad286574133fc6f4e9",
+    "chain": "xdai",
+    "poaps_owned": 1711
+  },
+  {
+    "address": "0xa44ab1ca4011b63644c652fae9510f8d2cf09b3d",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xa5ccb0d01640b90548b86405c9b081ceda89712e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa62e59a099989cec789bc1c148c624a2b3a0bff3",
+    "chain": "xdai",
+    "poaps_owned": 338
+  },
+  {
+    "address": "0xa6430ebdb3b88896e6eb350798e58f0ebac98cb9",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa64e07f1ab965de0580b5caabc2112343885d467",
+    "chain": "xdai",
+    "poaps_owned": 472
+  },
+  {
+    "address": "0xa674490b20a7bb4cf6720b369041d283db05d184",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0xa69f30a49986c0d0ac2cdd71a5b4884e25f336ec",
+    "chain": "xdai",
+    "poaps_owned": 73
+  },
+  {
+    "address": "0xa6b0bb8f64bc8a35d546e144b40760036a9b5595",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa6b5a8da8778497984df2e98766a35c479940ebd",
+    "chain": "xdai",
+    "poaps_owned": 1049
+  },
+  {
+    "address": "0xa714e37e6630ab39b3b4c12c097fbdd3b4abc160",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa7c49f85f94bc1cd02c429a5491167a4781521cc",
+    "chain": "xdai",
+    "poaps_owned": 529
+  },
+  {
+    "address": "0xa7c4fe5d0c409d6a1618f082857bfe8e781864c4",
+    "chain": "xdai",
+    "poaps_owned": 403
+  },
+  {
+    "address": "0xa7ceed2a76a8c360c2157c5f4886206abbf22623",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xa7e7cf53fe607b1faa786d6f270373e09223399f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa891c4d73710685bd25dc10874726180901a7cd9",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa999d7f52a580e855f7447b0a169900f6045dd6b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xa9bc1f7e3901b9992892d0b20d9c15384de7a4f8",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xab3839008b05c63780068ccc430f6441706d0e30",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xab7a47f88193f98b3dca869a4f996dd54373f3dc",
+    "chain": "xdai",
+    "poaps_owned": 13
+  },
+  {
+    "address": "0xaba128766aa58c63d829ff19666249429b6e4937",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xac1b6608941ab5bdb921f425cafca816bb86c698",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xac9e02d4cac73fc6ddb76926f9409d17d0865868",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xacaea3bf89cdb8d8a471192609d05a41cf6a21d4",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xacd42a6c1ef134dcfb5029565fdcc8b9776da5d8",
+    "chain": "xdai",
+    "poaps_owned": 51
+  },
+  {
+    "address": "0xad102ccb76b7cf3d42d9430fab67fad668f5d4b4",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xadba8ea421f69341a4d631587601f8914e31ee74",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xadcceb990dd03a14e26c7ad858d84b5010df0e64",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xadf19bd8c637b3241e25e0d60ff78f598008ecc0",
+    "chain": "xdai",
+    "poaps_owned": 782
+  },
+  {
+    "address": "0xafd1203f241dfd680a7e7dbd809f134096016b92",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xafd7f9410f18f176a27b218e83d4429bf4dedea3",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb0e9ac9143ede2a4c7d534226545790706c4c7fa",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0xb124941c2b3a53a14337e1615b3806d2282a0139",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb16ab88834f662c442ce385ce113f4ae636c2c14",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xb1aefae5c9494f12fe545b7988faf13cc3e9a8c0",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb1df4db288d7e65f41ac89970d4491ee6ad9424e",
+    "chain": "xdai",
+    "poaps_owned": 54
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "celo",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "unichain",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "matic",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "linea",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "arbitrum-one",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "base",
+    "poaps_owned": 15
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xb2069e806280f95f4bce4212bb067b18fbdcaefe",
+    "chain": "xdai",
+    "poaps_owned": 82
+  },
+  {
+    "address": "0xb22056f8793aaadd110d9ffbecce61e5f7311262",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb260ecc0b2a8b81a15c04c436884229b4a37bc11",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb2b7c9ea611682a8c011c2a94e1a3794581f2eb5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb2f1c2eaf9a9286568e8bad2f9cb1285b6ab292a",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb37061dbb222234df7f1555da778319ab127ac4d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb37384500b2234a35ae4d38c58cedb3708a746f5",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0xb3ac30ea3ec3518222b66796a26f1618c9bd07aa",
+    "chain": "xdai",
+    "poaps_owned": 79
+  },
+  {
+    "address": "0xb4f09204a8fe759b487403b445bef3f0b98cc2a5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb56cbe0aec6b4534029aaf1e6e494f7f8bcc5a8b",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0xb5ae950181376e4f8d3589770ff8d45dff7a0216",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0xb5cedf959577e90ce8af344d564a77127760fd92",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb5cedf959577e90ce8af344d564a77127760fd92",
+    "chain": "xdai",
+    "poaps_owned": 0
+  },
+  {
+    "address": "0xb679527f7c1e63dfe6121a7f24ff50cc18eeb000",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xb684f6fc1d7f6b0cb6c9076d8671943f9a8542af",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0xb6b856dc802bc5bc32a33af7affe4c5cb33e0594",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb6d36963882e8660d7c2900f2a308807f4067f99",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb700a17e2903f0bb095cbd0a346525ceec679e54",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb70d87abff39536be3aea91ef7de7c445f786984",
+    "chain": "xdai",
+    "poaps_owned": 93
+  },
+  {
+    "address": "0xb7e5f47945b95e5ac772e74e6a74c3ff5a49c40a",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb81279b6a02665bcd665bf74e9a54ab9255c3754",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb850ec6de1eac1910f8cae4322cb1f9dace9f5f6",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb90d51221ecfabbd0716b2606a4b0fea875d6e77",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xb9618574f9660459fc2eb113522cd52c43cfd50e",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xb97f40f0b29650149f2012f1ed964ae2def472d0",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xb9959ff5f2119c815dad1206254b7760614a0b54",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xb9a58cd3ffc6a2d7f5f0ffd8aff1ceefc43fe478",
+    "chain": "xdai",
+    "poaps_owned": 2800
+  },
+  {
+    "address": "0xb9d543e33db9efce4c557aac09c76713db0d5dfd",
+    "chain": "xdai",
+    "poaps_owned": 38
+  },
+  {
+    "address": "0xb9fe3ad002642a1c035365e111ba991505bbe295",
+    "chain": "xdai",
+    "poaps_owned": 35
+  },
+  {
+    "address": "0xbaddd873c24faf2228b1c91d1eea46243a82a5c3",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xbaf942b2d2bffca538c0deee3aade5ccdbd66d75",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xbb1ead8dccbb110d4f51ffdab83ed5dfa1a7003c",
+    "chain": "xdai",
+    "poaps_owned": 193
+  },
+  {
+    "address": "0xbd7c925b604be2a613d971b47e7d20986ab02395",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xbe23c4b452d82ad20fe41854b6146001557c56b1",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xbe9285ac482f67bab6e93192a69446cf1d20806a",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xbeae4baed83659e3e352c5a5de7e795a6e6bd08a",
+    "chain": "xdai",
+    "poaps_owned": 17
+  },
+  {
+    "address": "0xbf853fc8db551171a6e153b414ead60974cb510b",
+    "chain": "xdai",
+    "poaps_owned": 6
+  },
+  {
+    "address": "0xc08e88171fcfe71b77ff008c310e845fe022cd19",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc113b93ca4fcca75c4aa953741710631deae9452",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc147614df7eebf5f3196cadd2ffc370a57966766",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc16177ae8bae64dc30e7f44e2d083901768f3549",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xc1e7839a77200dc79d0a4466e83936edec99b7fc",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc211f7cf491803a05741756416e4039e7216be44",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc22d04903d0ae1f3d5e84961fd35269c023d71ae",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc240350b19e7088995660d12631ff3d2d24ded32",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc262b8bcd342ee8aa4a9f0f14e934cc0cac75001",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0xc2eade4885ba465cdfe6c9cd52b9e29521f49405",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc2f6d848d9c84d6bd7e401dab7bc6bcc258a3b78",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0xc3286d05b2953bcdc2c14008d47cfbbbdc3e7d35",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc351556183c95409b310599fc8ebc2fa8a558064",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xc39c1a1bca2f460dad105a50bf94a3027cfc1b95",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xc3aaaecd2a5acd5f7835205b0d9b58a4be8da692",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xc50630478e6020f656bf730cb9bb74c7b916c37c",
+    "chain": "mainnet",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xc50630478e6020f656bf730cb9bb74c7b916c37c",
+    "chain": "xdai",
+    "poaps_owned": 42013
+  },
+  {
+    "address": "0xc62cf43575a8d2bc34c1c19b1138ed6ece5c2d07",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xca46c4180fbf74b0063e1f97af7b30de1e8d9167",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xcab3aeece5f387341e243028f238db9bd9d26825",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xcb43b4b61846fc5d425c19c5e856ae156e599f06",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xcb8d2b7ead54f745e43ef48ad0efc45e20667aaa",
+    "chain": "xdai",
+    "poaps_owned": 175
+  },
+  {
+    "address": "0xcba72d6989b5cb37a389dfe71be9a022b628dc60",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xcc6e2e55d7d0ab1f642c1648931989d93617c665",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xccb310429b3da0a45047a376c5523a75928e5e12",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0xccd6f06d0015046c63ddd755bff74ca1e3d8b153",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xcd1fb86d28298c75aedefcfaef6de859f4f6a08b",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xcdd0b399b13845f5ca9f8fe7469bfa5dc88828a4",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xcdee6b7ae1dce1419ab59cf557aa2a892ab24f62",
+    "chain": "xdai",
+    "poaps_owned": 51
+  },
+  {
+    "address": "0xceed9585854f12f81a0103861b83b995a64ad915",
+    "chain": "arbitrum-one",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xceed9585854f12f81a0103861b83b995a64ad915",
+    "chain": "unichain",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xceed9585854f12f81a0103861b83b995a64ad915",
+    "chain": "matic",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xceed9585854f12f81a0103861b83b995a64ad915",
+    "chain": "base",
+    "poaps_owned": 19
+  },
+  {
+    "address": "0xceed9585854f12f81a0103861b83b995a64ad915",
+    "chain": "xdai",
+    "poaps_owned": 758
+  },
+  {
+    "address": "0xcf5753f0df168487c82a611f11f8ec1ad712c592",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd016229ecf6441a01d284f54827ea0676c299906",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0xd020e138f73e26f7d67e9a85363ba0f136d9b5ca",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd070637ee107265c9686be4cfa74951613b72c2c",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0xd095a47faf7113bd093a8efe814e3791a26846f9",
+    "chain": "xdai",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0xd0aba467baef23aa34be5794c3c383bf2978b000",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd103708fb6977d996e65f1e449376168603f9906",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd120ab24505ee2a12f2db936b093cc4ec1d4e8eb",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xd16f12b1c5b1cfbc14893b620578196021e97e68",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd18ebe019346d3fd191861a0a33312419b1d4797",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd1bc2dbb8ebc0707ed89499116040a3efc3f97f2",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd1bc2dbb8ebc0707ed89499116040a3efc3f97f2",
+    "chain": "xdai",
+    "poaps_owned": 561
+  },
+  {
+    "address": "0xd1de81fea4b76e75c06ee71f0ef0c920463c955a",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0xd257e82f66d43ce44d733cda0989e117a61c5ccb",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd33e0febc88a13559bb862cdce25c211cdf5a634",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xd3539c67049c9716d0af2f4b051c9b78ed54da12",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0xd418eb84e01ca34ca49a405db13afc6b70ef8790",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd45e38716cad183e18ba2c112b9f91ea8991266b",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd507ca618807d24dd3d505e8056cf604654a8c74",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd571d89a27284b5afc1b9fbb98e6a13f6eec36e7",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xd57ad40e68859bbf6309a5e97d2c99845d9ba3c2",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xd691460b22d3185f25749feb10a4fd25cbe206af",
+    "chain": "xdai",
+    "poaps_owned": 36
+  },
+  {
+    "address": "0xd6ff63e080a8eef554ba928af1d2f1a3e228b1da",
+    "chain": "xdai",
+    "poaps_owned": 23
+  },
+  {
+    "address": "0xd7308e41f520f692a48fffa78511fed2d9d04e2f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd75a10d5c64d306c1073636ec076c0a0cbcfaab5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xd8619052e3e0360edfbb493b61205a69aa94cd29",
+    "chain": "xdai",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0xda47699536661156d1f892c5d71b84ea7882065c",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xda9e4c69afe23b689eba329ce6abd49cb574a290",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xdae61a952c41f101eedda1fe041f0497733ce98c",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xdc61bca265fd7315f074508873524c38197487b7",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xde1c1a6f1a1bc7bb97306ea2c2b41f5f06471652",
+    "chain": "xdai",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0xde51cb75b2b9453346a5738242d1c58419b76aec",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xde6a14fc3ae15d3ab56216702a572ee0af48c3bf",
+    "chain": "xdai",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0xde8917f1477d7afbac6b8c2a874a12c1a93a995d",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xdef0ed0724d9a1d3aac2dafb767fbf8d09a3f2b6",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xdf66e75532c74de4fef0b145e59cf827bde4bd1b",
+    "chain": "xdai",
+    "poaps_owned": 22
+  },
+  {
+    "address": "0xdf6ce7dd1fe145ceb3e03516494680d43b89c87c",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xdf823f05ec88a26d4a200ee519a1c66b631c4877",
+    "chain": "xdai",
+    "poaps_owned": 344
+  },
+  {
+    "address": "0xdff306351d5f7c1fff063619b1ba1ae8746a187e",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0xdff5fec0c5211e665758d861b3a84dc9917458d9",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe011a059d770df8b48871739540365f15fd7abdb",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe0be49ed9e2f3c300b3d3f4bf3bb89d3708ba2c8",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe19469b36688946889a61ea6b12ccb86d5ad5e47",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe1a39ee193c2adbce16216bfe304166da086a3a6",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe1a39ee193c2adbce16216bfe304166da086a3a6",
+    "chain": "xdai",
+    "poaps_owned": 325
+  },
+  {
+    "address": "0xe2171fe858a6a6e363725884aefae39d4c02c912",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe23d4acb057766a4bf2feb88da70ec0861abdaef",
+    "chain": "xdai",
+    "poaps_owned": 19
+  },
+  {
+    "address": "0xe2936b1693c3e04c92be5cbbc1c1e6f2e4ef2d26",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe2c9e5295739a6e77b5b2cf54cc0d5da1e9b1b0f",
+    "chain": "xdai",
+    "poaps_owned": 14
+  },
+  {
+    "address": "0xe3513ca5df3b6a08b954407716005eaf60337eda",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe3d265bd78179ec592bda112b7f3d2e2062929c5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe4383d924e3783268611c3cd842a5ae8cfb6db00",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xe489eb4899a9ef058200158c1fabf1b99d83587d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe48e6185bc593949fdda688d93531bae1c155c80",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe4d1f9111dcc90fc00f3f053e470093933b691f8",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe54963c726fba349020e2c9117e624f35bbcc668",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xe57ec07f26a5bfb10d01588d2e6eecc345786cba",
+    "chain": "mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe5bba4805cd4aaa5c6dfa6bca6349f93de57ea01",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe5c2fa9d5cc35d7f67aeefba9a826ac75007a66e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe5dffdbabdaecf6b201ffb4f7933afa2bea7f854",
+    "chain": "xdai",
+    "poaps_owned": 85
+  },
+  {
+    "address": "0xe626e8ca82603e3b44751f8562b5ed126d345140",
+    "chain": "xdai",
+    "poaps_owned": 1145
+  },
+  {
+    "address": "0xe62eea99baf02bb501285989ac1187ec79ae5bdd",
+    "chain": "xdai",
+    "poaps_owned": 15
+  },
+  {
+    "address": "0xe692d0c403828db6cc6c6425f6bf49e7bab5f571",
+    "chain": "xdai",
+    "poaps_owned": 129
+  },
+  {
+    "address": "0xe697eaf87e1158834b5c7aa98febb4677210638d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe761d4f94520e4f6e12c13c1c55fb9589e35b843",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe768687cf9ff40a1319f4847d3afd5b9fb6a4700",
+    "chain": "base",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe768687cf9ff40a1319f4847d3afd5b9fb6a4700",
+    "chain": "xdai",
+    "poaps_owned": 62
+  },
+  {
+    "address": "0xe7e0129db0284a35cf46882f58e4d1bfc0ab344d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe7f614fcb5dc5d6bda8d2c046a36b2a188a8bf6e",
+    "chain": "xdai",
+    "poaps_owned": 109
+  },
+  {
+    "address": "0xe8d7974237687a2ff12c15d89bca767f7ac6b73e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe8eb6ab2cdebda21a5b58abfcc2f1fbc82ca8ce4",
+    "chain": "xdai",
+    "poaps_owned": 42
+  },
+  {
+    "address": "0xe916c035a90de7927cf4d83ba10c44d0f799c599",
+    "chain": "xdai",
+    "poaps_owned": 9
+  },
+  {
+    "address": "0xe96f10c704669f0adae7b18c6a163229151e42dd",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xe9c8a71fc79286d0a4d290604e6de45d4c261c0c",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xea1bf2a0b45ed328a52a4aa3744669f6ae525866",
+    "chain": "xdai",
+    "poaps_owned": 9
+  },
+  {
+    "address": "0xeb0d1ec4d5118af05878e029714f0424b7076b52",
+    "chain": "mainnet",
+    "poaps_owned": 0
+  },
+  {
+    "address": "0xeb0d1ec4d5118af05878e029714f0424b7076b52",
+    "chain": "xdai",
+    "poaps_owned": 240
+  },
+  {
+    "address": "0xeb63f09b3a6feff24427f935ade541c1f3b1d927",
+    "chain": "xdai",
+    "poaps_owned": 39
+  },
+  {
+    "address": "0xeb70d95e581e473e0f5b3cabfb7b0eda73fefc56",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xebad63223838a9739fb379891de115f5f6ee19f6",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xec0ddc1d0f813c0daa95c826547290a201479f53",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xec383891b5f272c934e14a5a77a5a7601c1eae70",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xec599218cd606780ab9e6ffb9b8a8cd0b5155776",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xec8d153e7949f6c81076300f93b9fe9a671e75cb",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "chiliz",
+    "poaps_owned": 9
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "base",
+    "poaps_owned": 67
+  },
+  {
+    "address": "0xfabbdfc4d456b53b0118e3843cfd4aea7c228ae3",
+    "chain": "base",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "unichain",
+    "poaps_owned": 18
+  },
+  {
+    "address": "0xff141bfc450c57ad84ebafbd09ffa94a268a7aae",
+    "chain": "unichain",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xfabbdfc4d456b53b0118e3843cfd4aea7c228ae3",
+    "chain": "unichain",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "celo",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "mainnet",
+    "poaps_owned": 106
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "arbitrum-one",
+    "poaps_owned": 48
+  },
+  {
+    "address": "0xff141bfc450c57ad84ebafbd09ffa94a268a7aae",
+    "chain": "arbitrum-one",
+    "poaps_owned": 15
+  },
+  {
+    "address": "0xfabbdfc4d456b53b0118e3843cfd4aea7c228ae3",
+    "chain": "arbitrum-one",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0xf57eb55c3b138e833fc02a66c6bab0c874e474d6",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "mantle",
+    "poaps_owned": 12
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "matic",
+    "poaps_owned": 11
+  },
+  {
+    "address": "0xf1eab4a72d2fcf2ac2e11e65fa127f6107ea96fa",
+    "chain": "base",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "linea",
+    "poaps_owned": 19
+  },
+  {
+    "address": "0xfa4a8884c415e39b6678841e2bfa68caeaad5567",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xff141bfc450c57ad84ebafbd09ffa94a268a7aae",
+    "chain": "base",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf466fe837bd6535f1407947298e1f4972128dfc5",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf243d0bd61286e7122d52560a2d5df4f4900ae6e",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 7
+  },
+  {
+    "address": "0xff141bfc450c57ad84ebafbd09ffa94a268a7aae",
+    "chain": "apechain-mainnet",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf2c23a350a0db50571a3c256a214f214207850bb",
+    "chain": "xdai",
+    "poaps_owned": 43
+  },
+  {
+    "address": "0xf1bc9d69b390483007774d7b1dcf468954b43386",
+    "chain": "xdai",
+    "poaps_owned": 53
+  },
+  {
+    "address": "0xf5eeb6a0ee83dc1a57064b1b129ac2476afb51c7",
+    "chain": "xdai",
+    "poaps_owned": 31
+  },
+  {
+    "address": "0xfaa45382772ffb01b8e191be9e51351eb79edc21",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf1eab4a72d2fcf2ac2e11e65fa127f6107ea96fa",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0xf4a6a2f446d59f6ce84f86925547d21725d84223",
+    "chain": "xdai",
+    "poaps_owned": 246
+  },
+  {
+    "address": "0xf9d470d71b8ff06bb3e745e5d2289b6689d1ace9",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf50c0f259ecf9d3f2b63ac9df398fbcfcffe84a6",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf1ec257bd4c167e306331c92cef667a2aefa18d3",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xfd64e8e4e7ddec10fd7b1667f3409307dcb5d1c0",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0xf6b756713a5adede0fead9429f77548bd2a40c39",
+    "chain": "xdai",
+    "poaps_owned": 15
+  },
+  {
+    "address": "0xf7395bf16f37f75ca36168aa8571bf6bf6da387a",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xfeabdb876def1b55bbdd4c4f2e0ba5a599b58649",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf4e8ccc942ea992058e81c77c93fc52cf63b11df",
+    "chain": "xdai",
+    "poaps_owned": 3
+  },
+  {
+    "address": "0xf67cf67ec4345bd6755a9e3c7b8f4f0fc2c1ed2f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf45a2d621e0f14738530cc63a8970715414ff47d",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0xff3538736a888e23a85a67e24378abede00fa2f7",
+    "chain": "xdai",
+    "poaps_owned": 4
+  },
+  {
+    "address": "0xf3fd8895eebe31aef9262e08b513840da7454e96",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xfe72797cc3edf7574eee19e15f00cdfedb383f32",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xfaddee983540e148b7d2e864d3134e79a111e156",
+    "chain": "xdai",
+    "poaps_owned": 26
+  },
+  {
+    "address": "0xfd970bfad6147bbf21dbaf3abc20089885b75d64",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf9db2e3341f91df19c8f0c8c49725e886408bc6a",
+    "chain": "xdai",
+    "poaps_owned": 33
+  },
+  {
+    "address": "0xfc3dda7c592ec4ebc77d4f3f39590047331182b2",
+    "chain": "xdai",
+    "poaps_owned": 2
+  },
+  {
+    "address": "0xfb7c4eda90c12e96c92604eddd6f062d9fa06b09",
+    "chain": "xdai",
+    "poaps_owned": 5
+  },
+  {
+    "address": "0xfe466a369a41028713268aefe76d60228826ce3f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xfe610f14973d6cc1fb06e5220263accf08722154",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xfabbdfc4d456b53b0118e3843cfd4aea7c228ae3",
+    "chain": "xdai",
+    "poaps_owned": 2364
+  },
+  {
+    "address": "0xf5b46548eb488e751ff457f8528626a2130eb634",
+    "chain": "xdai",
+    "poaps_owned": 20
+  },
+  {
+    "address": "0xf735980fb904c3745f4c26eb8621bfa4fb74988d",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xfca1127d3f079d46dff22cf502cfe204c494a80f",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf6b6f07862a02c85628b3a9688beae07fea9c863",
+    "chain": "xdai",
+    "poaps_owned": 2902
+  },
+  {
+    "address": "0xff141bfc450c57ad84ebafbd09ffa94a268a7aae",
+    "chain": "xdai",
+    "poaps_owned": 252
+  },
+  {
+    "address": "0xf1c562ebc3ab6221a1f0e10a94a1e484efd1508e",
+    "chain": "xdai",
+    "poaps_owned": 102
+  },
+  {
+    "address": "0xf2a5f46c4afb488c479ad3c188747758aac7d730",
+    "chain": "xdai",
+    "poaps_owned": 8
+  },
+  {
+    "address": "0xf53c6e731b8d627d0b7b2fa9cc27da373f0c7435",
+    "chain": "xdai",
+    "poaps_owned": 1
+  },
+  {
+    "address": "0xf6035954f4596e052276e8b2a43bda3b6f305a30",
+    "chain": "xdai",
+    "poaps_owned": 1405
+  }
+]
