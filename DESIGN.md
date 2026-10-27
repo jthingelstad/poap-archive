@@ -334,10 +334,11 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
 
 ## 11. Hosting and permanence
 
-- **Domain.** Decided: `poap.thingelstad.xyz`. DNS for `thingelstad.xyz` is Namecheap
-  BasicDNS with DNSSEC (see `thingelstad.xyz/DNS.md`); the site needs one CNAME `poap` to
-  the CloudFront hostname and one ACM validation CNAME, kept for renewal. Jamie makes DNS
-  changes.
+- **Domain.** Decided: `poap.thingelstad.xyz`. DNS for `thingelstad.xyz` is a Route 53 zone
+  (moved from Namecheap BasicDNS on 2026-10-27; see `thingelstad.xyz/DNS.md`); the site
+  needs one CNAME `poap` to the CloudFront hostname and one ACM validation CNAME, kept for
+  renewal. Both are code in the `dns-thingelstad-xyz` stack in `projects-sysadmin`,
+  changed by pull request and deploy.
 - **Stacks**, following nnxyz: `poap-storage` (private archive bucket, public-through-
   CloudFront web bucket, both versioned and encrypted), `poap-certificate` (us-east-1),
   `poap-site` (distribution, cache policy, access log, 5xx alarm to the family topic),
