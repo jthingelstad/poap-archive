@@ -348,18 +348,20 @@ and whether it mattered, what the 639 people mean, and what should replace it. J
   640, 1200), `records/` (per-drop JSON downloads). Published once with `If-None-Match: *`,
   immutable cache headers, recorded in `media.json`.
 - **Tinylytics.** Registered 2026-10-17: site 3838, "POAP Capsule",
-  `https://poap.thingelstad.xyz`. The embed, supplied by Jamie, is a public browser
-  identifier, not a credential:
+  `https://poap.thingelstad.xyz`. The site ID, supplied by Jamie, is a public browser
+  identifier, not a credential. Since 2026-11-02 Tinylytics serves one script for every
+  site, keyed by `data-site`, with no query parameters:
 
   ```html
-  <script src="https://tinylytics.app/embed/nQYJ5URe6Y3umkYW7HQN.js" defer></script>
+  <script defer src="https://tinylytics.app/js/script.js" data-site="nQYJ5URe6Y3umkYW7HQN"></script>
   ```
 
   Load it as nnxyz does: one script in the shared layout, only when
   `PUBLIC_TINYLYTICS_ENABLED=true` and the page is on the production hostname, so local
   review, CloudFront preview URLs and browser tests send nothing. Kudos per drop with
-  `?kudos=custom`, `class="tinylytics_kudos"` and `data-path` set to `/drops/<id>/`, private
-  counts. Copy this into the site repo as `design/tinylytics.md`.
+  custom kudos set in the site's Tinylytics settings (once `?kudos=custom` on the old
+  `embed/nQYJ5URe6Y3umkYW7HQN.js` URL), `class="tinylytics_kudos"` and `data-path` set to
+  `/drops/<id>/`, private counts. Copy this into the site repo as `design/tinylytics.md`.
 - **Permanence.** Submit to the Wayback Machine at launch. The archive bucket keeps the
   export bundle by SHA-256 as nnxyz keeps its collection. The built site is also a folder
   that works from `file://` because every page is static.
