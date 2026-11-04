@@ -20,8 +20,8 @@ for a browsable gallery.
 | `compass/collector_stats.json` | Per-wallet, per-chain token counts | Compass |
 | `created-drops/artwork/` | Original artwork for the 130 drops Jamie created | `assets.poap.xyz` |
 | `snapshot/jamie-subset.sqlite` | Jamie's rows from the community snapshot: drops, tokens, and email-reservation counts (316 reserved-but-never-minted tokens across 91 of Jamie's drops) | poaparchive.com |
-| `snapshot/archive.zip` | **Not in git.** The full poaparchive.com snapshot (15.9 GB, SHA-256 verified): every drop and its artwork as of 2026-08-20 | https://poaparchive.com |
-| `snapshot/poap.sqlite` | **Not in git.** The 1.5 GB database extracted from the zip | poaparchive.com |
+| `snapshot/archive.zip` | **Not in git or on disk**, in `s3://thingelstad-archive-999153317627/poap/snapshot/`. The full poaparchive.com snapshot (15.9 GB, SHA-256 verified): every drop and its artwork as of 2026-08-20 | https://poaparchive.com |
+| `snapshot/poap.sqlite` | **Not in git or on disk**, in `s3://thingelstad-archive-999153317627/poap/snapshot/`. The 1.5 GB database extracted from the zip | poaparchive.com |
 | `writing/posts/` | 390 thingelstad.com posts about POAP (2021-06 to 2026-07), full HTML, indexed in `writing/posts.json` | Micro.blog category feeds |
 | `writing/sites/612.poapchallenge.com/` | Mirror of the 612 POAP Challenge site | wget |
 | `writing/thingelstad-lists-poap-events.html` | Jamie's "POAP Events" list page | thingelstad.com |
@@ -37,7 +37,7 @@ for a browsable gallery.
 | `capsule/index.html` | "POAP: Proof of a Person", prototype of the two-sided timeline from `DESIGN.md`: collected on the left, issued on the right, writing and POAP milestones in the middle, by year. Uses only Jamie's own data | built by `scripts/build_capsule.py` |
 | `scripts/` | The scripts that made all of this, so it can be re-run while the sources live | |
 
-The full snapshot zip is also in `s3://poap-archive-999153317627-us-east-1/snapshot/` (private, versioned).
+The full snapshot lives in `s3://thingelstad-archive-999153317627/poap/snapshot/` (private, versioned, Glacier Instant Retrieval, nothing expires). The zip is also in `s3://poap-archive-999153317627-us-east-1/snapshot/` (private, versioned).
 
 ## Wallets
 
