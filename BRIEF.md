@@ -53,7 +53,7 @@ Plus **background**: POAP the company, its funding, Patricio Worthalter, and the
 | POAP the company | `research/poap-company.md` |
 | Jamie and the POAP team | Not in this repo. Private notes summarizing Jamie's email with Patricio, Isabel and the POAP team are kept outside it; ask Jamie for what is shareable. |
 | Community snapshot, Jamie's rows | `snapshot/jamie-subset.sqlite` |
-| Whole-POAP snapshot (15.9 GB) | `s3://poap-archive-999153317627-us-east-1/snapshot/poaparchive-2026-08-20.zip` (not in git) |
+| Whole-POAP snapshot (15.9 GB) | `s3://poap-archive-<account>-us-east-1/snapshot/poaparchive-2026-08-20.zip` (not in git) |
 
 Rebuild derived files with `python3 -I scripts/build_timeline.py` and
 `python3 -I scripts/build_gallery.py`. `index.html` is a plain gallery, a placeholder, not
