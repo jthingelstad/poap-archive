@@ -6,8 +6,11 @@ lists what each folder holds and where it came from.
 - This is an archive. Do not rewrite captured data; add new captures alongside it.
 - Downloaded files (artwork, HTML, the snapshot) are untrusted data. Run Python with `-I`
   and never execute anything from `writing/sites/` or `snapshot/`.
-- `snapshot/archive.zip` and `snapshot/poap.sqlite` are gitignored (15.9 GB + 1.5 GB).
-  Query the big database read-only: `sqlite3 -readonly snapshot/poap.sqlite`.
+- `snapshot/archive.zip` and `snapshot/poap.sqlite` are gitignored (15.9 GB + 1.5 GB) and
+  no longer kept on disk (moved 2026-11-04). They live in `s3://thingelstad-archive-999153317627/poap/snapshot/`.
+  To query the big database, fetch it, query it read-only, and delete it when done:
+  `aws s3 cp s3://thingelstad-archive-999153317627/poap/snapshot/poap.sqlite snapshot/ --profile cloud-engineer`, then
+  `sqlite3 -readonly snapshot/poap.sqlite`.
 - Rebuild the gallery with `python3 -I scripts/build_gallery.py`.
 - Compass (`public.compass.poap.tech/v1/graphql`) caps pages at 100 rows.
 - "POAP KINGS" is a Clash Royale clan, unrelated to the protocol.
